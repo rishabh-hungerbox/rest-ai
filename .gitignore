@@ -1,0 +1,20 @@
+# Ignore output CSV files
+_output_*.csv
+_input_*.csv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.DS_Store
+.env
+.venv
+env/
+venv/ 
+
+# Vector Index and Other Databases
+default.sqlite
+.DS_Store
+menu_mapping_index/
