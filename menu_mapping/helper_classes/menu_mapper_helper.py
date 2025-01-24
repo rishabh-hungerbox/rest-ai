@@ -3,9 +3,7 @@ import json
 from llama_index.llms.openai import OpenAI
 from llama_index.core import Settings, VectorStoreIndex, Document, StorageContext, load_index_from_storage
 import os
-from datetime import datetime
 from llama_index.embeddings.openai import OpenAIEmbedding
-from trulens.core import TruSession
 from dotenv import load_dotenv
 from jsonschema import validate
 from llama_index.core.node_parser import SentenceWindowNodeParser
@@ -13,6 +11,7 @@ import csv
 import random
 import unicodedata
 import re
+from menu_mapping.helper_classes.llm_helper import LLMHelper
 
 
 class MenuMapperAI:
@@ -37,9 +36,9 @@ class MenuMapperAI:
         self.prompt = self.fetch_prompt()
 
     def execute(self, child_menu_name):
-        return self.generate_response_debug(child_menu_name)
-        
-            
+        item_name = ItemSpellCorrector('gpt-4o-mini').correct_item_spelling(child_menu_name)
+        return self.generate_response_debug(item_name)
+
     @staticmethod
     def normalize_string(s: str) -> str:
         s = s.lower()
@@ -48,7 +47,7 @@ class MenuMapperAI:
         s = " ".join(s.split())  # Remove extra whitespace
         return s
     
-    def process_response(self, response, item_id_map, threshold=0.2) -> list:
+    def process_response(self, response, item_id_map, threshold=0.75) -> list:
         relevant_items = json.loads(str(response).strip("```json").strip("```"))
         filtered_items = []
         for item in relevant_items:
@@ -225,6 +224,20 @@ class MenuMapperAI:
         print("response: ", response)
         relevant_items = self.process_response(response, self.item_id_map)
         return relevant_items
+
+
+class ItemSpellCorrector:
+    def __init__(self, model):
+        self.model = model
+
+    def correct_item_spelling(self, item_name):
+        prompt = """correct the spelling of this Indian food item, "%{item_name}"
+                    reply with the exact answer only
+                    keep definitive spellings for indian food items like 'bhaji', 'chapati', 'paratha' and so on
+                    Note: Things like 'parotta' should not get converted to 'paratha'
+                    """
+        name = LLMHelper(self.model).execute(prompt.format(item_name=item_name))
+        return MenuMapperAI.normalize_string(name)
 
 
 ai = MenuMapperAI(prompt_id=4, model="gpt-4o", embedding="text-embedding-3-small", similarity_top_k=10, benchmark_on=False, debug_mode=False, sampling_size=50)
