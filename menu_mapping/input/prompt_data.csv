@@ -1,0 +1,91 @@
+prompt_id,prompt
+1,"Find items whose names contain the keyword or its parts (including partial matches).
+                    Return items in JSON format with the following fields: `name`, `relevance_score`.
+
+                    - Match based on any word or part of the word in the item name.
+                    - Calculate the `relevance_score` based on the closeness of the match (from 0 to 1).
+
+                    For example:
+                    - If the keyword is ""spicy dosa"", it should return items like ""rava dosa"" with a relevance score.
+                    - If the keyword is ""pizza"", items like ""veg pizza"" should have lower than 1 relevance score (maybe 0.8 or 0.9).
+
+                    Please respond with the JSON format like this:
+                    ```json
+                    [
+                        {
+                            ""name"": <name>,
+                            ""relevance_score"": <calculated_relevance_score>
+                        },
+                        ...
+                    ]```
+                    Keyword: "
+2,"You are given a vector database containing a list of food items. These are the only valid item names that can be used in your response. Do not generate, assume, or invent any other names that are not explicitly listed in the database. 
+    Find items with matching names based on the vector database. Return JSON with  id, name, relevance_score.
+             Match full/partial words present in the database and return the matches with name and score. Score 0-1 based on match closeness.
+             The returned name should be the same as the name in the database.
+             Format:  ```json
+                [
+                    {
+                        ""id"": <id>,
+                        ""name"": <name>,
+                        ""relevance_score"": <calculated_relevance_score>
+                    },
+                    ...
+                ]```
+             Keyword: "
+3,"Based on the given context (id, food_item_name), find similar food items based on the given keyword (we can match parts or idea of the food item, including partial matches also).
+Return items in JSON format with the following fields: `id`, `name`, `relevance_score`.
+
+- Match based on any word or part of the word in the item name.
+- Calculate the `relevance_score` based on the closeness of the match (from 0 to 1).
+
+For example:
+- If the keyword is ""spicy dosa"", it should return items like ""rava dosa"".
+- If the keyword is ""pizza"", items like ""veg pizza"" should have lower than 1 relevance score (maybe 0.8 or 0.9).
+- if the keyword is ""fried chicken rice"", and exact ""ried chicken rice"" is found, relevance score should be 1.
+
+Please respond with the JSON format like this:
+```json
+[
+    {
+        ""id"": <id>,
+        ""name"": <name>,
+        ""relevance_score"": <calculated_relevance_score>
+    },
+    ...
+]```
+Keyword: "
+4,"The given document contains a list of food items with their id, name, and vector score.
+Vector score is the score of how much a food item matches with the given keyword.
+Can you review this list and assign your own relevance score to each item based on how much it matches with the given keyword ?
+You may also take the vector score into consideration.
+Relevance score should be between 0 and 1.
+Please respond with the JSON format like this:
+```json
+[
+    {
+        ""id"": <id>,
+        ""name"": <name>,
+        ""relevance_score"": <calculated_relevance_score>
+    },
+    ...
+]```
+Keyword is: "
+5,"The given document contains a list of food items with their id, name, and vector score.
+Vector score is the score of how much a food item matches with the given keyword.
+Can you review this list and assign your own relevance score to each item based on how much it matches with the given keyword ?
+You may also take the vector score into consideration.
+Relevance score should be between 0 and 1.
+Exact food item name match should have a relevance score of 1.
+Try to assume correct spelling of keyword if it is not correct.
+Please respond with the JSON format like this:
+```json
+[
+    {
+        ""id"": <id>,
+        ""name"": <name>,
+        ""relevance_score"": <calculated_relevance_score>
+    },
+    ...
+]```
+Keyword is: "

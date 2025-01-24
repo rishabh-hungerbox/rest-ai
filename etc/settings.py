@@ -13,6 +13,8 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 import os
 from dotenv import load_dotenv
 
+
+load_dotenv()
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -69,8 +71,34 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+APP_ENV = os.environ.get('APP_ENV')
+
 REST_FRAMEWORK = {
     'DEFAULT_RENDERER_CLASSES': ('rest_framework.renderers.JSONRenderer',),
     'EXCEPTION_HANDLER': 'etc.exception_handler.ExceptionHandler',
     'UNAUTHENTICATED_USER': None,
+}
+
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    "formatters": {
+        "zoho-adapter": {
+            "format": "{levelname} {asctime} {module}:{filename}:{lineno} {message}",
+            "style": "{",
+        }
+    },
+    'handlers': {
+        'file': {
+            'level': 'INFO',
+            'class': 'logging.FileHandler',
+            'filename': os.environ.get('LOG_FILE_PATH'),
+            'formatter': 'zoho-adapter',
+        },
+        'console': {'class': 'logging.StreamHandler', 'formatter': 'zoho-adapter'},
+    },
+    'root': {
+        'handlers': ['file', 'console'] if APP_ENV == 'local' else ['file'],
+        'level': 'INFO',
+    },
 }

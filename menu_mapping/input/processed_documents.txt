@@ -1,0 +1,4963 @@
+ID,NAME
+9931,appe platter 4pc veggie appe 2pc butter appe 2pc paneer appe pc pizza appe
+2805,11jan prod
+716,2 nos chappathi phulka with side dish 150 gms
+745,2 nos idly with medhu vada
+749,2 nos paratha with kurma
+156,20 20 cookies butter cashew 80 gm mrp 10
+717,3 nos chappathi phulka with side dish 200 gms
+744,3 nos idly with medhu vada
+748,3 nos paratha with kurma
+9473,4 cut banana chips 100gms
+9474,4 cut banana chips 200gms
+9537,4700bc himalayan salt caramel popcorn pouch 60g
+9543,4700bc sundried tomato corn chips pouch 55g
+294,5 star
+379,5 star 20rs
+468,5 star 25 gms 10
+465,5 star 40 gms 20
+460,5 star 3d
+7822,5 star premium non veg buffet meal
+7818,5 star premium non veg meal
+7820,5 star premium non veg snack
+7821,5 star premium veg buffet meal
+7817,5 star premium veg meal
+7819,5 star premium veg snack
+420,5 star 45 grms 30
+661,7up 20
+960,7up 35
+115,7up 25 rs
+142,7up rs25
+374,7up tin 30
+4781,abc juice
+1659,amul kool elaichi rs 22
+3318,aam ka panna
+5781,aam sandesh
+8199,aamras
+7010,aappam
+2780,aava water bottle 22011010 65
+2690,acme jujube rainbow 25
+2180,act ii butter 144
+2181,act ii mw popcorn diet popcorn zero added fat 27
+2182,act ii peri peri popcorn 72
+7013,adai dosai
+4955,add on
+7554,adhrisham
+9037,affogato
+6283,afghani chicken biryani
+10174,afghani murgh tikka
+2774,african orange 08051000
+2676,after eight mints 549
+7762,aglio oglio pasta
+5868,agra bedmi poori
+7560,ajmer cake
+7087,akki roti
+7089,alasande vada
+7121,alfredo pasta
+4643,allepy chicken curry
+4313,almond
+4603,almond croissant
+10220,almond walnut pie eggless
+3308,aloe vera juice
+8887,aloo baji
+6906,aloo bhature
+6015,aloo biryani
+4217,aloo bonda
+7090,aloo bun
+6235,aloo chaat
+7541,aloo chat
+10229,aloo chilli
+10230,aloo chop
+10412,aloo gobi paratha
+6065,aloo jeera
+10231,aloo manchurian
+5327,aloo masala cheese sandwich
+5328,aloo masala sandwich
+9041,aloo mattar
+10307,aloo methi paratha
+5329,aloo mutter curry
+7092,aloo mutter kulcha
+6066,aloo mutter masala
+6068,aloo palak
+6620,aloo palak 200 grm
+4570,aloo paratha
+6604,aloo paratha 1 no with channa masala 60 grm curd
+3535,aloo patty salad
+7538,aloo puri
+6752,aloo pyaz paratha
+7091,aloo sabzi
+4322,aloo samosa
+4761,aloo sandwich
+9042,aloo tamatar
+4418,aloo tikki chaat
+3572,aloo tikki chana
+7093,aloo tikki cheese
+3561,aloo tikki ragda chaat
+7094,aloo tikki sandwich
+6062,aloo bhindi
+6064,aloo gobi
+2728,alt co oat drink 69
+2142,amajain idly sambhar 90
+2140,amajain poha 65
+2141,amajain puliyogare rice 65
+2139,amajain rasam rice 65
+2138,amajain sambar rice 65
+2143,amajain upma 65
+8063,ambuli juice
+4451,ambur chicken biryani
+7095,ambur egg biryani
+5331,ambur mutton biryani
+4450,ambur veg biryani
+5962,american chocomax
+4344,american corn
+4373,american mud cake large scoop
+4372,american mud cake small scoop
+4368,american nuts fun sundae
+4088,americano
+3309,amla juice
+6281,amma s special fish poth chori
+544,amplifi energy immunity blueberry 40
+543,amplifi energy immunity citrus 40
+5787,amriti
+7096,amritsar chicken
+9368,amul almondo 200 gm
+2149,amul belgian chocolate 150
+2152,amul bitter chocolate dark 75 125
+2155,amul bitter dark chocolate coca 140
+9917,amul butter appe half
+9926,amul butter appe full
+9924,amul butter heart shape pan cake full
+9920,amul butter paneer appe half
+9929,amul butter paneer appe full
+874,amul buttermilk 15
+2151,amul dark chocolate 55 110
+2153,amul dark chocolate 55 sugar free 140
+2156,amul double chocolate milkshake 30
+2157,amul fruit n nut dark chocolate 55 110
+2154,amul india twilight tryst milk chocolate 150
+1278,amul kool badam 20
+1292,amul kool badam 20
+1277,amul kool kesar 20
+1291,amul kool kesar 20
+568,amul lassi 15
+2755,amul lassi 17
+106,amul lassi 20
+2133,amul lassi 16
+295,amul masti butter milk 12
+2150,amul milk chocolate 100
+1469,amul sweet lassi 22
+8753,anchovy fish fry
+6553,andhara kara dosa
+5332,andhra chilli chicken
+4745,andhra kara dosa
+7098,andhra non veg meal
+7549,andhra special chicken biryani
+7550,andhra special veg biryani
+5722,andhra veg biryani 450 gms
+10232,anjeer peda
+3275,anjeer milk shake
+2184,apaizer goli soda mint lemonade 60
+2185,apaizer goli soda slice ginger 60
+2183,apaizer goli soda sparkling sunrise 60
+6391,appalam
+6959,appam
+6368,appam veg stew
+7099,appam with chicken curry
+7100,appam with kadala curry
+7101,appam with veg stew
+4615,appam with chicken stew
+4444,appam with egg masala
+4614,appam with egg roast
+8035,appam with fish curry
+4613,appam with veg curry
+9916,appe lollypop half
+9923,appe lollypop full
+9921,appe pizza half
+9930,appe pizza full
+6682,appitas pita chips jalapeno 60 gms
+6683,appitas pita chips parmesan and mediterranean 60 gms
+3527,apple
+10233,apple cake eggless
+10234,apple cinnamon tart
+10235,apple crumble tart
+3261,apple fruit shake
+3302,apple juice
+8872,apple milk shake
+10236,apple muffin eggless
+3727,apple pie
+10219,apple pie eggless
+152,appy 200ml tetra pack mrp 10
+300,appy juice tetra pack 150 ml rs 10
+2168,aquafina water 1ltr 20
+2169,aquafina water 250ml 7
+2170,aquafina water 500ml 10
+6302,arabian roll
+6539,arabic kabooli rice with al faham chicken
+6284,arabic kabuli with grilled chicken
+6343,arisi paruppu sadam
+4354,assorted bajji
+4872,assorted doughnut
+7103,assorted pastries
+7005,assorted sandwich veg
+7006,assorted sandwich veg paneer
+7009,assorted sandwiches non veg
+7065,atho chicken
+7064,atho egg
+7066,atho egg chicken
+7063,atho veg
+846,attabix 40
+4459,authentic andhra veg meal
+7104,avacado milkshake
+5727,avakaya chicken biryani
+5732,avakaya mutton biryani
+4659,aval milk juice
+7105,avalaki bhath
+7436,avalakki bath
+7639,avil milk
+5090,awadhi chicken biryani
+7106,awadhi veg biryani
+9333,azadi non veg neverno
+9332,azadi non veg neverno
+9334,azadi veg neverno
+9335,azazi veg neverno
+1293,b fizz 12
+1468,b natural apple 20
+415,b natural cloudy apple 20
+428,b natural dakshin pink guava 300 ml 40
+413,b natural guava 20
+429,b natural himalayan mixed fruit 300 ml 40
+414,b natural litchi 20
+347,b natural mango magic 20
+348,b natural mixed fruit 20
+495,b natural nagpur orange with pulp 40
+466,b natural orange 180 ml 20
+432,b natural orange oomph
+427,b natural orange oomph 150 ml 20
+425,b natural watermelon 200 ml 20
+4594,b fast sandwich
+1496,b natural mango 20
+6544,bbq chicken burger
+3559,bbq chicken salad
+4850,biy indian meal bowl non veg
+4849,biy indian meal bowl veg
+4852,biy international meal bowl non veg
+4851,biy international meal bowl veg
+8557,baby corn 65
+5911,baby corn 65 biryani
+6579,baby corn fried rice
+6653,baby corn magestic
+7107,baby corn manchurian
+7475,baby corn mushroom masala dosa
+10237,baby corn pakoda
+10419,baby corn paneer biryani
+7108,baby corn pepper masala
+5104,baby corn salad
+10238,baby corn tikka
+6053,baby corn chilli
+5008,babycorn mushroom biryani
+5333,babycorn cheese sandwich
+4735,babycorn dosa
+6444,babycorn manchurian
+305,badam amul cool 180 ml rs 20
+3238,badam milk
+4658,badam milkshake
+10239,badam peda
+7552,badam pheni
+3276,badam shake
+8874,badam tea
+8203,baigan bharta
+8204,baigan bharwa
+3697,baked chicken au gratin
+3682,baked chicken eggplant moussaka
+7109,baked penne casserole
+10002,baked cheeese cake
+3681,baked eggplant moussaka
+3696,baked vegetable au gratin
+4794,balloon
+10401,balushahi
+3530,banana
+6915,banana bajji
+6591,banana bajji 3 pcs
+3408,banana cake slice
+3411,banana caramel cake
+3412,banana cashew cake
+9471,banana chips 100gms
+9472,banana chips 200gms
+3413,banana chocolate cake
+7110,banana chocolate cake shake
+4201,banana fry
+4393,banana lassi
+10525,banana leaf meals
+3252,banana milkshake
+3414,banana pancakes with maple syrup
+10241,banana rasayana
+5335,banana walnut cake
+8763,banana bonda
+7073,banga chicken
+7072,banga egg
+7074,banga egg chicken
+7071,banga veg
+4332,banoffee cup
+126,bar one 20
+5336,barfi
+8755,barracuda fish fry
+6036,basbousa
+5102,basic salad
+7120,basil pesto pasta
+10405,basundi
+655,bauli cheese jalapeno 20
+566,bauli moonfils cake choco 15
+563,bauli moonfils cake orange 15
+628,bauli moonfils cake strawberry 15
+567,bauli moonfils cake vanilla
+713,bauli savoriz cheese oreganox
+712,bauli spyroll
+1527,baulk moon fills vanilla 20
+275,bazana roasted almonds
+7111,bbq chicken
+5859,bbq fries
+7112,bbq paneer
+6790,bbq pizza small size
+7519,beef biryani
+6291,beef curry
+7621,beef fry
+7628,beef roll
+7113,beetroot aloo paratha
+10242,beetroot buttermilk
+7114,beetroot dosa
+10249,beetroot grape juice
+3310,beetroot juice
+10243,beetroot lassi
+7076,bejo soup
+4874,belgian doughnut
+9357,belgium chocolate truffle
+3729,belgium pastry
+7763,bell pepper pizza
+836,beng beng 10
+5919,bento boxes 8cp
+5917,bento boxes 5cp
+5918,bento boxes 5cp nv
+5920,bento boxes 8cp nv
+10217,berliner eggless
+4371,berry magic cold stone
+3391,besan barfi
+9038,besan chilla 2pcs
+3361,besan laddu
+4956,beverages
+3193,bhagara rice
+5337,bhajji pav
+6981,bhalla papri chat
+3573,bhel
+3574,bhel puri
+6409,bhel puri 70gms
+8206,bhindi
+2,bingo 1
+191,bingo tomato 12 gm mrp 5
+1556,bingo achaari masti 10
+2190,bingo achari masti 20
+99,bingo chilli sprinkle potato 20
+443,bingo chips 10
+486,bingo cream and onion 30 8 gms 10
+175,bingo mad angles achaari masti 10
+501,bingo mad angles cheese nachos 20
+1273,bingo mad angles cheese nachos 10rs
+117,bingo mad angles masala
+500,bingo mad angles pizza aaaah 20
+1295,bingo mad angles pizza aaah 10
+103,bingo mad angles tomato madness 10
+1272,bingo mad angles very peri peri 10rs
+102,bingo mad angles peri peri 10
+177,bingo mad angles achaari masti 52 gm mrp 20
+178,bingo mad angles mmmmm masala 36 5 gm mrp 10
+176,bingo mad angles mmmmm masala 52 gm mrp 20
+488,bingo masala 10
+133,bingo potato chilli sprinkled rs10
+358,bingo potato chips 28g 10 rs
+1296,bingo potato chips chilli sprinkled 10
+170,bingo potato salt sprinkled 35 gm mrp 10
+134,bingo potato salt sprinkled rs10
+100,bingo salt sprinkled potato 20
+411,bingo salted chips 10
+1551,bingo street bites dahi chaat remix 10
+1552,bingo street bites pani puri twist 10
+855,bingo tedhe medhe 10
+854,bingo tomato 10
+69,bingo tomato chips 20
+189,bingo masala 12 gm mrp 5
+458,bingo potato chips 14 gms 5
+452,bingo potato chips 52 grms 20
+10244,bircher muesli
+8818,birdy s paneer tikka croissant
+8838,birdy s beetroot lavash
+9088,birdy s blueberry cheese cake
+8820,birdy s chicken keema puff
+8842,birdy s chocolate doughnut
+8836,birdy s garlic bread
+8844,birdy s nuttella doughnut
+8837,birdy s pull a part bread
+8817,birdy s parisian chocolate croissant
+8839,birdy s spinach lavash
+8843,birdy s sugar dust doughnut
+8819,birdy s veg kolhapuri puff
+8834,birdy s chicken jungli sandwich
+8821,birdy s chicken tikka croissant
+8835,birdy s chicken tikka mini roll
+8833,birdy s paneer tikka mini roll
+8832,birdy s veg jungli sandwich
+5893,biriyani zone special chicken curry
+5316,birthday cake 500 gms
+4433,biryani rice non veg
+10203,biscoff cheese pastry eggless
+4425,bisi bele bath
+3231,bisibelle bhath
+2171,bisleri 300ml 7
+151,bisleri 500 ml mrp 10
+2172,bisleri limonata 600ml 40
+2173,bisleri spyci 600ml 40
+3311,bitter gourd juice
+3584,black chana chaat
+7116,black channa rice
+7117,black channa sundal
+7118,black channa vada
+6850,black currant kulfi
+6946,black currant lassi
+3270,black currant milkshake
+6935,black currant soda
+9358,black forest
+4082,black forest cake
+3394,black forest pastry
+4903,black mojito
+5005,black olive salad
+3445,black tea
+3443,black coffee
+6859,blackcurrant ice cream
+6839,blackcurrant lassi
+10245,blackcurrant milkshake
+6827,blackcurrant mojito
+6821,blackcurrant smoothie
+6825,blue curacao mojito
+6943,blue curacao soda
+6886,blue lime
+6006,blueberry cream cheese waffles
+5338,blueberry doughnut
+6885,blueberry ice tea
+10246,blueberry milkshake
+6826,blueberry mojito
+4167,blueberry pastry
+6820,blueberry smoothie
+7054,blueberry waffle waffles without ice cream
+9352,boiled banana
+6308,boiled cassava
+3429,boiled egg
+777,boiled egg 1 pc
+6357,boiled egg pcs
+8963,boiled egg and grees salad
+6310,boiled makka cholam half
+4355,boiled peanut
+6312,boiled peanut sundal
+6299,boli
+6236,bombay chicken biryani
+7283,bombay mixture
+4231,bombay samosa
+6237,bombay veg biryani
+3716,bonda
+3588,bonda chaat
+3513,bonda soup
+4914,boondi phirni bowl
+3239,boost milk
+7497,borishali chicken thali
+7285,boti masala
+10247,bottle gourd bajji
+10248,bottle gourd juice
+7250,bottle gourd kheer
+412,bounce cream choco twist 5
+2132,bounce elaichi cream 10
+2691,bounty bar 60
+5830,bouquet
+4866,bourbon doughnut
+1078,bourbon fab 10
+60,bourbon friends forever
+3248,bournvita milk
+3258,bournvita shake
+260,bovonto
+150,bovonto 500 ml mrp 35
+3312,brahmi juice
+2693,brb popcorn chip salted caramel 40
+2692,brb popcorn chips salsa 40
+5874,bread
+828,bread bajji
+6585,bread bajji 2 pcs
+5339,bread better jam
+5340,bread butter
+4208,bread butter jam
+5341,bread butter jam toast
+5342,bread butter toast
+7542,bread chana
+7288,bread chat
+4213,bread fry
+5343,bread jam
+5344,bread jam toast
+7471,bread masala dosa
+6730,bread omelette
+3625,bread pakoda
+993,bread pakora
+6786,bread roast
+3441,bread roll
+7286,bread upma
+10404,bread pudding
+4146,breakfast
+5915,breakfast 3cp
+5916,breakfast 5 cp
+9948,breakfast careleon
+4145,breakfast packed meal
+387,breakfast with primary menu
+388,breakfast with secondary menu
+2174,breaking good cheese herbs 50
+2175,breaking good cream onion 50
+2176,breaking good magic masala 50
+2177,breaking good peri peri 50
+2178,breaking good spanish tomato 50
+6588,brinjal bajji 2 pcs
+10221,brioche eggless
+323,britania good day butter cookies 120gm 20rs
+1246,britannia 10
+105,britannia 50 50 maska chaska 10
+2200,britannia 50 50 maska chaska 30
+2199,britannia 50 50 maska chaska 32
+2201,britannia 50 50 potazos 30
+2202,britannia 50 50 sweet salty 10
+6684,britannia bar cake chocos 65 gms
+6685,britannia bar cake pineapple 65 gms
+2203,britannia biscafe coffee cracker 30
+6688,britannia bourbon 25 gms
+82,britannia bourbon 10
+2186,britannia bourbon biscuits 25
+2778,britannia cake chocolate brownie 19059010 20
+2210,britannia cake fruity fun 30
+48,britannia cake gobbles 15
+2204,britannia cake gobbles milk 15
+39,britannia cake muffills 35 gms 10
+2188,britannia cake orange bites 15
+2189,britannia cake pineapple plunge 15
+4561,britannia croissant
+101,britannia gobbles
+2205,britannia gobbles butter toast 15
+337,britannia gobbles cake 55gm
+2206,britannia gobbles choco chill cake 30
+233,britannia gobbles fruity fun 120 gm mrp 30
+312,britannia good day cashew 10
+311,britannia good day choco chip 10
+2211,britannia good day cookies pista badam 25
+6689,britannia goodday butter 90 gms
+6690,britannia goodday cashew 60 gms
+86,britannia lassi
+230,britannia layerz choco layer cake 25 gm mrp 10
+231,britannia layerz choco layer cake 35 gm mrp 12
+157,britannia marie gold 83 gm mrp 10
+2212,britannia marie gold biscuits 20
+2213,britannia milk bikis milky sandwich 30
+1471,britannia muffils cake strawberry 10
+2740,britannia nice time biscuit 10
+2192,britannia nice time biscuits 25
+2207,britannia nutri choice digestive 10
+2193,britannia nutri choice digestives wholewheat 25
+2194,britannia nutri choice essentials ragi cookies 75
+2802,britannia nutri choice hrbs 30 19059020
+2800,britannia nutri digestive 10 19059020
+2195,britannia pure magic chocolate cream 35
+2221,britannia pure magic chocolush biscuit 40
+564,britannia roll yo swiss roll cake 10
+858,britannia roll yo cake chocolate swiss roll 10
+648,britannia roll yo cake strawberry swiss roll 10
+279,britannia thick shakes chocolicious
+6692,britannia tiger cream choco vanilla 50 gms
+2214,britannia time pass 25
+2215,britannia treat biscuits pineapple 10
+2216,britannia treat biscuits strawberry 10
+2208,britannia treat choco 10
+2197,britannia treat choco wafers 45
+2217,britannia treat creme wafers strawberry 45
+2220,britannia treat croissant choco cream roll 20
+2187,britannia treat croissant vanilla cream roll 20
+2198,britannia treat jim jam 25
+2218,britannia treat orange biscuit 10
+2196,britannia treat wafers orange 50
+2209,britannia treat wafers vanilla 50
+2219,britannia treat o vanilla cream cookie 10
+338,britannia winkin cow choco thick shake 100 ml
+6691,britannia wonderfull choco nut 100 gms
+256,brittania milkbikis
+253,brittania nutrichoice digestive
+5100,broccli salad
+7290,broccoli soup
+7291,broken wheat poha
+3209,brown garlic tomato rice
+4731,brown sugar tea
+3215,brown onion pulao
+3407,brownie
+7425,brownie crumble
+5963,brownie fantasy
+3281,brownie shake
+6865,brownie sundae
+7292,bubble tea
+7548,bubble gum mojito
+5996,bubblegum velvet waffles
+7442,buffet
+4617,bulls eye
+6883,bun butter gulkand
+5851,bun butter jam
+7293,bun masala
+4430,bun maska
+8215,bun omelette
+4587,buritto non veg
+4586,buritto veg
+4577,burmese khaosuey chicken
+4580,burmese khaosuey with vegetables
+4573,burnt garlic fried rice with vegetable satay
+6484,burnt garlic rice
+3191,butter
+6776,butter chicken biryani
+6775,butter chicken biryani
+4649,butter chicken masala
+4095,butter cookies
+3703,butter croissant
+6165,butter dosa
+3265,butter fruit milkshake
+5891,butter kulcha
+6180,butter masala dosa
+918,butter milk int
+10526,butter milk non mrp
+5345,butter naan
+6601,butter naan 1 pc
+6510,butter non
+6085,butter paneer
+6181,butter plain dosa
+4737,butter roast dosa
+5890,butter roti
+6603,butter roti 1 pc
+7052,butter scotch chocolate waffle waffles without ice cream
+3255,butter scotch milkshake
+3396,butter scotch pastry
+6507,butter tandoori paratha 1 pc
+5346,butter tandoori roti
+6716,butter naan paneer butter masala
+6718,butter naan roti butter chicken masala
+3314,buttermilk
+4081,butterscotch cake
+6861,butterscotch ice cream
+6841,butterscotch lassi
+8875,butterscotch smoothie
+5991,butterscotch waffles
+5347,butterscoth muffin
+942,chhedas potato sour cream rs 10
+5944,chi stew with bread
+3630,cabbage bhajji
+3628,cabbage onion bhajji
+7294,cabbage onion pakoda
+2233,cadbury 5 star 3d chocolate 35
+2239,cadbury 5 star oreo 35
+879,cadbury 5 star rs 20
+2243,cadbury almond treat temptations 100
+2135,cadbury bornville dark 50 100
+2136,cadbury bornville dark 70 100
+2245,cadbury bournille cranberry 100
+2256,cadbury bournville 50 dark 100
+2234,cadbury bournville 50 dark 45
+2244,cadbury bournville 70 dark 100
+555,cadbury bournville cranberry 90
+2246,cadbury bournville fruit nut 100
+554,cadbury bournville raisin nut 90
+556,cadbury bournville rich cocoa dark 50 dark 90
+557,cadbury bournville rich cocoa dark 70 dark 90
+441,cadbury celebrations 50
+2223,cadbury chocobakes choc filled cookies 35
+497,cadbury crispello 10
+416,cadbury dairy milk 20
+164,cadbury dairy milk 50 gm mrp 40
+165,cadbury dairy milk bubbly 50 gm mrp 80
+2228,cadbury dairy milk chocolates 50
+2249,cadbury dairy milk chocolates family pack 100
+2237,cadbury dairy milk crackle 45
+368,cadbury dairy milk crispello 30
+349,cadbury dairy milk fruit nut 45
+2235,cadbury dairy milk fruit nut 90
+2816,cadbury dairy milk fruit nuts 36gm
+2817,cadbury dairy milk roast almond 36gm
+2229,cadbury dairy milk shots 10
+487,cadbury dairy milk silk 60 gms 75
+2252,cadbury dairy milk silk bubbly 175
+2240,cadbury dairy milk silk chocolate 170
+2238,cadbury dairy milk silk fruit nut 80
+380,cadbury dairy milk silk fruit nut 137 grms 175
+2247,cadbury dairy milk silk hazelnut 175
+2258,cadbury dairy milk silk hazelnut 80
+2236,cadbury dairy milk silk mousse 175
+2231,cadbury dairy milk silk mousse 80
+2251,cadbury dairy milk silk oreo 175
+2255,cadbury dairy milk silk oreo 80
+2259,cadbury dairy milk silk oreo red velvet 175
+2260,cadbury dairy milk silk oreo red velvet 80
+2250,cadbury dairy milk silk roast almond 175
+2241,cadbury dairy milk silk roast almond 80
+417,cadbury fruit n nut 45
+110,cadbury fuse 35
+166,cadbury fuse 25 gm mrp 20
+2257,cadbury fuse fit almonds and peanuts 50
+2232,cadbury gems 20
+2230,cadbury nutties 40
+2227,cadbury oreo biscuits choco creme 30
+2226,cadbury oreo biscuits original 30
+2225,cadbury oreo biscuits strawberry creme 30
+362,cadbury oreo cadbury dipped 50 grms 20
+442,cadbury oreo choco cream 10
+2222,cadbury oreo dipped 70
+2134,cadbury oreo dipped 25
+2224,cadbury oreo red velvet 40
+489,cadbury oreo sandwich biscuit 10
+1266,cadbury perk 10
+271,cadbury perk 5
+2254,cadbury perk double glucose chocolate 10
+2242,cadbury rum raisins temptations 100
+2248,cadbury silk bubbly bubblegum 175
+2253,cadbury silk bubbly bubblegum 80
+377,cadbury silk roast almond
+302,cafe amul cool 200 ml rs 25
+6993,cafe frappe
+4880,cake
+3420,cake crumble pie
+2146,cake fudge it
+58,cake fudge it 15
+3410,cake slice
+1678,cake tiffin fun
+9006,cakewala aloo dahi puff 95 gms
+9007,cakewala andhra khara bun 95 gms
+9008,cakewala baby corn puff 95 gms
+9009,cakewala bhaji chilli puff 95 gms
+9010,cakewala chilli panner comb 90 gms
+9011,cakewala concus pizza 30 gms
+9012,cakewala corn n capsicum puff 95 gms
+9013,cakewala fried veg roll 90 gms
+9014,cakewala kulcha bun 95 gms
+9015,cakewala makhni paneer puff 95 gms
+9016,cakewala paneer strudel 100 gms
+9017,cakewala pizza muffin 80 gms
+9018,cakewala special roll 95 gms
+9019,cakewala spicy veg puff 95 gms
+9020,cakewala veg burger 140 gms
+9021,cakewala veg mushroom puff 95 gms
+9022,cakewala veg puff 90 gms
+9023,cakewala veg roll 95 gms
+9024,cakewala veg spring roll 85 gms
+4646,calicut chicken curry
+6072,calicut chicken roast
+6305,candy chicken
+8881,cane juice with ginger
+6619,capcicum masala 200 grm
+7296,capsicum bajji
+6983,capsicum bhaji
+5348,capsicum cheese sandwich
+6556,capsicum masala dosa
+7297,capsicum pulao
+3202,capsicum rice
+7491,capsicum rice bath
+5105,capsicum salad
+5349,caramel brownie
+6815,caramel frappe
+7300,carrot ginger soup
+3422,carrot cake
+7301,carrot cherry cake
+7298,carrot corn pulao
+5932,carrot dosa
+7439,carrot halwa
+7299,carrot idli
+3283,carrot juice
+7302,carrot paratha
+907,carrot rice
+7303,carrot rice
+6572,carrot rice with papad poriyal
+7304,carrot soup
+6171,carrot utthappam
+3292,carrot and beetroot juice
+9578,cashew crunch trail mix
+4314,cashew nut
+8565,cashew paneer curry
+7470,cauliflower masala dosa
+2695,cavendish harvey cola drops 279
+2694,cavendish harvey strawberry candies 279
+2706,cavendish and harvey orange drops 299
+350,cavins chocolate milkshake 40
+258,cavins milkshake strawberry 40
+284,cavins vanilla milkshake 40
+257,cavins milkshake vannila
+84,cavins s milkshake vanila
+3656,cereals with milk
+8574,chaats
+4566,chai chai
+4114,chai point branded paper cups
+4728,chai point machine rent
+9959,cham cham
+3585,chana chaat
+7537,chana masala
+5779,chanar jelabi
+7496,chanar kalia thali
+4420,chandrakala
+4782,channa
+5945,channa bhatura
+809,channa masala
+6617,channa masala 200 grm
+6555,channa masala dosa
+5925,chapathi
+6609,chapathi 2pc with masala kurma raitha
+6608,chapathi 2 pc with kurma
+4700,chapathi 3pcs with mix veg kuruma
+6503,chapathi chicken curry
+8879,chapathi extra
+5939,chapathi with egg bhurji
+5975,chapathi with paneer butter masala
+4214,chapati
+760,chapati 3 egg curry
+6504,chapati egg curry
+6286,chapati with desi butter chicken
+6290,chapati with veg stew
+3695,char grilled lemon chicken
+51,chatkeens sev murmura
+10309,chatpata aloo paratha
+3536,chatpata chana salad
+4228,chatti pathiri
+5350,cheela
+3188,cheese
+4380,cheese bread omelette
+3421,cheese cake
+5903,cheese chicken meatball
+6899,cheese chicken momos
+10228,cheese corn quiche
+6153,cheese dosa
+5351,cheese maggi
+6154,cheese masala dosa
+6917,cheese masala omelette
+4384,cheese omelette
+5352,cheese omelette with bread
+6146,cheese onion dosa
+10413,cheese onion paratha
+5353,cheese paratha
+6951,cheese pasta
+6995,cheese shots balls
+3704,cheese croissant
+5860,cheesy fries
+5902,cheesy paneer tikka wrap
+4341,cheesy pizza packets
+50,cheetos masala balls
+3362,chena angoor
+3382,chena payesh
+3383,chena roll
+6777,chennai style biryani
+9485,cherupayar parippu payasam 1000ml
+9497,cherupayar parippu payasam 150ml
+9491,cherupayar parippu payasam 500ml
+5354,chettinad chicken dry
+6702,chettinad pepper chicken meals
+6769,chettinad chilly chicken dry
+737,chettinadu masala dosa
+10081,chewy choco chip cookies
+10262,chia oats pudding
+8575,chia seeds water
+5107,chick pea salad
+6912,chicken chopsuey
+8771,chicken cup noodles
+6756,chicken paratha
+6521,chicken egg biryani
+6978,chicken egg roll
+8543,chicken 555
+8528,chicken 555 biryani
+4639,chicken 65
+814,chicken 65
+6424,chicken 65 100 gms
+4708,chicken 65 biryani
+5355,chicken 65 kebab
+6770,chicken 90
+3699,chicken a la plancha
+3635,chicken bhajji
+6383,chicken bharta
+691,chicken biriyani
+758,chicken biriyani with egg
+10417,chicken biriyani with one egg
+3233,chicken biryani
+5094,chicken biryani boneless
+4632,chicken biryani full
+4633,chicken biryani half
+6354,chicken biryani with boiled egg
+6355,chicken biryani without boiled egg
+6095,chicken biryani boneless
+742,chicken biryani old
+6636,chicken biryani chicken 65 curd rice
+8074,chicken bonda 2 pcs
+6999,chicken bun
+3598,chicken burger
+4399,chicken burger chicken nuggets
+5885,chicken burger large french fries lemony orange soda
+5309,chicken burnt garlic fried rice
+9960,chicken calzone
+6385,chicken chaap
+6082,chicken chap
+6739,chicken cheese balls
+5356,chicken chettinad
+808,chicken chettinad
+6300,chicken chettinad biryani
+4589,chicken chilli dog
+5357,chicken chilli garlic noodels
+9823,chicken chilly
+4626,chicken coconut fry
+9827,chicken crispy
+5360,chicken curry
+6394,chicken curry rotirice
+6374,chicken curry with paratha
+6373,chicken curry with rice
+6541,chicken cutlet
+10536,chicken dinner
+7305,chicken donne biryani
+6147,chicken dosa
+6304,chicken drumsticks
+8531,chicken drumsticks biryani
+5361,chicken dum biryani
+10420,chicken dum biryani with bone
+9822,chicken frankie
+8043,chicken fried idly
+3647,chicken fried kebab
+5294,chicken fried momo fresh made no frozen 5 pc
+6431,chicken fried rice 350 gms
+3497,chicken fried rice
+4625,chicken fry
+5724,chicken fry piece biryani
+5737,chicken fry piece biryani 300
+10421,chicken fry piece biryani withbone
+4143,chicken garlic finger
+7368,chicken grill full
+7367,chicken grill half
+4560,chicken hakka noodle
+5362,chicken hakka noodles
+9825,chicken harabhara
+3522,chicken hot sour soup
+3662,chicken hot dog
+6301,chicken kathi roll
+7284,chicken kebab biryani
+7306,chicken keema dosa
+5946,chicken keema paratha
+7307,chicken keema pav
+6306,chicken keema samosa
+3693,chicken kefte tagine
+7308,chicken kheema
+7014,chicken kheema pav
+3554,chicken kofta salad
+7521,chicken kolapuri
+9824,chicken koliwada
+825,chicken korma
+5766,chicken kosha
+4471,chicken kothu parotta
+6517,chicken kotthu parotta
+7309,chicken kuska
+7310,chicken kuska biryani
+3702,chicken lasagne
+3516,chicken lemon coriander soup
+6641,chicken lolipop
+6460,chicken lollipop
+8525,chicken lollipop biryani
+3357,chicken maggi
+8544,chicken majestic
+8529,chicken majestic biryani
+7311,chicken malai tikka
+5312,chicken manchow fried rice
+3521,chicken manchow soup
+4648,chicken manchurian
+6456,chicken manchurian dry
+6476,chicken manchurian gravy
+5010,chicken manchurian biryani
+5372,chicken manchurian dry
+6643,chicken masala
+3721,chicken masala dosa
+8076,chicken mirchi bajji 3 pcs
+3503,chicken momo
+5292,chicken momo fresh made no frozen 3 pc
+5291,chicken momo fresh made no frozen 5 pc
+8561,chicken mughali curry
+7522,chicken mugulai
+3515,chicken mulligatawny soup
+936,chicken nanking noodles 350 grm
+7520,chicken navabi
+3494,chicken noodles
+6427,chicken noodles 350 gms
+4142,chicken nuggets
+4385,chicken omelette
+3555,chicken oriental salad
+8542,chicken pakoda
+8527,chicken pakoda biryani
+4647,chicken palli palayam
+6737,chicken paniyaram
+4328,chicken paratha
+4478,chicken paratha roll
+7210,chicken pasta
+4225,chicken pathiri
+3631,chicken patti samosa
+5883,chicken pepper dry
+6642,chicken pepper fry 130 gms
+6362,chicken pepper gravy
+7523,chicken pepper masala
+3683,chicken piccata
+6247,chicken pizza
+8070,chicken podimas bhurji
+6361,chicken pokada 6 pcs 120g
+4141,chicken popcorn
+3711,chicken puff
+951,chicken puff old
+5373,chicken pulao
+5771,chicken quesadilla
+6459,chicken red pepper
+6382,chicken rezzala
+6658,chicken rice bowl
+6987,chicken roast
+4235,chicken roll
+3551,chicken salad
+4428,chicken salad sandwich
+6464,chicken salt pepper
+3632,chicken samosa
+6742,chicken samosa 2 pcs
+3594,chicken sandwich
+4477,chicken sandwich full
+4476,chicken sandwich half
+5310,chicken schezwan fried rice
+6430,chicken schezwan fried rice 350 gms
+5311,chicken schezwan noodles
+937,chicken schezwan noodles 350 grm
+6426,chicken schezwan noodles 350 gms
+7674,chicken seekh kabab
+3691,chicken shashlik
+5775,chicken shawarma
+7364,chicken shawarma plate
+5374,chicken singapore noodles
+6922,chicken starter
+6405,chicken starter egg fried rice egg noodles
+822,chicken stew
+5943,chicken stew
+7314,chicken strips
+6783,chicken submarine
+6508,chicken tandoori
+3639,chicken tandoori kebab
+5011,chicken tangdi biryani
+3640,chicken tawa kebab
+3556,chicken teriyaki salad
+3714,chicken tikka
+6134,chicken tikka biriyani
+6386,chicken tikka chaap
+4692,chicken tikka cheese sandwich
+6975,chicken tikka grilled roll
+8562,chicken tikka masala curry
+4601,chicken tikka pizza
+9032,chicken tikka salad
+4330,chicken tikka sandwich
+5905,chicken tikka semizza 3 slices
+8077,chicken vada 3 pcs
+4645,chicken varattiyathu
+6772,chicken wings
+3666,chicken wrap
+7315,chicken yakhni biryani
+4584,chicken and cheese paradilla
+3708,chicken croissant
+3687,chicken in bell pepper sauce
+5363,chicken in chilli basil sauce
+5364,chicken in chilli oyster sauce
+5365,chicken in hot garlic sauce
+5366,chicken in hunan sauce
+5367,chicken in schezwan sauce
+6074,chicken korma
+6764,chicken liver fry
+6738,chicken nuggets 5 pcs
+3678,chicken pasta with cheese sauce
+3680,chicken pasta with pink sauce
+3679,chicken pasta with tomato sauce
+3677,chicken pasta with white sauce
+7525,chicken puffs
+6655,chicken salt and pepper
+6384,chicken do piyaza
+7524,chicken65
+3553,chickpea salad sandwich
+44,chikki 5
+6694,chikki 100gms
+3305,chikku juice
+3262,chikoo fruit shake
+8871,chikoo juice 250ml
+8882,chikoo milk shake
+3557,chili chipotle chicken salad
+4198,chilli garlic cheese toast
+3623,chilli bhajji
+5376,chilli cheese maggi
+4762,chilli cheese sandwich
+4196,chilli cheese toast
+4624,chilli chicken
+812,chilli chicken
+933,chilli chicken 8 pcs
+6425,chilli chicken 120 gms
+8526,chilli chicken biryani
+7316,chilli chipotle chicken
+6167,chilli coriander uthappam
+4771,chilli corn cheese sandwich
+7233,chilli garlic egg fried rice
+6878,chilli garlic pops
+7214,chilli garlic potato bites
+7235,chilli garlic veg fried rice
+4628,chilli gobi
+8546,chilli panner
+5377,chilli paratha
+8545,chilli prawns
+4324,chilli idli
+6475,chilly babycorn
+6586,chilly bajji 2 pcs
+6457,chilly chicken dry
+6477,chilly chicken gravy
+6463,chilly egg
+6487,chilly garlic chicken rice
+6492,chilly garlic noodles
+6494,chilly garlic noodles non veg
+6486,chilly garlic rice
+6626,chilly idly 200 grm
+6474,chilly mushroom
+6451,chilly paneer
+2770,china plum 08091000
+7534,chinese non veg starter
+7317,chinese non veg chop suey
+5378,chinese non veg meal
+5379,chinese non veg meal chicken
+5380,chinese non veg meal egg
+5381,chinese non veg meal fish
+5382,chinese non veg meal mutton
+5383,chinese non veg packed meal
+5384,chinese non veg packed meal chicken
+5385,chinese non veg packed meal egg
+5386,chinese non veg packed meal fish
+5387,chinese non veg packed meal mutton
+7318,chinese veg chop suey
+5388,chinese veg meal
+5389,chinese veg packed meal
+7535,chinese veg starter
+5778,chitrakut
+7319,chitrana rice
+7420,choco bomb
+6002,choco caramel waffle
+7001,choco chip fudgy browne with ice cream
+7002,choco chip fudgy brownie
+4094,choco chips cookies
+5390,choco fudge brownie
+4875,choco hazelnut doughnut
+3416,choco lava cake
+6039,choco nuts bar
+1270,choco oats bat
+4873,choco ring doughnut
+3399,choco truffle cake
+5391,chocochip brownie
+3415,chocochip cake
+5992,chocoholic waffles
+4861,chocolate almond doughnut
+3405,chocolate ball
+7759,chocolate bao
+9957,chocolate barfi
+5314,chocolate birthday cake 1 kg
+4331,chocolate brownie
+5852,chocolate bun maska
+5392,chocolate cake
+9796,chocolate chip
+4096,chocolate coated biscuit
+4079,chocolate cream cake
+3417,chocolate cupcake
+10223,chocolate danish
+7422,chocolate decadence
+3404,chocolate doughnut
+4869,chocolate dream cake doughnut
+6814,chocolate frappe
+5828,chocolate gateaux
+6858,chocolate ice cream
+4867,chocolate iced glazed doughnut
+9794,chocolate kit kat shake
+6851,chocolate kulfi
+6840,chocolate lassi
+3256,chocolate milkshake
+6893,chocolate momo
+4453,chocolate mousse
+3725,chocolate muffin
+9795,chocolate oreo
+4370,chocolate overload cold stone
+3397,chocolate pastry
+10200,chocolate pastry eggless
+7551,chocolate pheni
+8764,chocolate pudding
+5861,chocolate sandwich
+8873,chocolate smoothie
+8188,chocolate softy
+7424,chocolate therapy
+6855,chocolate thickshakes
+5393,chocolate walnut brownie
+3705,chocolate croissant
+10078,chocolate cup with frosting
+4868,chocolate iced glazed sprinkle doughnut
+9997,chocolate soft clair
+10202,chocolava eggless
+6866,choconut sundae
+6671,chocopie
+4656,chocos
+74,choki choki 100
+545,choki choki 5
+6727,chola bhatura
+6733,chola tandoori kulcha
+10398,chole biryani
+3562,chole samosa chaat
+3353,chole bhature
+3213,choley rice
+4620,chow chow bath
+3363,chum chum
+4870,churro doughnut
+3655,chutney
+5396,chutney cheese sandwich
+5397,cinnamon doughnut
+9990,cinnamon roll
+6525,classic doner kebab beef
+6546,classic doner kebab chicken
+5846,classic donuts
+6829,classic falooda
+6750,classic green
+4194,classic maggi
+5895,classic margherita pizza 3 slices
+7320,classic salted potato chips
+6502,clear chicken soup
+6499,clear soup
+7465,clubbed chicken tower burger
+494,coca cola 250ml 20
+2269,coca cola 320ml vanilla 150
+2268,coca cola 750 ml 40
+2270,coca cola zero sugar 250ml 20
+1081,coca cola zero sugar 300ml
+287,coca cola 300 ml 40
+366,coca cola no sugar
+2679,cocojal coconut water 50
+2144,cocojar tender coconut water 50
+3194,coconut peanut rice
+5398,coconut barfi
+9481,coconut cookies 100gms
+9482,coconut cookies 200gms
+510,coconut crunchy 10
+6852,coconut kulfi
+8060,coconut milk
+9909,coconut mocha
+3195,coconut rice
+904,coconut rice old
+3442,coffee
+7625,coffee ice cream
+845,coffee joy 50
+3728,coffee mocha fantasy cake
+2748,coke 250 ml 22021090
+145,coke 300 ml can mrp 40
+3242,cold badam milk
+3244,cold boost
+4323,cold coffee
+3253,cold coffee milkshake
+3245,cold horlicks milk
+5399,coleslaw sandwich
+9983,colombian chocolate cheese cake
+5836,cone cake
+4140,continental chicken rice
+3657,continental chicken soup
+5401,continental non veg meal
+5402,continental non veg meal chicken
+5403,continental non veg meal egg
+5404,continental non veg meal fish
+5405,continental non veg meal mutton
+5406,continental non veg packed meal
+5407,continental non veg packed meal chicken
+5408,continental non veg packed meal egg
+5409,continental non veg packed meal fish
+5410,continental non veg packed meal mutton
+5411,continental veg meal
+5412,continental veg packed meal
+3511,continental vegetable soup
+4129,convenience fee
+10904,cooker mandi quarter
+5661,cookies
+6004,cookies cream waffle
+7627,cookies n cream ice cream
+7321,coriander dosa
+7322,coriander rice
+3537,corn peanut salad
+5009,corn peas biryani
+3538,corn peas salad
+7467,corn potato burger
+5413,corn spinach cheese sandwich
+5958,corn spinach parcel
+5414,corn spinach sandwich
+5965,corn spinach parcel jalapeno pizza american chocomax
+4379,corn bread omelette
+3586,corn chaat
+4374,corn cheese momo
+4770,corn cheese sandwich
+3589,corn flakes chaat
+779,corn flakes 50 gms with milk 100ml
+7323,corn idly
+4193,corn maggi
+6182,corn masala dosa
+6483,corn mushroom rice
+3216,corn pulao
+4769,corn sandwich
+952,corn stick
+6172,corn utthappam
+4685,corn and spinach cheese sandwich
+4684,corn and spinach sandwich
+3548,corn and pepper tossed salad
+3539,corn pasta cheese salad
+2696,cornado tomato blast 110
+4657,cornflakes
+405,cornitos california almonds
+401,cornitos coated green peas hns
+402,cornitos coated green peas wasabi
+454,cornitos green peas wasabi 28 gms 20
+403,cornitos jumbo cashews
+399,cornitos nacho cheese herbs 30gms 20
+409,cornitos nachos crisp melange
+400,cornitos peri peri
+407,cornitos pop n cur party mix 28gms 20
+410,cornitos pumpkin seed rosted salt 30gms 40
+406,cornitos roasted peanut salted
+502,cornitos roasted almonds 50
+404,cornitos roasted cashews pepper 25gms 50
+455,cornitos roasted cashews salted 25gms 50
+503,cornitos salted peanuts 10
+408,cornitos tray jalapeno nachos salsa dip 70g 60
+3698,cottage cheese and pepper steaks
+6292,cotton candy
+276,country harvest mixed fruit cake
+4387,crab omelette
+6822,cranberry smoothie
+4779,cream bun
+10227,cream cheese bagel with chia seeds
+6248,cream roll
+4689,creamy chicken cheese sandwich
+4688,creamy chicken sandwich
+4369,creamy oreo sundae
+7122,creamy sause pasta
+6303,crispy chicken
+4588,crispy chicken corn dog
+5299,crispy chilli babycorn
+5415,crispy chilli pepper corn
+5298,crispy chilli potato
+931,crispy chilli potato 8 pcs
+5416,crispy chilli potato with spring onions
+6446,crispy chilly potato
+6449,crispy corn chilly pepper
+7326,crispy mushroom
+3540,crispy mushroom salad
+3558,crispy peri peri chicken salad
+5417,crispy schezwan vegetables
+6450,crispy vegetable
+10035,crunchy taco bowl
+10039,crunchy taco bowl 200 250 gms
+9973,crunchy taco supreme non veg
+9968,crunchy taco supreme veg
+9977,crunchy wheat taco non veg
+9972,crunchy wheat taco veg
+7327,cucumber dosa
+3293,cucumber juice
+10176,cucumber mint lemon
+2468,cup noodles chilli super hot 50
+953,cup corn 150ml
+8197,cupcakes
+70,cuppa noodles chicken
+3189,curd
+2785,curd 04039010 40
+4360,curd rice
+903,curd rice
+6574,curd rice with poriyal pickle
+5682,curd vada 2 pcs
+7328,curry leaf dosa
+7329,curry leaf rice
+5978,curry leaves rice
+6573,curry leaves rice with papad poriyal
+3196,curryleaf rice
+3393,custard
+3271,custard apple milkshake
+4661,cut fruit 100 gms
+3523,cut fruits
+4660,cut fruits 50 gms
+7330,cut fruits with ice cream
+10080,cute plum cake
+4706,cutlet 1 pc
+6594,cutlet 2 pcs
+4707,cutlet 2 pc
+3590,cutlet chaat
+3563,cutlet chaat
+6982,cutlet chana
+2470,daadis mobile khakhra kothmir 25
+2471,daadis mobile khakhra masala 25
+2472,daadis mobile khakhra methi 25
+2473,daadis mobile khakhra nachos 25
+2474,daadis mobile khakhra panipuri 25
+7331,dabeli
+3564,dahi bhalle chaat
+3565,dahi bhel chaat
+7539,dahi bhel puri
+7543,dahi kachodi
+3575,dahi kachori
+3566,dahi papdi chaat
+6311,dahi poori
+6596,dahi puri
+6411,dahi puri 5 pcs
+3587,dahi samosa
+3576,dahi sev puri
+4356,dahi vada
+297,dairy milk 10
+87,dairy milk 23 grms 20
+448,dairy milk roast almond 36 grms 45
+449,dairy milk silk roast almond 143 grms 175
+7045,dairy rich
+6673,dairy mlk chocolate
+264,dairymilk 10rs
+259,dairymilk 5rs
+433,dakshin pink guava
+3219,dakshini pulao
+4431,dal kachori
+7721,dal khichdi
+3490,dal makhani
+3489,dal pappu
+7085,dal paratha
+3217,dal pulao
+4653,dal tadka
+833,dal vada
+9991,danish pastry
+5988,dark chocolate
+75,dark fantasy 30
+2775,dark fantasy bourbon 35
+143,dark fantasy choco fills
+2776,dark fantasy vanilla cream 19059020
+2697,dark fantasy vanilla fills 20
+381,dark fantasy yumfills pie 23 gm mrp 10
+228,dark fantasy yumfills pie 23 gm mrp 13
+7056,dark white waffle waffles without ice cream
+4407,dark milk chocolate waffle cold coffee
+3229,darshini pulao
+9994,date banana walnut cake
+7333,dates walnut cake
+3266,dates milkshake
+7334,dates pie
+4858,day special breakfast
+6867,dbc sundae
+7637,decorations
+10321,delhi ke chole paneer tawa naan
+6985,demo change 13
+6986,demo change 14
+10008,demo changed 13
+4321,desi tamasha
+7060,dessert of the day
+8590,detox water
+3207,dhaba rice
+6421,dhai samosa
+6612,dhal tadukan 200 grm
+6614,dhal palak 200 grm
+3636,dhokla
+3637,dhokla sandwich
+473,diamond aloo bhujia
+2686,diet coke 40
+146,diet coke 300 ml can mrp 40
+4240,dilkush
+5424,dindigul chicken biryani
+7335,dindigul egg biryani
+5425,dindigul mutton biryani
+397,dinner chicken with primary menu
+398,dinner chicken with secondary menu
+394,dinner egg with primary menu
+395,dinner egg with secondary menu
+391,dinner veg with primary menu
+392,dinner veg with secondary menu
+10044,dispenser consumable rental
+7421,divine crush
+9945,diwali special non veg meals 1
+9947,diwali veg meals
+9946,diwali special non veg meals 2
+5764,doctor staff
+10133,domino s achari do pyaza large
+10112,domino s achari do pyaza mediumx
+10090,domino s achari do pyaza regular
+10449,domino s al fungi gourmet pizza
+10429,domino s blazing chicken paprika
+10134,domino s blazing onion and paprika large
+10113,domino s blazing onion and paprika medium
+10092,domino s blazing onion and paprika regular
+10441,domino s champaran mutton
+10148,domino s champaran veg large
+10127,domino s champaran veg medium
+10106,domino s champaran veg regular
+10425,domino s cheese volcano bbq chicken
+10424,domino s cheese volcano blazing chicken
+10422,domino s cheese volcano chicken delight
+10423,domino s cheese volcano double chicken
+10442,domino s cheese volcano farm house
+10443,domino s cheese volcano peppy paneer
+10444,domino s cheese volcano vegie paradise
+10138,domino s cheese and corn large
+10117,domino s cheese and corn medium
+10096,domino s cheese and corn regular
+10434,domino s chicken dominator
+10431,domino s chicken fiesta
+10432,domino s chicken golden delight
+10428,domino s chicken keema paratha pizza
+10436,domino s chicken pepperoni
+10447,domino s chicken pepperoni gourmet pizza
+10426,domino s chicken sausage
+10445,domino s corn cheese volcano
+10091,domino s corn and cheese paratha pizza regular
+10136,domino s double cheese margherita large
+10115,domino s double cheese margherita medium
+10094,domino s double cheese margherita regular
+10140,domino s farmhouse large
+10119,domino s farmhouse medium
+10098,domino s farmhouse regular
+10135,domino s fiery jalapeno and paprika large
+10114,domino s fiery jalapeno and paprika medium
+10093,domino s fiery jalapeno and paprika regular
+10430,domino s fiery sausage paprika
+10137,domino s fresh veggie large
+10116,domino s fresh veggie medium
+10095,domino s fresh veggie regular
+10437,domino s indi chicken tikka
+10144,domino s indi tandoori paneer large
+10123,domino s indi tandoori paneer medium
+10102,domino s indi tandoori paneer regular
+10439,domino s kosha mangsho
+10146,domino s kosha veg large
+10125,domino s kosha veg medium
+10104,domino s kosha veg regular
+10440,domino s malai chingri
+10132,domino s margherita large
+10111,domino s margherita medium
+10089,domino s margherita regular
+10141,domino s mexican green wave large
+10120,domino s mexican green wave medium
+10099,domino s mexican green wave regular
+10435,domino s non veg supreme
+10147,domino s paneer malai large
+10126,domino s paneer malai medium
+10105,domino s paneer malai regular
+10152,domino s paneer spice supreme large
+10131,domino s paneer spice supreme medium
+10110,domino s paneer spice supreme regular
+10427,domino s pepper barbeque chicken
+10139,domino s peppy paneer large
+10118,domino s peppy paneer medium
+10097,domino s peppy paneer regular
+10448,domino s primavera gourmet pizza
+10446,domino s smoked chicken gourmet pizza
+10433,domino s spiced double chicken
+10450,domino s the 4 cheese gourmet pizza
+10145,domino s the 4 cheese pizza large
+10124,domino s the 4 cheese pizza medium
+10103,domino s the 4 cheese pizza regular
+10438,domino s the 5 feast chicken pizza
+10150,domino s triple veg delight large
+10129,domino s triple veg delight medium
+10108,domino s triple veg delight regular
+10143,domino s veg extravaganza large
+10122,domino s veg extravaganza medium
+10101,domino s veg extravaganza regular
+10149,domino s veggie buddies large
+10128,domino s veggie buddies medium
+10107,domino s veggie buddies regular
+10151,domino s veggie fiesta large
+10130,domino s veggie fiesta medium
+10109,domino s veggie fiesta regular
+10142,domino s veggie paradise large
+10121,domino s veggie paradise medium
+10100,domino s veggie paradise regular
+7336,donne egg biryani
+5089,donne mushroom biryani
+7337,donne veg biryani
+43,donut
+10218,donut eggless
+10201,donuts assorted eggless
+2482,doritos masala mayhem namkeen 20
+289,doritos nacho cheese
+2799,doritos nacho cheese 10 21069099
+2483,doritos nacho cheese 20
+2480,doritos nacho cheese namkeen 30
+68,doritos nachos cheese 10
+2798,doritos sweet chilli 10 21069099
+2484,doritos sweet chilli nachos 20
+2481,doritos sweet chilli namkeen 30
+3653,dosa
+7339,dosa kadala curry
+7340,dosa with batani curry
+7338,dosa with chicken curry
+7341,dosa with veg curry
+5879,double chicken treat semizza 3 slices
+4093,double choco chip cookies
+4604,double chocolate cup
+4862,double chocolate doughnut
+7055,double chocolate waffle waffles without ice cream
+7342,double ka meetha
+5666,double layer maggi
+7419,double trouble
+4309,doughnut
+4650,dragon chicken
+934,dragon chicken 8 pcs
+8530,dragon chicken biryani
+4629,dragon gobi
+3294,dragon juice
+3272,dragon milkshake
+5297,dragon paneer
+6445,dragon potato
+932,dragon potato 8 pcs
+922,dragon style chicken 8 pcs
+7374,dragon style fish 8 pcs
+2145,dreams choco cup cake 5
+6461,drums of heaven
+4857,dry fruit
+7540,dry fruit bhel puri
+6863,dry fruit ice cream
+4999,dry fruit kulfi
+6844,dry fruit lassi
+6925,dry fruit milkshake
+6868,dry fruit sundae
+3223,dry fruits pulao
+6854,dryfruit milkshake
+5998,dual dapper waffles
+3364,dudhi halva
+9820,dugga dugga amish
+9821,dugga dugga niramish
+268,dukes bourbon
+251,dukes waffy chocolate
+248,dukes waffy orange
+249,dukes waffy vannila
+6038,dulce de leche
+5426,dum aloo curry
+6131,dum biriyani chicken
+6137,dum biriyani mutton
+579,duplicate
+5649,duplicate
+2405,dusk miller chocolate rose cookies 130
+2408,dusk miller everyday essentials choc cookies 90
+2407,dusk miller everyday essentials jeera cookies 90
+2406,dusk miller kaju butter cookies 90
+2409,dusk miller osmania cookies 60
+2404,dusk miller pistachio orange cookies 170
+2403,dusk miller seed oat shortbread 120
+280,dutchie buttermilk
+796,earthy nuts healthy trail mix 59
+880,earthy nuts roasted almonds rs 55
+795,earthy nuts roasted cashew 59
+1269,earthy nuts roasted pistachios rs 60
+4907,eclairs
+9113,egg mushroom roll
+9114,egg panner
+6735,egg mutta bonda
+6369,egg appam with chicken stew
+6110,egg bajji
+4352,egg bhurji
+6208,egg bhurji 3 phulka
+4192,egg bhurji maggi
+5947,egg bhurji with bread
+6324,egg biriyani
+692,egg biriyani
+3234,egg biryani
+5736,egg biryani 300 gms
+6094,egg biryani with raitha
+6638,egg biryani chicken 65 curd rice
+3634,egg bonda
+6877,egg burger
+4681,egg cheese sandwich
+5427,egg chilli
+4775,egg chilli cheese sandwich
+5428,egg chilli garlic noodels
+10658,egg chop
+4777,egg club cheese sandwich
+4776,egg club sandwich
+4774,egg corn sandwich
+3707,egg croissant
+826,egg curry
+4351,egg curry
+6395,egg curry rotirice
+6377,egg curry with rice
+10537,egg dinner
+4608,egg dosa
+730,egg dosa
+6548,egg fatheera
+3496,egg fried rice
+5430,egg hakka noodles
+3661,egg hot dog
+5980,egg kothu parotta
+6514,egg kotthu parotta
+7344,egg kuska biryani
+8066,egg lollipop
+3358,egg maggi
+818,egg masala
+4651,egg masala 1 egg
+4652,egg masala 2 egg
+3720,egg masala dosa
+734,egg masala dosa old
+5431,egg masala sandwich
+6646,egg masala curry
+4773,egg mayo sandwich
+10007,egg meal
+3493,egg noodles
+6433,egg noodles 350 gms
+3550,egg oriental salad
+6734,egg pakoras
+6741,egg paniyaram
+9828,egg paratha
+9829,egg paratha tandoor
+4748,egg podi dosa
+3710,egg puff
+950,egg puff old
+6660,egg rice bowl
+4764,egg roll
+6977,egg roll double egg
+3549,egg salad
+3595,egg sandwich
+4475,egg sandwich full
+4474,egg sandwich half
+5432,egg schezwan fried rice
+5433,egg schezwan noodles
+5434,egg singapore noodles
+7077,egg soup
+6907,egg starter
+6406,egg starter egg fried rice egg noodles
+5862,egg thali
+3665,egg wrap
+6378,egg curry with paratha
+5435,egga masala cheese sandwich
+9911,eggless cardamom pistachio cake
+9910,eggless coconut macarons
+8198,eggless cupcakes
+2475,ego potato chips african peppers 40
+2476,ego potato chips desi vibes 40
+2477,ego sweet potato chips carribean bbq 40
+2478,ego sweet potato chips cheese 40
+2479,ego sweet potato chips mexican twist 40
+5088,eid special moti biryani
+4219,ela ada
+304,elaichi amul cool 180 ml rs 20
+6871,elaichi tea
+4206,elanchi
+4469,elayada
+6540,elayappam
+2797,elite orange fruit cake 30 19059010
+277,elite rich butter cookies
+2796,elite veg milk bar cake 30 19059010
+7345,ellu kobbari sadam
+9078,english breakfast
+4245,enna pathiri
+8585,entry slot
+8586,entryslot
+2309,epigamia almond milk unsweetened 1ltr 300
+526,epigamia chocolate milkshake 35
+2310,epigamia coconut milk unsweetened 70
+2311,epigamia coconut milk jaggery 70
+2307,epigamia greek artisanal curd 90
+2296,epigamia greek yogurt sf mixed berry 70
+2297,epigamia greek yogurt sf strawberry 70
+2305,epigamia greek yogurt alphonso mango 55
+2306,epigamia greek yogurt blueberry 55
+2302,epigamia greek yogurt natural 55
+2303,epigamia greek yogurt natural low fat 200
+2301,epigamia greek yogurt strawberry 55
+2299,epigamia greek yogurt vanilla bean 55
+2298,epigamia greek yogurt wild raspberry 55
+2312,epigamia milkshake chocolate 40
+2313,epigamia milkshake strawberry 40
+2314,epigamia milkshake vanilla 35
+2304,epigamia mishti doi 35
+521,epigamia strawberry milkshake 35
+522,epigamia vanilla milkshake 35
+2308,epigamia yogurt smoothie mango 70
+2300,epigamia yogurt smoothie strawberry 70
+9142,espresso
+6249,event dinner
+6255,event lunch
+2698,evocus alkaline water 500ml 100
+8892,extra
+6104,extra katori
+6923,extra add on
+7059,extra butter
+6892,extra cheese
+4438,extra chicken
+6089,extra egg
+5924,extra parotta 1 pc
+7456,extra rice
+10400,extra sweet from thali
+59,fab bourbon 10
+418,fabelle choco deck 34 5 grms
+346,fabelle fruit n nut 45
+232,fabsta butter cookies 100 gm mrp 25
+6027,fajita wrap
+6998,falafel
+6994,falafel roll
+6997,falafel vada
+6846,falooda
+6830,falooda delight
+10079,family plum cake
+882,fanta 22021010 20
+286,fanta 40
+2689,fanta apple delite 20
+2699,fanta laici lychee 150
+2485,fast up charge fizzy orange blast 20 tablet 390
+2486,fast up nac 20 tablets 410
+2487,fast up reload fizzy lemon blast 20 tablet 235
+2488,fast up reload orange 20 tab 235
+2489,fast up vitalize fizzy orange blast 20 tablet 195
+76,ferrero rocher
+2450,ferrero rocher 149
+2449,ferrero rocher 180
+2448,ferrero rocher 529
+2447,ferrero rocher 895
+5856,fiery hot peri peri maggi
+4757,fig juice
+7564,fig milkshake
+5436,filter coffee
+316,fine life aloo bhujia
+6454,finger fried babycorn
+8750,finletted mackerel fish fry
+5881,fish biriyani full
+4350,fish biryani
+3437,fish curry
+10538,fish dinner
+4139,fish finger
+3648,fish fried kebab
+6768,fish fry seer pomfret
+6696,fish fry meals
+4642,fish mulaku curry
+9074,fish n chips
+4386,fish omelette
+8073,fish podimas bhurji
+6955,fish polichathu
+5734,fish pulusu
+3436,fish tandoori
+3644,fish tandoori kebab
+7124,fish thali
+3435,fish fry
+3641,fishtawa kebab
+6666,five star 25gm
+63,fizz 160ml
+1279,fizz appy 12
+1280,fizz be fizz
+4087,flat white
+619,flavored milk 5 25 04029990
+7200,flavour infused water
+4905,flavoured croissant
+8065,flavoured lassi
+5967,flavoured rice non veg
+5966,flavoured rice veg
+7125,flavoured tea
+2490,flavure roasted cashew honey cinnamon 55
+2492,flavure snack on the go olive chilli 50
+2493,flavure snack on the go olive chilli garlic 50
+2494,flavure snack on the go olive oregano 50
+2495,flavure snack on the go olive tandoori 50
+2491,flavure snack on the go olives achari 55
+3731,focaccia bread
+7463,food coupon
+10527,food festival
+4597,formaggio pasta
+3668,french fries
+6051,french fries chicken popcorn
+8212,french toast
+9996,french vanilla soft clair
+3401,fresh fruit cake
+3726,fresh fruit tart
+4928,fresh fruit cream bowl
+6934,fresh lime sweet salt soda
+7126,fresh lime juice
+3300,fresh mango juice
+3301,fresh pineapple juice
+3286,fresh sweet lime juice
+4786,fresh tender coconut water
+6132,fried biriyani chicken
+6107,fried chicken biryani full
+6108,fried chicken biryani half
+5441,fried chicken momo
+6918,fried egg
+6948,fried egg pasta
+5442,fried egg with bread
+8580,fried idli
+6086,fried momo cheese
+5443,fried paneer momo
+7536,fried pav bhaji
+6404,fried rice chicken
+6400,fried rice veg
+925,fried rice veg 350 grms
+5444,fried veg momo
+153,frooti 160 ml tetra pack mrp 10
+1655,frooti mango drink rs 20
+9801,fruit
+40,fruit nut energy bar
+3409,fruit cake slice
+3392,fruit custard
+6930,fruit grilled sandwich
+5930,fruit lassi
+3546,fruit salad
+7127,fruit salad with ice cream
+6853,fruit smoothie
+2534,fruit tella 2in1 orange grape 90
+2535,fruit tella 2in1 strawberry banana 90
+2536,fruit tella with fruit juice 90
+9470,fruit basket
+4345,fudgy choconut
+6745,full afgani chicken
+4756,full boiled double egg
+3434,full fry egg
+5445,full fry egg with bread
+4937,full meal
+948,garden diet bhel rs 10
+944,garden mini bhakarwadi rs 10
+941,garden potato rs 10
+940,garden saucy tomato rs 10
+939,garden tempting masala rs 10
+6779,gptw donuts
+7128,gadbad ice cream
+3365,gajar halwa
+10311,galangal infused thai curry with steamed rice
+793,galaxy milk chocolate 20
+2357,galaxy milk chocolate cookie crumble 140
+2356,galaxy milk chocolate cookie crumble 75
+2358,galaxy milk chocolate smooth milk 140
+2359,galaxy milk chocolate with fruit nut 140
+2789,galaxy smooth milk 30 gms 45
+5871,gali wala chaat
+9434,ganpatione
+9435,ganpatitwo
+957,garden cruncho pudina jaljira 10
+958,garden diet chivda 10
+5904,garden fresh veggie pizza semiza 3 slices
+4343,garden veg
+3671,garlic bread
+4738,garlic butter dosa
+824,garlic chicken si
+6093,garlic chicken wing
+819,garlic fish curry
+5964,garlic pinwheel margherita fudgy
+2569,gatorade blue bolt 50
+2567,gatorade lemon sports drink 50
+2568,gatorade orange 50
+9989,german forest
+685,gery crackers
+5317,ghar ka khana
+5660,ghee cookies
+732,ghee dosa
+6163,ghee dosa
+6624,ghee idly 2pcs
+6164,ghee karam dosa
+5783,ghee laddu
+5909,ghee masala dosa
+4741,ghee onion dosa
+4743,ghee onion podi dosa
+4609,ghee onion roast dosa
+4740,ghee podi dosa
+3214,ghee rice
+6534,ghee rice with beef curry
+6059,ghee rice with chicken carry
+6061,ghee rice with single piece chicken curry
+4606,ghee roast dosa
+6174,ghee set dosa
+4211,ghee vada
+740,ghee jeera pulao with dal fry
+7049,ghoogni
+4421,ghugni with luchi
+7129,gil e firdaus
+7247,ginger coffee
+6873,ginger elaichi tea
+3326,ginger lime
+6485,ginger rice
+4138,ginger tea
+10085,ginger spice cookies
+2700,girnar detox green tea desi kahwa 330
+2510,glinter soft drink green apple 99
+2511,glinter soft drink kiwi 99
+2512,glinter soft drink lemon 99
+2513,glinter soft drink lychee 99
+2514,glinter soft drink peach 99
+2509,glinter soft drink pink guava 99
+838,go choco rollz 30
+371,go choco weelz 5rs
+498,go choco wheelz 10
+357,go choco wheelz 5
+9043,goan fish curry 2pcs
+5446,gobhi paratha
+5097,gobi 65
+6099,gobi 65 biryani
+3626,gobi bhajji
+5882,gobi chili
+5447,gobi chilli dry
+7130,gobi corn dosa
+6580,gobi fried rice
+4630,gobi manchurian
+6423,gobi manchurian 120 gms
+6618,gobi masala 200 grm
+7474,gobi mushroom masala dosa
+7131,gobi onion paratha
+7132,gobi paratha
+6605,gobi paratha 1 no with channa masala 60 grm curd
+7133,gobi pepper dry
+7473,gobi pepper masala dosa
+5449,gobi pulao cauliflower pulao
+6757,gobi pyaz paratha
+5912,gobi65 biryani
+5785,gobindo bhug chaaler payesh
+2738,godrej sofit soya milk kesar pista 35
+2739,godrej sofit soyamilk natural 35
+3621,gol bhajji
+7764,golden corn pizza
+6447,golden fried babycorn
+1498,gone mad cappuccino wafer 10
+2760,gone mad choco wafer 10
+2792,gone mad hexgon 30
+5725,gongura chicken biryani
+5450,gongura chicken dry
+5731,gongura mutton biryani
+6125,gongura veg biryani
+467,good day biscuits 20
+121,good day butter 10
+57,good day cashew 10
+111,good day cashew 20
+298,good day cashew biscuits 120 gm rs 20
+107,good day chocochip 30
+158,good day nuts 58 gm mrp 10
+615,good day pista badam 10
+108,good day pista badam 20
+1660,good day pista badam 25
+2191,good day biscuit 10
+1704,good day cashew rs 25
+139,good day cashew cookie rs10
+66,goodlife
+1700,goodday harmony 15
+8758,goosberry juice
+9486,gothamb pradhaman 1000ml
+9498,gothamb pradhaman 150ml
+9492,gothamb pradhaman 500ml
+3278,granola milk shake
+4165,grape lemon juice
+3528,grapes
+3284,grapes juice
+10266,grapes whole fruit
+9782,greek farm house salad chicken
+9791,greek farm house salad egg
+9792,greek farm house salad tuna
+9076,greek salad
+4904,greekish salad
+2773,green apple 08081000
+6823,green apple mojito
+10036,green goddess
+10040,green goddess 200 gms
+7134,green grapes milkshake
+1497,green lays cream onion 10
+5728,green mirchi chicken biryani
+5733,green mirchi mutton biryani
+4437,green moong usli
+3609,green moong vada
+7135,green moongdal masala dosa
+6679,green peas masala
+4747,green peas masala dosa
+7136,green peas paratha
+7137,green peas poha
+3531,green salad
+4663,green salad 100 gms
+4662,green salad 50 gms
+3447,green tea
+5451,grill chicken cheese sandwich
+5452,grill chicken sandwich
+4691,grilled chicken cheese sandwich
+8964,grilled chicken salad
+4690,grilled chicken sandwich
+9033,grilled fish salad
+3700,grilled chicken
+6203,ground nut
+7139,guacamole
+3529,guava
+4780,guava juice
+7140,guava milk shake
+7631,guava mojito
+3295,guava chilly juice
+6869,gud bud sundae
+4568,gud chai
+4553,gud kesar chai
+10240,gujiya
+6202,gulab jamun with jeera
+3366,gulab jamun
+7141,gulkand lassi
+6766,gun chicken leg
+6979,gup chup chat
+10531,gurer manmatano
+10530,gurer talas
+947,haldiram phalhari chiwda rs 10
+6664,hr chipps
+2537,haagen dazs blueberry and cream 240
+2538,haagen dazs cookies cream 240
+2539,haagen dazs strawberries and cream 240
+2540,haagen dazs strawberry 200
+9974,habanero burrito non veg
+9969,habanero burrito veg
+6495,hakka noodles non veg
+6403,hakka noodles non veg 250gm
+6398,hakka noodles veg
+930,hakka noodles chicken 350 grms
+929,hakka noodles veg 350 grms
+6467,hakka veg
+529,haladirams khatta meetha 30
+2784,haldiram bhujia sev 21069099 20
+41,haldiram halka fulka 10
+801,haldiram lite chiwda 40
+943,haldiram lite chiwda rs 10
+477,haldiram s all in one 20 gms 5
+478,haldiram s all in one 40 gms 10
+480,haldiram s bhujia sev 38 gms 10
+476,haldiram s halka fulka 15 gms 5
+479,haldiram s mixture 55gms 10
+1658,haldiram s salted kaju rs 50
+319,haldirams aloo bhuija 10
+6011,haldirams aloo bhujia
+252,haldirams aloo bhujia 10
+870,haldirams chana cracker 10
+2293,haldirams chatpata matar 10
+2295,haldirams fatafat bhel 40
+869,haldirams indian mixture 10
+2291,haldirams instant bhel 10
+320,haldirams khatta meetha
+324,haldirams lassi 180ml 20rs
+2289,haldirams masala kaju 50
+104,haldirams masala peanuts 40 gms 10
+265,haldirams matka jhatka
+322,haldirams moong dal 18gm 5rs
+262,haldirams moong dal
+2290,haldirams panchratan mix 10
+2292,haldirams punjabi tadka 10
+868,haldirams ratlami sev 10
+171,haldirams salted peanuts 60 gm mrp 10
+2294,haldirams sev murmura mirch masala 10
+871,haldirams tasty nuts 10
+119,haldirams tasty nuts 5
+334,haldirams tasty nuts 45gm 10rs
+261,haldirams soya sticks
+6743,half afgani chicken
+4755,half boiled double egg
+5453,half fry egg
+5454,half fry egg with bread
+6744,half paneer tikka
+8200,halwa
+634,hanry s tasty bite garlic sev 10
+635,hanry s tasty bite golden mix 10
+633,hanry s tasty bite mini bhakarwadi 10
+2781,happilo almonds nuts 20081990 40
+2782,happilo trail nuts 20081990 60
+2749,happy happy biscuit rs 10
+328,happy happy cake 40gm 10rs
+7142,harayali chicken tikka
+10308,hare mutter paneer ke kofte with achari chana pulao
+5455,haryali kebab
+6996,hash brown short balls
+4367,havmor coffee milkshake
+9776,hawaiian salad chicken
+9773,hawaiian salad egg
+9787,hawaiian salad tuna
+9772,hawaiian salad veg
+3264,hazelnut milk shake
+9995,hazelnut soft clair
+5082,healthy meal
+3327,healthy ragi malt
+9925,heart shape pan cake full
+7143,heerekai bajji
+894,hershey s almond milkshake 35
+2324,hershey s exotic dark blueberry acai 55
+2325,hershey s exotic dark pomegranate 55
+2323,hershey s exotic dark raspberry goji chocolate 55
+2328,hershey s kisses almonds 50
+2327,hershey s kisses cookies n creme 140
+2333,hershey s kisses cookies n creme 50
+2326,hershey s kisses milk chocolate 50
+2332,hershey s milkshake vanilla ice cream 35
+893,hershey s strawberry milkshake 35
+2793,hersheys creamy milk chocolate 55
+309,hersheys milk shake almond 200 ml rs 35
+2330,hersheys milk shake chocolate 35
+2329,hersheys milk shake cookies n cream 35
+308,hersheys milk shake cookies n creame 200 ml rs 20
+2331,hersheys milk shake strawberry 35
+310,hersheys milk shake strawberry 180 ml rs 35
+4100,hi tea
+290,hide seek 10
+2777,hide seek 19059020 30
+160,hide seek black bourbon chocolate 100 gm mrp 30
+161,hide seek choco roll 33 gm mrp 10
+159,hide seek chocolate 75 gm mrp 20
+162,hide seek milano choco chips 75 gm mrp 30
+434,himalayan mixed fruit
+2688,himalayan natural mineral water 1lit 70
+5829,homemade chocolates
+3403,honey almond cake
+7145,honey almond tart
+5985,honey butter
+7050,honey butter maple waffles without ice cream
+3424,honey cake
+6453,honey chilly cauliflower
+5303,honey lemon chicken
+8560,hong kong chicken fried rice
+3263,horlicks shake
+8757,horse mackerel fry fish
+6253,hostel mess pack
+5285,hot sour pepper chicken soup
+5283,hot sour pepper veg soup
+181,hot spicy schezwan noodles with chicken 305 gm mrp 125
+6500,hot and sour chicken soup
+3240,hot chocolate
+6875,hot chocolate milk
+6864,hot chocolate sundae
+3241,hot horlicks
+6874,hot kesar badam milk
+6498,hot and sour soup
+6136,hyderabadi chicken biriyani
+5456,hyderabadi chicken biryani
+8563,hyderabadi chicken curry
+5457,hyderabadi chicken dum biryani
+7147,hyderabadi egg biryani
+5458,hyderabadi mutton biryani
+5459,hyderabadi mutton dum biryani
+5460,hyderabadi paneer biryani
+5461,hyderabadi paneer dum biryani
+5462,hyderabadi veg biryani
+5463,hyderabadi veg dum biryani
+6371,iiish thali
+8202,ice cream milkshake
+2783,ice cream strawberry 21050000 10
+4395,ice cream topping
+4396,ice cream waffle cone
+8802,ice magic s butterscotch large cup 70 ml
+8796,ice magic s castata slice 120 ml
+8797,ice magic s chocobar big 60 ml
+8784,ice magic s chocolate big cone 100 ml
+8790,ice magic s custurd apple 100 ml
+8789,ice magic s gudbud 100 ml
+8799,ice magic s kulfi 100 ml
+8801,ice magic s large cup chocolate 70 ml
+8800,ice magic s mango duet 60 ml
+8795,ice magic s matka kulfi 100 ml
+8794,ice magic s mini chocobar 40 ml
+8793,ice magic s nutty bar butter scotch 60 ml
+8792,ice magic s nutty bar chocolate 60 ml
+8791,ice magic s pina wlada 100 ml
+8783,ice magic s strawberry duet 60 ml
+8786,ice magic s strawberry big cone 100 ml
+8787,ice magic s swinger sunde 120 ml
+8788,ice magic s tender coconut tubes 100 ml
+8798,ice magic s vanila cup 70 ml
+8785,ice magic s vanilla big cone 100 ml
+8209,ice popsicle
+8570,ice cream sandwich
+8569,icecream
+6254,iced tea
+6364,idiappam 4pcs with chicken kurma
+6961,idiyappam
+6705,idiyappam chicken curry
+4694,idiyappam egg curry
+6759,idiyappam kadala curry
+4695,idiyappam veg curry
+5936,idiyappam with coconut milk
+1070,idiyappam with kadalai curry
+3651,idli
+1308,idli 1 pc
+724,idli 2 pcs vada 1 pc
+723,idli 3 pcs
+4456,idli 2 pcs
+4454,idli 4 pcs
+7148,idli manchurian
+3330,idli sambar
+7149,idli soup
+7150,idli upma
+3332,idli wada
+10319,idli wada sambhar chutney
+546,idly
+6561,idly vada curry
+6566,idly 2 nos 1 no vada
+6567,idly 2 nos pongal 200 grm 1 no vada
+6728,idly chicken curry
+6551,idly with sambar 2 type chuttney
+6565,idyappam kurma
+6435,iftar menu 1
+6436,iftar menu 2
+6437,iftar menu 3
+6438,iftar menu 4
+6121,ilish begun bori jhol
+6117,ilish begun bori jhol platter
+6115,ilish bhapa
+6119,ilish bhapa platter
+6122,ilish paturi
+6118,ilish paturi platter
+9958,imarti
+2515,impact blackcurrant mints 120
+2522,impact fresh mints 120
+2523,impact mints blueberry yoghurt sf 120
+2516,impact mints cola mints sf 120
+2524,impact mints country ice mints sf 120
+2517,impact mints mango yoghurt sf 120
+2525,impact peach mints 120
+2518,impact sf honey melon mints 120
+2526,impact sf ice mints 120
+2519,impact sf orange mints 120
+2520,impact sf strawberry mints 120
+2527,impact spearmints mints 120
+2521,impact strong mints sugar free 120
+7151,indian lentil soup
+6399,indonesian noodles veg
+5464,indori poha
+55,instant bhel
+2751,instant maggi
+4229,irachi pathiri beef
+6813,irish frappe
+6949,italian pasta
+2439,jabsons chikki peanut gud brittle 10
+2440,jabsons classic hand roasted 70
+2441,jabsons peanut gud chikki 40
+2442,jabsons peanuts black pepper 70
+2443,jabsons peanuts hing jeera 70
+2444,jabsons peanuts lemon and chilli 70
+2445,jabsons peanuts nimboo pudina 70
+2446,jabsons peanuts spicy masala 70
+5723,jack fruit fry biryani 450 gms
+6196,jack fruit pulao 300 gms
+7153,jackfruit juice
+7154,jackfruit milkshake
+3517,jade soup
+7155,jaggery coffee
+3249,jaggery milk
+4732,jaggery tea
+8908,jain food
+3319,jal jeera
+4164,jalapeno cheese croquettes
+10226,jalapeno cream cheese knots
+5961,jalapeno pizza
+4238,jalebi
+3384,jalebi
+3367,jalebi with rabdi
+4778,jam bun
+5465,jam maska bun
+4239,jam roll
+7565,jangiri
+5466,jeera aloo dry
+6944,jeera masala soda
+3210,jeera rice
+6536,jeera rice with butter chicken
+10173,jeera samba chicken biryani
+6676,jeera soda
+463,jhakkas jamun
+791,jharkand khicadi
+8056,jigarthanda
+2804,jim jam 10
+2541,jivo wheatgrass drink cola glass 40
+2544,jivo wheatgrass drink ginger glass 50
+2542,jivo wheatgrass drink jeera glass 40
+2543,jivo wheatgrass drink mojito glass 60
+7156,jola akki dosa
+10532,joy nagar moa
+4953,juice
+6719,juice sweet lime 300ml
+6723,juice butter fruit 300 ml
+6721,juice dragon 300 ml
+6725,juice ginger lime 300 ml
+6724,juice kiwi 300 ml
+6720,juice litchi 300 ml
+6417,kacha kakara cheese sandwich
+6416,kacha kakara sandwich
+10172,kachche gosht ki biryani
+4137,kachori
+3567,kachori chaat
+4655,kadai chicken
+817,kadai paneer
+6063,kadai veg
+4244,kadala
+6956,kadala curry
+5467,kadhai chicken
+3243,kadhai doodh
+5468,kadhai paneer
+7158,kadhi chawal
+6780,kahasta kachauri 1 pc
+4569,kahwa kesari
+7160,kai holige
+4227,kaipola
+5469,kaju katli
+6056,kakka roast
+548,kal dosa
+4455,kal dosa
+6562,kal dosa vada curry
+6758,kal dosa kadala curry
+4697,kal dosa with plain chicken gravy
+4554,kal dosa with vada curry
+3368,kala jamun
+7162,kala khatta soda
+3369,kalakand
+4610,kali dosa
+64,kalmegh bitters 100ml
+10317,kanchipuram idli
+4669,kanji
+7623,kanji meal
+4205,kappa
+4611,kappa biriyani
+4224,kappa puzhukku
+6297,kara pori
+6206,kara sev
+5658,karamani
+6150,karampodi dosa
+6151,karampodi masala dosa
+3627,karela bhajji
+6057,karimeen fry
+9944,karnataka fusion feast
+5470,kathal biryani jackfruit biryani
+5471,kathal dum biryani jackfruit dum biryani
+3568,katori chaat
+6109,kaya bajji
+8051,kazhi with chicken curry
+8052,kazhi with mutton curry
+7161,keema balls
+3633,keema samosa
+810,keera kootu
+4699,keera rice with curd rice
+834,keera vada
+3610,keerai vada
+6592,keerai vada 2 pcs
+2747,kela chips 20081940
+2451,kellogg s rice krispies treats caramel chocolate 170
+2453,kellogg s rice krispies treats double chocolate 170
+2452,kellogg s rice krispies treats original 170
+5472,kerala chicken biryani
+5473,kerala chicken dum biryani
+6963,kerala chicken meal
+7173,kerala egg biryani
+7174,kerala fish biryani
+6287,kerala fish curry
+6964,kerala fish meal
+5474,kerala mutton biryani
+5475,kerala mutton dum biryani
+6280,kerala non veg thali
+4641,kerala paratha
+7163,kerala paratha kadala curry
+6535,kerala paratha with beef curry
+6538,kerala paratha with chicken curry
+6285,kerala parotta with beef curry
+6962,kerala veg meal
+6279,kerala veg thali
+301,kesar amul cool 180 ml rs 20
+6842,kesar badam lassi
+7015,kesar bhog
+6848,kesar falooda
+3385,kesar peda
+4854,kesar pista
+4998,kesar pista kulfi non mrp
+5928,kesar pista lassi
+7083,kesar pista phirni
+3389,kesari bath
+4567,kesari chai
+6415,khachapuri 5 pcs
+10406,khaja
+3638,khandvi
+4619,khara bath
+10260,khara boondhi
+5788,kheer bati
+5782,kheer kadam
+4621,khichdi
+3320,khus ka sherbet
+2753,kibi kibi bliss balls 60
+7556,kili meen fry
+4251,kilikoodu
+4574,kimchi fried rice with paneer satay
+6387,kinaxis lunch
+2565,kinder joy for boys 45
+2566,kinder joy for girls 45
+2818,kinley soda water 750ml
+2683,kinley water 1 ltr 20
+2684,kinley water 500 ml 10
+6835,kinnathappam
+3299,kinoo juice
+167,kit kat 20
+853,kit kat 40
+499,kit kat brownie 60
+6817,kit kat milkshake
+7165,kit kat peanut butter shake
+46,kitkat
+327,kitkat dessert delight choco pudding 50 grms 55
+127,kitkat dessert delight truffle 50 grms 55
+6926,kitkat milkshake
+6001,kitkat waffle
+7166,kiwi fruit milkshake
+4394,kiwi lassi
+4879,kiwi pastry
+6938,kiwi soda
+4247,kizhangu
+6135,kizhi biriyani chicken
+6142,kizhi biriyani mushroom
+6141,kizhi biriyani paneer
+6130,kizhi biriyani seafood
+2655,knorr cup a soup hot sour veg 10
+2654,knorr cup a soup manchow veg 10
+2651,knorr cup a soup mixed vegetable 10
+2652,knorr cup a soup sweet corn veg 10
+2653,knorr cup a soup tomato chatpata 10
+10253,kodubale
+3304,kokum juice
+3321,kokum sharbat
+4136,kola urundai
+9044,koli saru
+5476,kolkata chicken biryani
+5477,kolkata chicken dum biryani
+5091,kolkata egg biryani
+5478,kolkata mutton biryani
+5479,kolkata mutton dum biryani
+7000,kolukattai
+4992,kombucha
+6390,kootu
+839,kopiko cafe blend 20
+837,kopiko chocolate 10
+4576,korean kimchi fried rice with chicken satay
+7168,kothu parotta
+5913,kotthimera chicken dum biryani
+4226,kozhi ada
+6639,kozhi kari soru
+6767,kozhi vadai
+813,kozhi varutha curry
+762,kozhi kari soru
+4218,kozhukkatta
+56,krackjack
+10659,krispy kreme donut
+4876,krunchy choco custard doughnut
+7366,kuboos
+7171,kulfi
+6847,kulfi falooda
+6927,kulfi milkshake
+6479,kung pao chicken
+6469,kungpao cauliflower
+571,kurkure 20
+37,kurkure 47 gms 10
+2320,kurkure chatpata cheese namkeen 10
+2317,kurkure chatpata cheese namkeen 20
+6088,kurkure cheese momo
+650,kurkure chilli chatka 10
+2318,kurkure chilli chatka namkeen 20
+2321,kurkure green chutney 10
+649,kurkure green chutney style 10
+2319,kurkure green chutney style 20
+1372,kurkure green chutney style 20
+172,kurkure masala munch 10
+1373,kurkure masala munch 20
+647,kurkure naughty tomato 10
+2315,kurkure naughty tomato namkeen 20
+2322,kurkure puffcorn 10
+2316,kurkure puffcorn yummy cheese 20
+1249,kurkure solid masti 20
+6087,kurkure veg momo
+6356,kuska biryani
+4623,kuttu parotta with chicken gravy
+2341,kwality ice cream bon bon 35
+2342,kwality ice cream kulhad kulfi 35
+2349,kwality walls aamras ice cream 30
+2350,kwality walls choco tastic sundae 35
+2351,kwality walls cornetto black forest 65
+2352,kwality walls cornetto choco vanilla 35
+2345,kwality walls cornetto chokissimo 65
+2343,kwality walls cornetto double chocolate 40
+2344,kwality walls cornetto oreo disc 65
+2353,kwality walls dry fruit rabri kulfi 30
+2354,kwality walls feast chocobar 35
+2346,kwality walls oreo and cream cup 60
+2355,kwality walls sandwich chocolate vanilla 30
+2347,kwality walls tender coconut cup 50
+2348,kwality walls trixy cookie 60
+5132,laccha paratha
+4910,lactose free milk non mrp
+4236,laddu
+9955,ladoo basen
+9954,ladoo boodni
+2431,lago mini party wafers cocoa cream 199
+2428,lago mini party wafers cocoa sugar free 199
+2429,lago mini party wafers hazelnut 199
+2430,lago mini party wafers lemon 199
+2427,lago mini party wafers strawberry 199
+2432,lago mini party wafers vaniglia 199
+2570,lakerol sugar free pastilles grape 110
+2571,lakerol sugar free pastilles lemon tea 110
+2572,lakerol sugar free pastilles strawberry 110
+3315,lassi
+184,lassi rose flavor 200 ml mrp 15
+4086,latte
+5786,lauer payesh
+2528,lavian exotique creme bakes 10
+2529,lavian exotique creme cups chocolate 90
+2530,lavian exotique creme cups vanilla 90
+2531,lavian exotique cremelets assorted hexagon box 149
+2532,lavian exotique cremelets paan 4pcs 60
+2533,lavian exotiquecremelets caramel 4pcs pack 60
+1,lays 1
+621,lays american cream onion 20
+541,lays american style cream onion 10
+656,lays american style cream onion 5
+288,lays american style cream onion 20
+2271,lays chile limon potato chips 20
+2286,lays chilli lime 10
+562,lays classic salted 10
+677,lays classic salted 20
+520,lays cream onion 10
+2282,lays gourmet lime cracked pepper 30
+2285,lays gourmet lime cracked pepper 50
+2281,lays gourmet thai sweet chilli 30
+2284,lays gourmet thai sweet chilli 50
+2280,lays gourmet vintage cheese paprika 30
+2283,lays gourmet vintage cheese paprika 50
+2272,lays hot sweet 30
+542,lays hot n sweet chilli 10
+558,lays hot n sweet chilly 20
+519,lays india s magic masala 10
+559,lays india s magic masala 20
+657,lays india s magic masala 5
+291,lays indian magic masala 30
+2273,lays magic masala chips 30
+1447,lays maxx macho chili flavour 10rs
+2277,lays maxx macho chilli chips 30
+2279,lays maxx peppery cheddar flavour 30
+2278,lays maxx sizziling barbeque chips 30
+1276,lays salt with pepper 10rs
+1079,lays sizzlin hot 20
+1271,lays sizzlin hot 10rs
+173,lays spanish tomato 10
+658,lays spanish tomato 5
+622,lays spanish tomato tango 20
+1275,lays sun dried chilli 10rs
+2779,lays wafer 20052000 30
+2274,lays wafer style chilli 20
+2288,lays wafer style sundried chilli flavour 10
+2287,lays wafer style tangy treat 10
+2275,lays wafer style tangy treat 20
+2276,lays west indies hot and sweet chilli 20
+709,lays chile lemon flavour
+877,lays chile lemon flavour rs 20
+2787,lays tomato tango 10
+707,lays wafer style sundried chilli flavour
+708,lays west indies hot and sweet chilli 10
+878,lays west indies hot and sweet chilli rs 20
+6989,lazeez bhuna chicken biryani
+1573,lazeez chicken dum biryani
+6037,lazy daisy cake
+8081,leaf plate
+7007,lebanese chicken sandwich
+6542,lebanese shawarma
+6480,lemon chicken
+5480,lemon chicken dry
+7547,lemon ginger
+9793,lemon honey tea
+4449,lemon ice tea
+8880,lemon masala
+3203,lemon rice
+4365,lemon rice egg curry
+10318,lemon rice sambhar chutney
+6571,lemon rice with papad poriyal
+902,lemon rice old
+7172,lemon semiya
+862,lemon sevai
+7188,lemon sherbet
+7546,lemon soda
+3446,lemon tea
+8877,lemon with honey
+8878,lemon with mint leaves
+3303,lemon juice
+848,limca 20
+1472,limca can 40
+5026,lime dew
+4446,limited meal 1
+4447,limited meal 2
+6634,limited non veg meals
+6635,limited veg meals
+2675,lindt excelence extra creamy milk 400
+2729,lindt excellence dark 85 cocoa 400
+2730,lindt excellence dark mint intense 399
+2731,lindt excellence 90 cacao dark supreme 450
+2701,lindt excellence honeycomb dark 400
+534,little hearts 20
+2750,little hearts 5 19053100
+53,little hearts classic
+5092,live fruit custard falooda 250ml
+5093,live mango custard falooda 250ml
+3220,lobia pulao
+3611,lobia vada
+4388,lobster omelette
+5300,lollipop chicken
+2545,london dairy belgian chocolate stick 135
+2546,london dairy berries cream stick 135
+2547,london dairy praline cream 150
+2548,london dairy premium vanilla ice cream cup 150
+2549,london dairy raspberry sorbet stick 135
+2550,london dairy simply strawberry 120
+2551,london dairy tiramisu 150
+553,lotte choco pie 10
+710,lotte choco pie with rich marshmallow
+9982,lotus cheese cake
+5867,luchi aloo dum
+5481,lucknowi chicken biryani
+5482,lucknowi chicken dum biryani
+5483,lucknowi mutton biryani
+5484,lucknowi mutton dum biryani
+5485,lucknowi paneer biryani
+5486,lucknowi paneer dum biryani
+5487,lucknowi veg biryani
+5488,lucknowi veg dum biryani
+396,lunch with chicken
+917,lunch with chicken secondary menu
+393,lunch with egg
+389,lunch with primary menu veg
+390,lunch with secondary menu veg
+6856,lychee juice
+6947,lychee lassi
+6924,lychee milkshake
+6936,lychee soda
+92,m dew
+2702,m m chocolate 50
+2703,m m peanut 99
+49,mtr poha
+282,maaza
+2670,maaza 20
+299,maaza 150 ml rs 10
+154,maaza 150ml tetra pack mrp 10
+54,maaza refresh
+4405,mac cheese pasta veg sandwich mint lime juice
+3534,macaroni salad
+8746,mackerel fish fry
+457,mad aangles masala madness namkeen 36 5 10
+1359,mad angle tomato madness 10
+386,mad angles achari 20
+1358,mad angles acharri masti 10
+385,mad angles chat 72 5 gms 20
+424,mad angles masala madness namkeen 90 grms 20
+3606,maddur vada
+6295,madurai jigarthanda
+3359,maggi
+340,maggi chicken cuppa noodles 67 grms
+195,maggi chicken cuppa noodles 67 ml mrp 50
+339,maggi chilly chow cuppa noodles 70 grms
+194,maggi chilly chow cuppa noodles 50
+5855,maggi fries
+72,maggi masala cuppa noddles 45
+83,maggi poha
+9918,maggie appe half
+9927,maggie appe full
+472,maggie poha 65 gms 50
+85,maggie upma 35 grms 50
+2704,magic pops assorted 20
+2553,magnum ice cream almond 90
+2552,magnum ice cream brownie 90
+2554,magnum ice cream chocolate truffle 80
+5101,make your own salad
+9035,make your own salad non veg
+9034,make your own salad veg
+2503,makhana walas roasted 80g sweet barbeque 130
+2504,makhana walas roasted black salt makhana 130
+2497,makhana walas roasted cheesy italiana 130
+2498,makhana walas roasted himalayan pink salt 130
+2496,makhana walas roasted khatta meetha 130
+2499,makhana walas roasted peri peri 130
+2500,makhana walas roasted pudina punch 130
+2501,makhana walas roasted salt n pepper 130
+2502,makhana walas roasted spicy indian 130
+4252,malabar cake
+6073,malabar chicken curry
+6958,malabar egg roast
+6054,malabar fish curry
+8883,malabar parato
+6957,malabar stew
+8754,malabar trevally fish fry
+4856,malai
+9826,malai chicken
+4996,malai kulfi
+3370,malai sandwich
+3386,malai cham cham
+4578,malaysian curry mee chicken
+4581,malaysian curry mee with vegetables
+192,malkist cappuccino cracker biscuits 138 gm mrp 50
+2791,malkist cappuccino crackers 60
+632,malkist cheese cracker biscuits 35
+222,malkist cheese cracker biscuits 138 gm mrp 50
+1051,malkist cheese flavour 6
+471,malkist cheese flavoured crackers 138 gms 50
+193,malkist chocolate flavoured crackers 138 gm mrp 50
+459,malkist sugar cracker biscuits 138 gms 50
+223,malkist sugar cracker biscuits 35
+5789,malpoa
+3388,malpua
+4122,management fees
+6501,manchow chicken soup
+923,manchurian veg 8 pcs
+7375,manchurian fish 8 pcs
+5665,manchurian maggi
+6468,manchurian veg gobi
+924,manchurian chicken 8 pcs
+7175,mangalore bajji
+7176,mangalore bonda
+6984,mangalore bonda4 pc
+7177,mangalore bun
+6928,mango avacado milkshake
+5914,mango chicken biryani
+7178,mango dosa
+9359,mango gateaux
+6860,mango icecream
+4390,mango lassi
+4083,mango magnifique cake
+4855,mango malai
+4997,mango malai kulfi
+4865,mango masti doughnut
+3279,mango milkshake
+6889,mango mojito
+4166,mango mousse
+4984,mango mustard nv salad
+4982,mango mustard salad
+4168,mango pastry
+6314,mango peel
+7553,mango pheni
+3204,mango rice
+4987,mango rice bowl veg
+908,mango rice old
+5790,mango rosogolla
+5108,mango salad
+6818,mango smoothie
+6939,mango soda
+7346,mango triffle
+3402,mango cake
+7816,manpower charges
+5986,maple butter
+6836,marble cake
+8765,marble cake chocolate
+8766,marble fruit cake
+4599,margherita
+4404,margherita cheese pizza cheese corn nuggets 1 scope ice cream
+4968,margherita pizza
+2705,mars bar 60
+4207,masala bonda
+5872,masala chaat
+4318,masala chai
+7544,masala cheese sandwich
+5877,masala chicken tikka wrap
+9477,masala cookies 100gms
+9478,masala cookies 200gms
+7347,masala corn
+8770,masala cup noodles
+547,masala dosa
+6145,masala dosa
+8564,masala egg curry
+6344,masala fried fish
+811,masala fried fish
+3230,masala gobi pulao
+5489,masala idli
+5664,masala maggie
+4383,masala omelette
+5490,masala omelette with bread
+6731,masala paapad
+5876,masala paneer tikka wrap
+4749,masala podi dosa
+8587,masala powder
+3577,masala puri
+6410,masala puri 100gms
+6162,masala rawa dosa
+3197,masala rice
+4319,masala shikanji
+6872,masala tea
+6560,masala uthappam
+6256,masala uttapam
+6166,masala uttappam
+3607,masala vada
+771,masala vada 1 pc
+6584,masala vada 2 pcs
+790,masala omelet
+3669,mashed potato
+10216,mathri
+10314,mattar mushroom with jeera rice
+5491,mattra kulcha
+9204,max protein choco crunchy
+9180,max protein desi masala
+5492,mayo babycorn sandwich
+4378,mayo bread omelette
+4382,mayo cheese bread omelette
+7348,mayo chicken sandwich
+5493,mayo mushroom sandwich
+4402,mayo veg sandwich mexican fries 1 scope ice cream
+5494,mayonnaise sandwich
+5495,mayonnaise veg sandwich
+321,mazedaar masala cup noodles 50
+9981,meal big bell box classic non veg
+9980,meal big bell box classic veg
+7469,meal maker masala dosa
+4954,meals
+4233,meat cutlet beef
+4232,meat samosa
+6583,medhu vada 2nos
+8962,mediterranean beans salad
+9779,mediterranean grilled egg
+9789,mediterranean grilled salad tuna
+8960,mediterranean salad
+3685,mediterranean style chicken
+3684,mediterranean style vegetables
+3608,medu vada
+725,medu vada 1 pc
+2579,meiji hello panda biscuit cheese cream 120
+2580,meiji hello panda biscuit cookies cream 120
+2581,meiji hello panda biscuit strawberry cream 120
+9976,melted cheese quesadilla non veg
+9971,melted cheese quesadilla veg
+8048,meram chicken fried idly spicy
+8049,meram chicken masala dosa spicy
+8050,meram egg masala rice spicy
+8053,meram mixed chicken kuzhambu rice
+8055,meram mixed fish kuzhambu rice
+8054,meram mixed mutton kuzhambu rice
+8044,meram onion rava with chicken curry spicy
+8046,meram onion uthappam with chicken curry spicy
+8045,meram podi onion rava with chicken curry spicy
+8047,meram podi onion uthappam with chicken curry spicy
+8057,meram spicy butter milk
+7349,methi aloo paratha
+7350,methi dosa
+10312,methi muthiya nu shaak with plain paratha
+3221,methi pulao
+7351,mexican soup
+4986,mexican bowl non veg
+4985,mexican bowl veg
+10320,mexican burrito rice with gravy
+7352,mexican cheese sandwich
+5497,mexican non veg meal
+5498,mexican non veg meal chicken
+5499,mexican non veg meal egg
+5500,mexican non veg meal fish
+5501,mexican non veg meal mutton
+5502,mexican non veg packed meal
+5503,mexican non veg packed meal chicken
+5504,mexican non veg packed meal egg
+5505,mexican non veg packed meal fish
+5506,mexican non veg packed meal mutton
+6891,mexican pizza
+6026,mexican quesadilla wrap
+3208,mexican rice
+4346,mexican roll garden veg fudgy choconut
+3541,mexican salad
+5901,mexican sunrise
+5507,mexican veg meal
+5508,mexican veg packed meal
+2582,miaow miaow cheese rings 75
+2583,miaow miaow pizza snaks 75
+2584,miaow miaow prawn crackers 75
+9953,mid night snacks careleon
+7418,midnight beauty
+550,milano chocolate chip cookies 30
+549,milano mixed berries cookies 35
+3247,milk
+81,milk bikis
+4427,milk cake
+5990,milk chocolate
+3390,milk peda
+626,milk product 12 35 22029930
+792,milk product 12 40 22029930
+79,milkist cheese
+80,milkist chocoloate
+8201,milkshake
+141,milky bar rs40
+125,milky bar yummy
+7051,milky milk chocolate waffle waffles without ice cream
+2732,milky mist fruit yoghurt blueberry 55
+2733,milky mist fruit yogurt strawberry 55
+278,milky mist mango lassi
+7353,millet bisi bele bhath
+6149,millet dosa
+8914,millet high protine kichidi
+10304,millet idli
+3205,millet lemon rice
+7354,millet pesarattu
+7355,millet poha
+8915,millet sambar rice
+9993,millet ragi berry cake
+2555,minerva foods chekkalu 55
+2556,minerva foods corn flakes mixture 40
+2557,minerva foods dal mot 60
+2558,minerva foods french vanilla chikki 15
+2559,minerva foods kaara boondi 60
+2560,minerva foods masala kabuli chana 60
+2561,minerva foods peanut chikki 15
+2562,minerva foods punjabi tadaka masala chips 20
+2563,minerva foods salted chips 20
+2564,minerva foods spanish tomato chips 20
+7356,minestrone soup
+6323,mini egg thali
+5509,mini idli
+6623,mini idly 14 pc
+4938,mini meal
+6322,mini non veg thali
+2459,mini oreo chocolate cream go packs 175
+2457,mini oreo original 199
+2458,mini oreo strawberry cream 175
+5655,mini samosa
+4335,mini veg thali
+7012,mini veg uthappam
+10001,mini cup cake
+6078,mint chicken
+4746,mint dosa
+3306,mint lime juice
+10414,mint masala dosa
+9797,mint oreo shakes
+5654,mint puff
+3199,mint rice
+7624,mint tea
+756,mint rice old
+2669,minute maid apple 10
+570,minute maid pulpy orange 20
+6693,minutemaid pulpy orange 250 ml
+285,miranda
+8888,mirchi baji
+131,mirinda 25
+91,mirinda 40
+116,mirinda 20 rs
+188,mirinda 250 ml mrp 35
+373,mirinda 250ml 30rs
+3334,misal pav
+9139,misel pav
+8870,mix fruit juice
+9785,mix leafy salad tuna
+6081,mix non veg fried rice
+4701,mix spcl veg fried rice gobi manchurian
+830,mix veg bajji
+6138,mix veg biryani
+6466,mix veg cashewnut
+6615,mix veg curry 200 grm
+7358,mix veg idli
+4327,mix veg paratha
+7359,mix veg poha
+7357,mix veg uttappam
+10306,mix vegetable idli
+7630,mixberry mojito
+6749,mixed berry
+6952,mixed fruit bowl with icecream
+3186,mixed fruit jam
+3287,mixed fruit juice
+3273,mixed fruit milk shake
+10418,mixed veg biryani
+5735,mixed veg biryani 300 gms
+3692,mixed veg tagine
+3622,mixed vegetable bhaji
+4197,mixed vegetable toast
+77,mixture
+6205,mixture
+7053,mochar chop
+3371,modak
+2585,mogu mogu apple juice 70
+2586,mogu mogu grape juice 70
+2587,mogu mogu lychee juice 70
+2588,mogu mogu mango juice 70
+2589,mogu mogu orange juice 70
+2590,mogu mogu pineapple juice 70
+2591,mogu mogu strawberry juice 70
+7360,mohabbat ka sharbat
+4250,mohana ada
+7069,mohingo chicken
+7068,mohingo egg
+7070,mohingo egg chicken
+7067,mohingo veg
+8571,mojito
+6942,mojito mint soda
+2505,mom makhana cream n onion
+2506,mom makhana desi chaat
+2507,mom makhana himalayan salt n pepper 99
+2508,mom makhana tomato achaari 99
+120,moms magic butter 10
+969,moms magic butter 5
+446,moms magic fruit milk
+884,moms magic rich butter 5
+664,monaco piri piri 10
+2334,monster energy drink lewis hamilton 330
+2335,monster energy drink the doctor rossi 349
+2336,monster energy drink ultra blue 349
+2337,monster energy drink ultra violet 349
+369,monster energy ultra 110
+2338,monster juiced ripper 349
+7361,mooli onion paratha
+5973,mooli paratha
+1464,moon fills strawberry 10
+1679,moonfils cheese tandoori
+3569,moong chaat
+6706,moong dal rava kitchadi
+3618,moong dal bhajji
+7281,moong dal cheela
+7362,moong dal paratha
+9039,moong dal chilla 2pcs
+9992,moraccan cake
+820,moringa green moong dal
+3296,mosambi juice
+3224,moti pulao
+3372,motichur laddu
+130,mountain dew 20
+1514,mountain dew 35
+451,mountain dew 250 ml 25rs
+872,mountain dew can 250 ml 30
+2687,mountain dew can 35
+8584,mousse
+4899,mouth freshner
+9331,mozarella bread pocket
+7011,mudakathan dosa
+7058,muesli with milk
+5837,muffins
+6079,mughlai chicken
+6606,mulli paratha 1 no with channa masala 60 grm curd
+3512,mulligatawny soup
+3730,multigrain bread
+4483,multigrain dosa
+4989,multigrain subs non veg
+4988,multigrain subs veg
+6414,mumbai cheese sandwich
+5869,mumbai falooda
+6412,mumbai sandwich
+4683,mumbai veg cheese sandwich
+4682,mumbai veg sandwich
+168,munch nuts 32 gm mrp 20
+6381,murgh makhani
+5510,murukku
+9579,murukku masala chakuli
+6413,muruku sandwich
+8555,mushroom 65
+6139,mushroom biryani
+4744,mushroom butter masala dosa
+5511,mushroom cheese maggi
+5512,mushroom cheese sandwich
+6342,mushroom chili
+8558,mushroom chilli
+4733,mushroom dosa
+736,mushroom dosa
+5513,mushroom fried rice
+5514,mushroom maggi
+8559,mushroom manchuria
+7468,mushroom masala dosa
+5689,mushroom nihari with sheermal
+10299,mushroom noodles
+6052,mushroom pepper fry
+7219,mushroom popcorn
+5652,mushroom puff
+5515,mushroom pulao
+5516,mushroom rice
+4759,mushroom sandwich
+7179,mushroom soup
+752,mushroom fried rice with manchurian
+751,mushroom fried rice with sauce
+9112,mushroom roll
+8556,mushrrom manchuria
+3297,musk melon juice
+8869,muskmelon juice
+3267,muskmelon milkshake
+7472,mutter paneer masala dosa
+7084,mutter paneer thali
+6622,mutter panner 200 grm
+4349,mutton biryani
+6637,mutton biryani chicken 65 curd rice
+6113,mutton comb
+5521,mutton dum biryani
+3649,mutton fried kebab
+5730,mutton fry piece biryani
+7061,mutton gravy
+7180,mutton haleem
+6640,mutton kari soru
+7182,mutton keema biryani
+6736,mutton kheema samosa
+6697,mutton kolambu meals
+6645,mutton masala
+8037,mutton masala dosa
+7183,mutton meal
+6644,mutton pepper fry
+815,mutton pepper fry
+8072,mutton podimas bhurji
+5522,mutton pulao
+8075,mutton samosa 2 pcs
+6701,mutton sukka meals
+3645,mutton tandoori kebab
+3642,mutton tawa kebab
+6372,mutton thali
+6700,mutton kola meals
+6765,mutton kola per piece
+6760,mutton korma
+8183,mutton nombu kanji
+6763,mutton sukka fry
+5969,mysore bajji
+7184,mysore bonda
+6593,mysore bonda 2 pcs
+6175,mysore masala dosa
+3373,mysore pak
+5523,naan
+4908,nachos with cream chicken
+4909,nachos with cream paneer
+4644,nadan chicken curry
+7185,nafrat ka sharbat
+856,namkeen kurkure 10
+2742,nanda s cream bun pineapple 15
+2741,nanda s cream bun vanilla 15
+523,nandini buttermilk 10
+4376,nannari sarbath
+4575,nasi goreng with chicken satay
+5524,natti chicken kebab
+6761,nattukozhi fry
+2577,navitreatz almonds dates bar 275
+2576,navitreatz cashew dates bar 225
+2578,navitreatz dry fruit nuts bar 275
+2573,navitreatz mixed nutties 350
+2575,navitreatz powerpackfuel bar 275
+2574,navitreatz roasted cashews 300
+8749,needle fish fry
+6076,neelgiri chicken curry
+665,neenu s natural energy bars chocolate
+666,neenu s natural ragi fingers
+669,neenu s natural super seed mix
+668,neenu s natural trail mix
+667,neenu s natural whole wheat fingers mexican
+670,neenu s natural whole wheat methi mathri
+6972,neer dosa
+8058,neer majjige masala butter milk
+2659,nescafe all in 1 cup 20
+128,nescafe chilled latte 180 ml 35
+2656,nescafe chilled latte drink 45
+2658,nescafe choco mocha 45
+1555,nescafe cold coffee
+180,nescafe hazelnut 180 ml mrp 35
+2661,nescafe hazelnut coffee drink 40
+132,nescafe intense cafe 35
+2660,nescafe intense cafe drink 45
+155,nescafe rtd milo 180 ml mrp 30
+123,nescafe hazelnut
+2657,nestea iced tea lemon flavour 30
+88,nestle milkybar 10
+2386,nestle after eight orange mint 549
+2387,nestle after eight strawberry 549
+2385,nestle after strawberry 549
+2388,nestle bar one 20
+45,nestle chocolate 10
+2389,nestle classic chocolate 20
+2390,nestle dahi plain 30
+2393,nestle kit kat dessert delight truffle 60
+2392,nestle kitkat dessert delight heavenly brownie kubes 65
+535,nestle kitkat 15
+2391,nestle kitkat 30
+89,nestle kitkat 55
+2394,nestle kitkat dessert delight divine choco pudding 65
+351,nestle kitkat rs10
+343,nestle kitkat rs20
+2395,nestle kitkat share snap wafer bar 50
+255,nestle milo 35
+2401,nestle milk bar mocha 45
+2396,nestle milky bar mould 40
+144,nestle milky bar rs20
+2397,nestle milkybar moosha 20
+2398,nestle milo 40
+491,nestle munch 10
+112,nestle munch 20
+2402,nestle munch fruit o nuts 30
+2399,nestle munch maha crunch 10
+2400,nestle munch nuts 20
+90,nestle kitkat 25
+9243,neverno amritsary fish fry
+9244,neverno battered fish fry
+9242,neverno traditional fish fry
+4249,neyyappam
+3325,nimboo soda
+482,nimbooz 250 ml 20
+5525,nippat
+7189,nippattu masala
+169,nissin cup noodles 70 gm mrp 45
+2469,nissin cup noodles italiano 50
+2467,nissin cup noodles spiced chicken 50
+2466,nissin cup noodles veggi manchow 50
+270,nissin spicy chunky chicken cup noodles 50
+269,nissin veggi manchow cup noodles
+10533,nolen gure rasgolla
+840,non mrp sku 996333
+9938,non veg slot 1
+9939,non veg slot 2
+9940,non veg slot 3
+9941,non veg slot 4
+9942,non veg slot 5
+7758,non veg bao
+8577,non veg calzone
+6319,non veg chicken
+6747,non veg chicken club sandwich
+8573,non veg crackers
+5841,non veg dinner
+6320,non veg fish
+9914,non veg full meals
+6265,non veg lunch
+4667,non veg meals
+9950,non veg meals lunch careleon
+9952,non veg melas dinner careleon
+7190,non veg momo
+4853,non veg salad
+6910,non veg starter
+8214,non veg sub
+8582,non veg wrap
+8583,non veg burger
+5526,non veg bowl
+4092,non veg meal
+6363,non veg meals
+6900,non veg momo burger
+6904,non veg momo platter
+6902,non veg momo pasta
+5527,non veg packed meal
+6901,non veg special momos
+7191,noodle soup
+5529,north indian breakfast packed meal
+702,north indian buffet
+3486,north indian chicken gravy
+3460,north indian chicken thali
+3484,north indian dry veg
+3464,north indian fish thali
+695,north indian full meals
+3482,north indian gravy veg
+6599,north indian meal
+5530,north indian non veg meal
+5531,north indian non veg meal chicken
+5532,north indian non veg meal egg
+5533,north indian non veg meal fish
+5534,north indian non veg meal mutton
+5535,north indian non veg packed meal
+5536,north indian non veg packed meal chicken
+5537,north indian non veg packed meal egg
+5538,north indian non veg packed meal fish
+5539,north indian non veg packed meal mutton
+3342,north indian paneer thali
+5540,north indian veg meal
+5541,north indian veg packed meal
+3340,north indian veg thali
+6837,north indian veg kadai
+698,north mini meals
+5875,northern speciality
+919,nourish organics amla bar 60
+921,nourish organics apple oats 60
+920,nourish organics choco bar 60
+7545,nutella sandwich
+9998,nutella soft clair
+2734,nutri choice oats almond 25
+507,nutricrunch digestive 20
+509,nutricrunch ginger 20
+508,nutricrunch honey oats 20
+1639,nutricrunch honey oats 25
+9577,nutty box trail mix
+4408,nutty delight cold stone ice cream choco carnival sundaes
+5997,nutty nutella waffles
+9783,oat meal
+5542,oatmeal cookies
+8207,oats
+7192,oats dosa
+10303,oats idli
+7057,oats with milk
+2592,ocean fruit water crispy apple 50
+2593,ocean fruit water mango and passion fruit 50
+2594,ocean fruit water peach and passion fruit 50
+2595,ocean fruit water pink guava 50
+6128,octopus biriyani
+9984,old school pineapple gauteax
+6828,omani rob ruman
+3430,omelette
+4223,omelette double egg duck
+4220,omelette double egg hen
+4222,omelette single egg duck
+4221,omelette single egg hen
+6932,omelette grilled sandwich
+7194,omelette rice
+3432,omelette with bread
+6388,onam special meals
+6587,onion bajji 4 pcs
+3619,onion bhajji
+7195,onion bonda
+5543,onion cheese sandwich
+4485,onion cholam dosai
+4612,onion dosa
+731,onion dosa
+6187,onion egg dosa
+3211,onion ghee rice
+3592,onion kachori chaat
+4750,onion masala dosa
+7514,onion oothappam
+4215,onion pakoda
+5544,onion paratha
+5960,onion pepper pizza
+4739,onion podi dosa
+6631,onion raagi dosa 1 no
+4484,onion ragi dosa
+6178,onion rava dosa
+8039,onion rava with chicken curry
+6161,onion rawa dosa
+3601,onion samosa
+6186,onion set dosa
+6558,onion uthappam
+8041,onion uthappam with chicken curry
+4461,onion uttapam
+6169,onion utthappam
+6632,onion wheat dosa 1 no
+827,onion bajji
+7196,open dosa
+7197,open dosa masala
+7198,open podi masala
+3599,open veg sandwich
+3600,open chicken sandwich
+757,option 2 classic south meals
+3288,orange juice
+8957,orange lime
+3187,orange marmalade
+6824,orange mojito
+6940,orange soda
+7199,orange tea cake
+794,orbit 5
+307,oreo cadbury dipped 50 gm rs 25
+2678,oreo chocolate cookies p b cookies 115
+4439,oreo milk shake
+3259,oreo shake
+6000,oreo waffle
+1701,organic peanut bar 20
+2746,organic sesame bar 20
+3499,oriental chicken
+3500,oriental egg
+7201,oriental lentil soup
+3504,oriental paneer
+6651,oriental soup veg
+3501,oriental veg
+4860,original glazed doughnut
+7417,original sin
+4600,ortolana pizza
+6481,oyster chicken
+6458,oyster chilly chicken
+1171,pappaya kirni juice
+2110,parle 20 20 butter cookies 5
+2112,parle fabio 10
+2111,parle hide seek choco rolls 30
+946,parle nice 20 20 rs 10
+6674,pb lassi
+10315,pomodoro basilico sauce pasta with garlic bread
+6843,paan lassi
+6732,paapad
+7493,pabda macher thali
+4124,packaging charges mrp
+4121,packaging charges non mrp
+10006,packing charges
+4590,paddu
+5027,pain au chocolate
+5014,pain au chocolat
+4470,pakkavada
+4591,pakoda
+9483,palada payasam 1000ml
+9495,palada payasam 150ml
+9489,palada payasam 500ml
+7203,palak aloo paratha
+831,palak bajji
+3620,palak bhajji
+6077,palak chicken
+7202,palak dosa
+5545,palak paneer
+8541,palak paneer biryani
+6183,palak paneer dosa
+6905,palak puri
+10415,palak set dosa
+3612,palak vada
+3206,palak rice
+5729,palamuri chicken biryani
+5970,pan cake
+6729,pan cake 2 pcs
+3323,panakkam
+8548,paneer 555
+8535,paneer 555 biryani
+6908,paneer 65
+7205,paneer 65 biryani
+8550,paneer achari tikka
+8538,paneer achari tikka biryani
+8554,paneer amritsari
+9919,paneer appe half
+9928,paneer appe full
+3629,paneer bhajji
+5880,paneer biriyani full
+3236,paneer biryani
+4381,paneer bread omelette
+4429,paneer bread pakoda
+7206,paneer bun
+3597,paneer burger
+4400,paneer butter masala sandwich veg fingers vanilla milkshake
+5690,paneer cashew biryani
+4772,paneer cheese sandwich
+5546,paneer chilli
+7208,paneer corn masala
+4134,paneer crackers
+6376,paneer curry paratha
+6397,paneer curry rotirice
+4734,paneer dosa
+3492,paneer dry
+5548,paneer dum biryani
+5549,paneer fried rice
+3491,paneer gravy
+3660,paneer hot dog
+9040,paneer jhalfrezi
+6083,paneer kofta
+5550,paneer lababdar
+5857,paneer maggi
+8547,paneer majestic
+8534,paneer majestic biryani
+4654,paneer makhani
+807,paneer makhani
+8551,paneer malai tikka
+8539,paneer malai tikka biryani
+8533,paneer manchuria biryani
+5551,paneer manchurian
+4631,paneer masala
+5552,paneer momo
+6152,paneer onion dosa
+8549,paneer pakoda
+8536,paneer pakoda biryani
+4571,paneer paratha
+6950,paneer pasta
+5554,paneer pepper dry
+3658,paneer pizza
+8552,paneer popcorn
+4766,paneer puff
+5555,paneer pulao
+6195,paneer pulao 300 gms
+6754,paneer pyaz paratha
+6659,paneer rice bowl
+6784,paneer roll
+5099,paneer salad
+4760,paneer sandwich
+5556,paneer schezwan fried rice
+3689,paneer shaslik
+5776,paneer shawarma
+5557,paneer stuffed cheela
+6143,paneer tikka biryani
+4687,paneer tikka cheese sandwich
+4375,paneer tikka momo
+4686,paneer tikka sandwich
+9036,paneer tikka sandwich grilled
+3664,paneer wrap
+8540,paneer and mushroom biryani
+6375,paneer curry with rice
+754,paneer fried rice with manchurian
+753,paneer fried rice with sauce
+6126,paneer masala dosa
+3225,paneer roasted pulao
+3712,paneer tikka
+3578,pani puri
+6408,panipuri 5 pcs
+4758,paniyaram
+6512,panneer tikka 4 pcs
+6607,panner paratha 1 no with channa masala 60 grm curd
+6140,panner biryani
+6621,panner butter masala 200 grm
+6513,panner butter masala
+6581,panner fried rice
+8553,panner ghee roast
+8537,panner tikka biryani
+3298,papaya juice
+3268,papaya milkshake
+3583,papdi chaat
+6419,papdi chat
+6418,papdi sandwich
+6420,papdi sandwich cheese
+42,paper boat
+1294,paper boat orange 20
+625,paper boat aam panna 35
+332,paper boat aamras 35 200 ml
+430,paper boat alphonso
+426,paper boat alphonso aam 150 ml 20
+673,paper boat alphonso mango rs 20
+1499,paper boat anar 20
+533,paper boat anar 35
+2265,paper boat anar 50
+329,paper boat apple 150ml 20rs
+864,paper boat apple with vitamin d 20
+469,paper boat buttermilk 20
+453,paper boat chikki 28 grms 10
+1706,paper boat chilli guava 35
+384,paper boat chilli guava 150ml 20rs
+447,paper boat chocolate milk shake 35
+421,paper boat coconut water 200ml
+436,paper boat coconut water 50
+496,paper boat crushed chikki 16 grms 6
+435,paper boat gauva 150 ml 20
+439,paper boat jaljeera 20
+560,paper boat jaljeera 200 ml 35
+512,paper boat jamun sugar free 30
+561,paper boat jamun 200 ml 55
+481,paper boat lassi 20
+2803,paper boat lassi 25
+2263,paper boat low sugar calories peach 60
+2262,paper boat low sugar calories ginger lemon 60
+331,paper boat lychee 150ml 20rs
+438,paper boat mango lassi 25
+1467,paper boat milkshake chocolate 35
+1465,paper boat milkshake strawberry 35
+1466,paper boat milkshake vanilla 35
+847,paper boat mixed fruit 30
+2767,paper boat mixed fruit madley 12
+273,paper boat peanut chikki 16 grms 6
+422,paper boat plain lassi 20
+437,paper boat plain lassi 25
+333,paper boat pomegranate juice 150ml 25rs
+490,paper boat pudina butter milk 250ml 30
+419,paper boat santra 150 ml 20
+431,paper boat santra 30
+464,paper boat sesame chikki 16 gms 6
+1075,paper boat swing 20
+2264,paper boat swing juicier drink mixed fruit 40
+2261,paper boat swing juicier drink slurpy mango 40
+2766,paper boat tasty apply 12
+456,paper boat vanilla milk shake 180ml 30
+1066,paper boat yummy guava 20
+2768,paper boat yummy guava 12
+4742,paper dosa
+10416,paper masala dosa
+330,paper boat mixed fruit 150ml 20rs
+376,paper boat orange 150ml 20rs
+383,paper boat aamras 150ml 20rs
+6980,papri chat
+6630,parapu adai with avial 1 no
+823,paratha
+3355,paratha bhaji
+7209,parippu payasam
+9484,parippu pradhaman 1000ml
+9496,parippu pradhaman 150ml
+9490,parippu pradhaman 500ml
+4202,parippu vada
+537,parle 20 20 butter gold 10
+538,parle 20 20 cashew almond 10
+637,parle 20 20 choco chips 10
+663,parle aloo bhujia 10
+254,parle appy
+662,parle bhujia sev 10
+639,parle butter cookie 10
+806,parle chatkeens hot n spicy 10
+638,parle coconut biscuit 10
+962,parle cream n onion 10
+623,parle fabio vanilla cream sandwich biscuits 10
+945,parle fabio chocolate cream sandwich biscuits 10
+38,parle g 110 gms 10
+799,parle happy happy choco chip 10
+315,parle happy happy tutti frutty flavoured
+674,parle hide seek black bourbon choco sandwich 30
+675,parle hide seek black bourbon vanilla sandwich 30
+764,parle hide seek fills 10
+2764,parle hide seek milano choco filled 10
+2763,parle hide seek milano choco filled 40
+250,parle hide and seek
+352,parle hide and seek 10rs
+540,parle krackjack 10
+551,parle magix chocolate biscuit 10
+539,parle marie 10
+676,parle milano choco hazelnut 35
+636,parle milano choco delight 35
+1640,parle milk shakti 10
+505,parle monaco 10
+506,parle monaco 30
+356,parle monaco pizza 10
+805,parle moong dal 10
+1250,parle multi vita marie 10
+2801,parle nutri crunch digestives 25 19059020
+804,parle piri piri 10
+47,parle potato chips
+889,parle salted peanuts 10
+1055,parle tangy tomato 10
+763,parle wafers classic salted 10
+1641,parle happy happy creme chocolate 10
+1642,parle happy happy creme vanilla 10
+6610,parota 2 pcs with kurma
+6611,parota 2 pcs with spl gravy
+4457,parotta
+6753,parotta maida 2pc
+6755,parotta wheat 2 pcs
+6715,parotta 2 nos with chicken curry
+6717,parotta 2 nos with egg curry
+6647,parotta 2pc with chicken curry
+6649,parotta 2pc with egg curry
+6648,parotta 2pc with mutton curry
+7636,parsley
+6392,paruppu podi
+6833,paruppu vadai
+7632,passion fruit mojito
+292,pasta cup
+7212,pasta salad
+9780,pasta salad chicken
+9778,pasta salad egg
+9788,pasta salad tuna
+1435,pastry of the day
+4209,pathiri
+10535,patishapta
+10529,patishapta with jhula gur
+3579,patti samosa
+7495,paturi thali
+2596,paul and mike 49 find m chocolate hokey pokey 250
+2599,paul and mike plain chocolate 72 dark himalayan pink salt 275
+2597,paul and mike 64 mild d choc jamaican rum 250
+2598,paul and mike choco 64 italian piedmont hazelnuts 275
+3356,pav bhaji
+3616,pav bhajji
+4664,payasam
+9487,pazha pradhaman 1000ml
+9499,pazha pradhaman 150ml
+9493,pazha pradhaman 500ml
+4204,pazham nirachathu
+6370,pazham pori
+4320,peach ice tea
+5987,peanut butter
+6931,peanut butter grilled sandwich
+7640,peanut butter milk shake
+7282,peanut chat
+345,peanut chikki mini pack 96 gms 36
+9479,peanut cookies 100gms
+9480,peanut cookies 200gms
+6919,peanut masala
+954,peanut varieties
+6407,peanuts
+6616,peas masala 200 grm
+6554,peas masala dosa
+5558,peas samosa
+3222,peas pulao
+4871,pecan doughnut
+5870,peethiwali desi ghee aloo tikki
+5773,penne alfredo chicken
+5774,penne alfredo veg
+5922,pepper chicken
+938,pepper chicken
+8532,pepper chicken biryani
+6515,pepper chicken curry
+6516,pepper chicken dry
+7365,pepper chicken shawarma plate
+8068,pepper egg masala
+4602,pepperoni pizza
+2707,peppy cheese balls 10
+504,pepsi 30
+1513,pepsi 35
+95,pepsi 40
+147,pepsi 250 ml can mrp 25
+372,pepsi black 250ml 30rs
+2147,pepsi black zero calories 35
+342,pepsi black 250ml 25rs
+2786,pepsi black tin 22021010 35
+129,pepsi pet 20rs mrp
+113,pepsi swag 25
+96,pepsi small bottle
+6050,peri peri french fries
+6654,peri peri fries 100gms
+4342,peri peri paneer
+3542,peri peri potato salad
+646,perk 10
+2685,perrier carbonated water bottle 145
+5907,pesarattu
+6627,pesarattu dosa 1 no
+4693,philly steak chicken sandwich
+10403,phirni
+7062,phulka
+3190,pickle
+2708,piknik tomato chilli 10
+7215,pineapple dosa
+8959,pineapple ice cream shake
+4391,pineapple lassi
+10175,pineapple lemon
+5098,pineapple salad
+8958,pineapple shake
+7216,pineapple upside down cake
+3395,pineapple pastry
+3374,pineapple sheera
+5889,pink lemonade
+8752,pink perch fish fry
+2600,pintola almond chikki 35
+2601,pintola dryfruit chikki 40
+2602,pintola peanut chikki 12
+2603,pintola sesame chikki 15
+2604,pipo microwave popcorn butter lovers 67
+2605,pipo microwave popcorn classic salted 67
+2606,pips dark choco cashew butter cups 2 cups 65
+2607,pips dark choco peanut butter cups 2 cups 65
+2608,pips milk choco almond butter cups 2 cups 65
+2609,pips milk choco cashew butter cups 2 cups 65
+8876,pista badam smoothie
+3280,pista milkshake
+5839,pista pastry
+6870,pizza sandwich
+4558,plain biryani
+6884,plain bun
+4199,plain cheese toast
+9798,plain chocolate shake
+4911,plain croissant
+4607,plain dosa
+470,plain dosa 100 gms
+6188,plain dosa with egg masala
+7042,plain french fries
+6933,plain fruit sandwich
+6509,plain naan
+6600,plain naan 1 pc
+4752,plain omelette double egg
+4751,plain omelette single egg
+4927,plain paratha
+9913,plain pesarettu
+6563,plain rava dosa
+5974,plain rice
+6511,plain roti
+6602,plain roti 1 pc
+6557,plain uthappam
+7075,plantain soup
+3418,plum cake
+735,podi dosa
+4736,podi dosa
+4325,podi idli
+6625,podi idly 200 grm
+4967,podi kal dosa
+6176,podi masala dosa
+8040,podi onion rava with chicken curry
+6559,podi uthappam
+8042,podi onion uthappam with chicken curry
+3336,poha
+772,poha old
+2709,polo mint 10
+3289,pomegranate juice
+3274,pomegranate milkshake
+8747,pomfret fish fry
+7494,pomfret macher thali
+4596,pomodoro pasta
+726,pongal
+4460,pongal
+10528,pongal special lunch
+816,poondu kolambu garlic
+821,poondu ulli masala garlic small onions
+6633,poori
+6726,poori aloo
+3354,poori bhaji
+3335,poori chole
+5937,poori with aloo masala
+5938,poori with chenna masala
+4618,poori with sagu
+860,poori with aloo masala
+861,poori with chole masala
+6294,pop corn
+4795,popup counter
+6389,poriyal
+5948,porridge
+778,porridge 100 gms
+6589,potato bajji 3 pcs
+3624,potato bhajji
+6582,potato bonda 2 pcs
+6890,potato cheese shots
+73,potato chips
+6695,potato chips 100gms
+140,potato chips rs40
+7220,potato leek soup
+3670,potato lyonnaise
+6740,potato pakoras potato cheese ball
+3603,potato puff
+7324,potato soup
+6876,potato twister
+3667,potato wedges
+3602,potli samosa
+10534,poush parbon special plate
+4863,powdered strawberry doughnut
+5559,prawn chilli garlic noodels
+5564,prawn fried rice
+6762,prawn fry
+5565,prawn hakka noodles
+8036,prawn masala dosa
+8071,prawn podimas bhurji
+5566,prawn schezwan fried rice
+5567,prawn schezwan noodles
+5568,prawn singapore noodles
+8067,prawn thokku
+6699,prawn thokku meals
+3235,prawn biryani
+4636,prawns biriyani
+3440,prawns curry
+3439,prawns tandoori
+3438,prawns fry
+5873,premium chaat
+10204,premium filled chocolates eggless
+6177,prepd ghee karam dosa
+2644,pringle peri peri 109
+2641,pringles hot spicy 125
+2639,pringles original 109
+2642,pringles potato crisps original 125
+2643,pringles potato crisps sour cream onion 125
+2640,pringles sour cream onion 109
+8211,protein shake
+10037,protein packed
+10038,protein packed 200 250 gms
+4158,pudding cake
+6569,pudhina rice with papad poriyal
+5977,pudina rice
+905,pudina rice
+3198,puliyogare tamarind rice
+7102,pulpy grape juice
+7221,pumpkin juice
+5927,punjabi food festival non veg
+5926,punjabi food festival veg
+3604,punjabi samosa
+7464,purslane
+6960,puttu
+8034,puttu with chicken curry
+4616,puttu with kadala
+776,puttu puttu 200 gms kadalacurry 150ml
+5910,qubani ka meetha
+8578,quiche
+10004,quiche
+6629,raagi aadai 1 no
+5659,raagi biscuit
+5933,raagi dosa
+5940,raagi koozhu
+5942,raagi puttu
+5941,raagi semiya
+3375,rabdi
+6849,rabri falooda
+10250,radish juice
+3718,ragda pattice
+6148,raggi dosa
+6564,ragi dosa
+6190,ragi dosa with egg masala
+8062,ragi ganji or koozhu
+7223,ragi idiyappam
+7225,ragi idli
+6184,ragi masala dosa
+4424,ragi mudde
+10251,ragi porridge
+7226,ragi roti
+6191,ragi set dosa with nonveg curry
+7423,rainbow surprise
+5995,rainbow velvet waffles
+7227,raisin muffin
+3329,raita
+3376,raj bhog
+3570,raj kachori chaat
+6522,rajma masala
+9356,rakhi non veg
+9355,rakhi veg
+781,rasagulla 100gms
+8196,rasam
+7228,rasam bonda
+3212,rasam rice
+6714,rasam rice chicken curry
+6937,rasberry soda
+3378,rasgulla
+3377,rasmalai
+10224,rasmalai eggless
+3322,rasna
+7229,raspberry ice cream
+6945,raspberry lassi
+7230,ratatouille cannelloni
+5931,rava dosa
+8038,rava dosa with chicken curry
+769,rava idli 2 pcs
+6552,rava kitchadi
+6179,rava masala dosa
+10252,rava vada
+6698,raw mango seer curry fish meals
+2610,raw 100 natural mixed fruit 60
+3617,raw banana bhajji
+2611,raw banana honey milk shake 100
+2612,raw choco mint milk shake 100
+2613,raw coconut water 60
+2614,raw coconut water aloevera lemon 65
+2615,raw cold coffee milk shake 100
+3,raw juice 1
+2616,raw mango 60
+2617,raw orange 100
+2618,raw sugarcane juice 80
+6160,rawa dosa
+5573,rawa idli
+7231,rawa uttapam
+3613,rawa vada
+6080,rawthar chicken biriyani with egg
+2819,real activ coconut water 200ml
+850,real apple 20
+524,real fruit power guava juice 20
+7043,real gauva
+851,real guava 20
+915,real litchi 20
+1065,real mango 20
+6661,real mixed
+852,real mixed fruit 20
+1654,real nut cashew 375
+916,real orange 20
+1052,real pineapple 20
+849,real pomegranate 20
+2339,red bull 125
+2340,red bull sugar free 125
+5106,red cabby salad
+6550,red rice
+3400,red velvet cake
+9360,red velvet cream cheese
+5574,red velvet cupcake
+5994,red velvet waffles
+10082,red velvet cupcake with frosting
+367,redbull energy drink
+375,redbull energy drink 250ml 110
+5858,reg fries
+9975,regular rice bowl non veg
+9970,regular rice bowl veg
+5575,reshmi kebab
+2710,reusable non woven bag medium 6
+2711,reusable non woven bags big 9
+8756,ribbon fish fry
+6204,ribbon pakoda
+7438,rice bath
+5888,rice bowl bbq chicken regular
+5887,rice bowl bbq paneer regular
+5900,rice bowl chili chipotle chicken regular
+5899,rice bowl mexican paneer regular
+3387,rice kheer
+800,richeese nabati cheese wafer 10
+798,richoco nabati chocolate wafer 10
+10255,ridge gourd bajji
+10254,ridge gourd juice
+2712,rigdam jowar jaggery biscuits 50
+2713,rigdam ragi jaggery biscuits 50
+65,rim zim 100ml
+2365,ritebite bar choco delite 40
+2382,ritebite bar fruits seed cranberries strawberries 45
+2366,ritebite bar nuts seeds cashews pumpkin seeds 45
+2381,ritebite bar peanuts butter 45
+2364,ritebite bar yogurt berry 40
+2377,ritebite max protein active peanut butter bar 130
+2367,ritebite max protein active plum spice bar 125
+2361,ritebite max protein almond apricot 70
+2368,ritebite max protein bar choco almond 175
+2378,ritebite max protein bar choco berry 175
+2369,ritebite max protein bar choco slim 125
+2370,ritebite max protein choco fudge bar 125
+2371,ritebite max protein cookies chili chocolate 40
+2372,ritebite max protein cookies choco chips 50
+2383,ritebite max protein cookies choco coconut 50
+2379,ritebite max protein cookies coconut delite 50
+2373,ritebite max protein cookies nuts seeds 50
+2374,ritebite max protein cookies oats raisins 50
+2375,ritebite max protein cookies trail mix 50
+2380,ritebite max protein fruit nuts 70
+2376,ritebite sports bar 45
+2360,ritebite work out choco classic bar 65
+2363,ritebite workout sugar free bar choco almond 70
+2362,ritebite workout sugar free bar choco berry 70
+2677,ritz sandwich crackers keju cheese 149
+9079,roast dinner
+7234,roasted chicken
+3560,roasted chicken strips salad
+7236,roasted pumpkin soup
+5576,romali roti
+3324,rooh afza
+3246,roohafza milk
+3260,roohafza shake
+303,rose amul cool 180 ml rs 20
+5929,rose lassi
+3254,rose milkshake
+4377,rose sarbath
+4990,rose vanilla ice tea
+3251,rose milk
+10256,rosemary cookies
+5784,rosogolla
+6321,roti
+6831,royal falooda
+10000,russian medopvik pastry
+361,sf mom s magic fruit milk
+2113,sundrop duo coconut 10
+7238,sabudana dosa
+10402,sabudana kheer
+3717,sabudana khichdi
+5971,sabudana upma
+7239,sabudana vada
+9908,saffron almond latte
+3226,saffron pulao
+9077,salad ni oise
+8945,salan
+4725,salem rr plain biryani
+6296,salem thattu vadai
+6448,salt pepper mushroom
+4592,salt fries
+6838,salt lassi
+7626,salted caramel ice cream
+4906,salted caramel pie
+10257,salted cookies
+5935,samba rava kitchadi
+3654,sambar
+3200,sambar rice
+4363,sambar rice egg curry
+6568,sambar rice with papad poriyal
+4698,sambar rice with curd rice
+7240,sambar sadam
+4565,sambar sadam with poriyal
+4334,sambar vada
+783,sambar vada
+755,sambar rice old
+4452,samosa
+955,samosa
+6595,samosa 2 pcs
+4419,samosa chaat
+6597,samosa chat
+5578,samosa pav
+7241,sanna
+2794,santa claus cap 25
+2735,sapphire blunt energy drink 50
+8751,sardine fish fry
+6105,sarkarai pongal
+7242,sattu paratha
+9143,saute veggies
+3701,sauted vegetables
+6785,savala vada
+5304,schezwan chicken
+5579,schezwan chicken dry
+5293,schezwan chicken momo fresh made no frozen 5 pc
+5898,schezwan chicken noodles
+7008,schezwan chicken sandwich
+6428,schezwan egg noodles 350 gms
+6401,schezwan fried rice veg
+10302,schezwan mixed veg rice
+10300,schezwan mushroom noodles
+5897,schezwan veg noodles
+6434,schezwan veg noodles 350 gms
+10301,schezwan mixed veg noodles
+6482,schwezan chicken
+3431,scrambled egg
+3433,scrambled egg with bread
+6127,seafood biriyani
+5006,seasonal fruit mix veg spl salad
+9979,seasoned nachos salsa
+6358,seeragasambha mutton biriyani
+3379,semiya kheer
+5934,semiya khichdi
+6106,semiya khichdi with sambar chutney
+765,semiya kichadi
+9488,semiya payasam 1000ml
+9500,semiya payasam 150ml
+9494,semiya payasam 500ml
+774,semiya khichadi
+3337,semiya upma
+6462,sesame chilly chicken
+6168,set dosa
+6832,set dosa omelette
+6189,set dosa with nonveg curry
+7263,set dosa with veg gravy
+4696,set dosa with plain chicken gravy
+4555,set dosa with vada curry
+727,set dosa with vada curry
+3580,sev puri
+6084,shahi paneer
+7244,shahi tukda
+10258,shakkar pare
+8946,shamam shake
+6473,shangai veg
+6478,shanghai chicken
+6489,shanghai rice noodles chicken
+6452,shanghai veg
+9475,sharkaravaratti 100gms
+9476,sharkaravaratti 200gms
+7437,shavige bath
+6547,shawarma
+7245,sheer khurma
+3380,sheera
+7246,shenga holige
+6159,shezwan cheese dosa
+6155,shezwan dosa
+6156,shezwan masala dosa
+6158,shezwan paneer dosa
+3316,shikanji
+9799,shikanji ice coffee clasic or chilli cheese sandwich
+5780,shor bhaja
+6465,shredded chicken chilly scalene
+2663,shreeji rajgira peanut chikki 38
+2664,shreeji tilli sesame chikki 46
+3381,shrikhand
+5844,signature donuts
+10084,signature plum cake
+9985,silky truffle
+2714,simpkins mixed mint 260
+6496,singapore noodles non veg
+4754,single omelette
+10906,sitafal icecream
+6895,sizzler momo
+4409,sizzling brownie volcano crushers
+2715,skittles original tube 50
+2716,skittles wild berry tube 50
+873,slice 20
+569,slice mango 10
+6347,slot 1 onam sadhya
+6348,slot 2 onam sadhya
+6349,slot 3 onam sadhya
+6350,slot 4 onam sadhya
+5663,smiley
+5896,smoked chicken sausage pizza 3 slices
+5768,smokey steam non veg
+5767,smokey steam veg
+5854,smoky bbq maggi
+6751,smoothie abc apple beetroot carrot
+532,snac tac aloo bhujia 65
+530,snac tac masala boondi 62
+7248,snachos
+1200,snack box
+4128,snack box bakery
+4127,snack box non mrp
+4091,snacks
+4068,snacks box
+6665,snicker snack
+5999,snicker waffle
+959,snickers 20
+518,snickers 40
+2769,snickers 10
+624,snickers almond 25
+2619,snickers bar 45
+2761,snickers butterscotch 30
+313,snickers fruit nut
+2620,snickers kesar pista bar 30
+2621,snickers kesar pista bar 50
+2622,snickers snack size 20
+4366,snickers waffles
+6293,soan papdi
+8064,soda rasam
+2737,sofit almond milk chocolate 80
+511,sofit milk 35
+6490,soft noodles
+9402,softee in waffle cone chocolate
+9401,softee in waffle cone vanilla
+9403,softee in waffle cone vanilla chocolate
+3317,solkadhi
+7249,soppu bonda
+6120,sorshe ilish
+6116,sorshe ilish platter
+2629,sour cherry drops cavendish harvey 225
+4585,sour cream
+2630,sour punk apple candy stick 40
+2631,sour punk blueberry candy stick 40
+2632,sour punk cola candy stick 40
+2633,sour punk strawberry candy stick 40
+704,south full meals
+3339,south indian breakafast thali
+5581,south indian breakfast packed meal
+3487,south indian chicken gravy
+3462,south indian chicken thali
+3485,south indian dry veg
+3466,south indian fish thali
+706,south indian full meals
+3483,south indian gravy veg
+7251,south indian meal
+5582,south indian non veg meal
+5583,south indian non veg meal chicken
+5584,south indian non veg meal egg
+5585,south indian non veg meal fish
+5586,south indian non veg meal mutton
+5587,south indian non veg packed meal
+5588,south indian non veg packed meal chicken
+5589,south indian non veg packed meal egg
+5590,south indian non veg packed meal fish
+5591,south indian non veg packed meal mutton
+4468,south indian snacks
+4348,south indian veg meal
+780,south indian veg meal
+5592,south indian veg packed meal
+697,south mini meals
+10259,soya bean pakoda
+7252,soya biryani
+5691,soya chaap biryani
+62,soya chips
+7253,soya dosa
+3228,soya pulao
+67,soya sticks
+6973,soya tikka grilled roll
+7415,soya curry
+440,space booking
+4767,spanish omelette
+5012,special exotic strawberry doughnut
+4237,special laddu
+7434,special lunch
+3461,special north indian chicken thali
+3465,special north indian fish thali
+3343,special north indian paneer thali
+3341,special north indian veg thali
+9784,special oat meal
+3463,special south indian chicken thali
+3467,special south indian fish thali
+4458,special south indian veg thali
+5013,special tropical pineapple doughnut
+5845,speciality donuts
+10086,spice brownie
+182,spicy chicken biryani 330 gm mrp 125
+5301,spicy fried chicken
+4401,spicy mayo corn sandwich virgin mojito
+4340,spicy mexican roll
+7466,spicy minced chicken burger
+174,spicy vegetable biryani 330 gm mrp 99
+7254,spinach corn rice
+3313,spinach juice
+7325,spinach soup
+10305,spinach idli
+6628,spl baby corn masala dosa 1 no
+6422,spl puff
+6703,spl mutton sukka meals
+6704,spl raw mango seer curry fish meals
+10265,sponge fruit cake eggless
+6173,spring onion dosa
+7255,spring onion uttappam
+6650,spring rolls
+1248,sprite 300ml 40
+234,sprite 250 ml mrp 20
+2384,sprite 750 ml pet 40
+186,sprite can 300 ml mrp 40
+3581,sprout bhel
+7256,sprout dosa
+5103,sprout salad
+7257,sprout uttappam
+7258,sprouts idly
+10261,sprouts poha
+3545,sprouts salad
+6129,squid biriyani
+6055,squid roast
+5959,srilankan sambal
+4912,staff breakfast
+4913,staff lunch
+5921,staff meal
+703,staff meal contract staff only option 1
+705,staff meal contract staff only option 2
+5593,stawberry doughnut
+786,steam rice with fish curry
+4241,steamed adai uttapam
+4242,steamed kozhukatta
+4243,steamed pazham puzhungiyathu
+6352,steamed corn
+1001,steamed corn chat
+6351,steamed peanuts
+3237,steamed rice
+789,steamed rice with chicken curry
+4415,steamed rice with chicken chettinad
+4678,steamed rice with chicken curry
+4676,steamed rice with dal
+4677,steamed rice with paneer curry
+1003,steamed sprouts
+93,sting 20
+6909,stir fry vegetables
+9956,straffued kala jamun
+3764,strawberry fruit
+6929,strawberry avacado milkshake
+6748,strawberry banana
+5315,strawberry birthday cake 1 kg
+3282,strawberry chocolate shake
+6005,strawberry cream cheese waffle
+5594,strawberry cupcake
+10222,strawberry danish
+7259,strawberry ice cream
+4392,strawberry lassi
+4991,strawberry lemonade
+3257,strawberry milkshake
+7629,strawberry mojito
+5595,strawberry muffin
+6819,strawberry smoothie
+6941,strawberry soda
+8187,strawberry softy
+10225,strawberry tres leches jar eggless
+3398,strawberry pastry
+3454,stuffed chicken tandoori kulcha
+3448,stuffed chicken tandoori paratha
+3452,stuffed chicken tawa paratha
+6309,stuffed chilli bajji
+4133,stuffed dates
+7260,stuffed dosa
+3615,stuffed mirchi vada
+3457,stuffed veg tandoori kulcha
+3450,stuffed veg tandoori paratha
+3451,stuffed veg tawa paratha
+3338,stuffed paratha
+4900,sugar
+3406,sugar doughnut
+8886,sugarcane 1 lt
+8884,sugarcane 250ml
+3290,sugarcane juice
+8885,sugarcane with ginger 250ml
+536,suggi crushed peanut chikki 20
+3582,sukha bhel
+3591,sukha puri
+6549,sukhiyan
+4210,sukiyan
+4730,sukku coffee
+9781,summer fruit salad chicken
+9777,summer fruit salad egg
+6781,summer surprise rasagulla with vanilla choco flakes
+8205,sundae
+5657,sundal
+2745,sundrop duo peanuts 10
+1553,sunfeast all rounder chatpata masala 10
+1301,sunfeast all rounder cream herbs thin potato 10
+474,sunfeast bounce choco cream 10
+475,sunfeast bounce orange cream 10
+1268,sunfeast bounce choco cream 5
+61,sunfeast bounce choco vanilla 10rs
+1299,sunfeast bounce orange 5
+1298,sunfeast bounce strawberry vanilla 5
+370,sunfeast bounce strawberry vanilla 10rs
+359,sunfeast caker swiss roll chococream
+867,sunfeast dark fantasy 35
+2158,sunfeast dark fantasy belgian chocolate shake 35
+109,sunfeast dark fantasy bourbon 10
+2159,sunfeast dark fantasy choco cream 30
+325,sunfeast dark fantasy choco fills 20gm 10rs
+317,sunfeast dark fantasy choco meltz
+2160,sunfeast dark fantasy coffee fills 40
+1300,sunfeast dark fantasy vanilla 10
+2161,sunfeast dark fantasy vanilla 30
+1554,sunfeast dark fantasy choco cream 10
+2162,sunfeast farmlite cookies oats and chocolate 65
+525,sunfeast farmlite digestive 25
+2163,sunfeast farmlite nuts digestive 25
+2164,sunfeast farmlite seed digestive 25
+2165,sunfeast farmlite veda digestive 25
+493,sunfeast hifi 5
+365,sunfeast marie light 10
+1230,sunfeast marie light 5rs
+444,sunfeast milk bikis
+363,sunfeast milky magic 60 grms 10
+492,sunfeast mom s magic 5
+364,sunfeast mom s magic cashew almonds 60 grms 10
+267,sunfeast moms magic butter
+163,sunfeast moms magic rich butter 150 gm mrp 20
+2148,sunfeast nice 10
+1297,sunfeast nice sugar sprinkled biscuit 10
+2166,sunfeast wonderz milk strawberry 35
+2167,sunfeast wonderz milk vanilla 35
+344,sunfeast yumfills whoopie pie 60
+353,sunfeast yumfills whoopie pie 10 rs
+122,sunfest mom s magic cashew almond 20
+7634,support fees
+7563,suryakala
+6470,sweet sour veg
+6298,sweet beeda
+7046,sweet boondi
+4101,sweet box
+6270,sweet bun
+4763,sweet corn
+5596,sweet corn cheese sandwich
+5286,sweet corn chicken soup
+5853,sweet corn maggi
+6497,sweet corn soup
+5284,sweet corn vegetable soup
+4389,sweet lassi
+4253,sweet parotta
+7562,sweet poli
+9774,sweet potato pepper salad chicken
+9790,sweet potato pepper salad tuna
+9771,sweet potato pepper salad egg
+9770,sweet potato pepper salad veg
+5653,sweet puff
+7561,sweet roll
+5894,sweet rose lassi
+6746,sweet corn sandwich
+3518,sweetcorn soup
+7119,sweets
+5028,swiss roll
+883,swiss roll chocolate cake rolled with white chocolate vanilla cream
+6488,szechwan chicken rice
+6491,szechwan noodles
+6493,szechwan noodles non veg
+928,szechwan rice chicken 350 grms
+927,szechwan rice veg 350 grms
+1657,tong garden party snack rs 30
+651,too tumm chips kashmiri chilli 10
+857,too tumm chips spanish tomato 10
+652,too tumm multigrain chips tangy tomato 10
+653,too tumm veggie stix chilli chataka 10
+654,too tumm veggie stix sour cream onion 10
+552,top rich buttery crackers 10
+10313,tuvar thota with ghee rice
+10316,tuver dal with plain paratha
+10045,table glass consumable rental
+2665,tagz beer n barbeque 50
+2666,tagz cream onion divin 50
+2667,tagz masala trekkin 50
+2668,tagz popped potato chips italian cheese 50
+906,tamarind rice
+6537,tandoor roti with mix veg curry
+4406,tandoori cheese pasta veg delight wrap lemon soda
+5597,tandoori chicken full
+6505,tandoori chicken half
+5030,tandoori chicken tikka kebab
+3552,tandoori chicken tikka salad
+3456,tandoori kulcha
+5598,tandoori mayo veg sandwich
+3455,tandoori naan
+4403,tandoori paneer pizza paneer roll mojito
+5029,tandoori paneer tikka kebab
+3449,tandoori paratha
+6506,tandoori paratha 1 pc
+3459,tandoori roti
+4326,tandoori sandwich
+3533,tandoori tofu salad
+528,tangy tomato cup noodles 45
+8579,tart
+4793,tattoo artist
+6289,tawa beef roast
+8846,tawa bonda
+8847,tawa paneer bonda
+3453,tawa paratha
+3458,tawa roti phulka
+3227,tawa pulao
+6271,tea snacks
+3423,tea cake
+7262,tea with honey
+98,tedhe medhe tomato masti
+382,temptation almond treat 100
+378,temptations rum raisins 72 grms 100
+8061,tender coconut coconut water 350 ml
+4435,tender coconut milk shake
+4583,tex mex paradilla
+4983,thai chilli meal bowl
+5295,thai chilli mushroom
+5296,thai chilli paneer
+4981,thai chilli salad
+4579,thai green curry noodles with chicken
+4582,thai green curry noodles with vegetables
+2772,thai guava 08041010
+5600,thai non veg meal
+5601,thai non veg meal chicken
+5602,thai non veg meal egg
+5603,thai non veg meal fish
+5604,thai non veg meal mutton
+5605,thai non veg packed meal
+5606,thai non veg packed meal chicken
+5607,thai non veg packed meal egg
+5608,thai non veg packed meal fish
+5609,thai non veg packed meal mutton
+5610,thai veg meal
+5611,thai veg packed meal
+9999,thai veg puff
+6133,thalasseri kalyana biriyani chicken
+6282,thalassery chicken dum biryani
+3277,thandai
+5612,thatte idli
+6834,thattu dosa
+5302,thawa fried chicken
+784,thayir vada 2 nos
+6990,thengai vellam kozhukattai
+6058,thilopi fry
+3686,three bean stew
+2717,threptin lite diskettes 459
+148,thums up 300 ml can mrp 38
+423,thums up 250 ml 20
+94,thums up 40
+2754,thums up 50
+1247,thums up 300ml 40
+187,thumsup can 300 ml mrp 40
+2645,tic tac apple tert 10
+2650,tic tac mint 10
+2647,tic tac mint 25
+2649,tic tac orange 10
+2646,tic tac orange 25
+2648,tic tac saunf 10
+4595,tikkalicious sandwich
+4329,tiramisu cup
+10005,tiramisu shot
+3571,tiranga dahi papdi chaat
+7264,tlc tomato cucumber lettuce sandwich
+4410,toasted veg sandwich sprouts salad fresh juice
+2465,toblerone chocolate 100
+2460,toblerone chocolate dark 185
+2464,toblerone chocolate white 185
+2461,toblerone crunchy almonds 185
+2462,toblerone milk chocolate 185
+2463,toblerone swiss chocolate 80
+3690,tofu shaslik
+4598,tomato cheese pasta
+5613,tomato cheese sandwich
+6075,tomato chicken curry
+8566,tomato curry
+3307,tomato juice
+3201,tomato rice
+4364,tomato rice egg curry
+6570,tomato rice with papad poriyal
+901,tomato rice old
+7261,tomato sadam
+7123,tomato sauce pasta
+773,tomato sevai
+3514,tomato shorba
+7265,tomato soup
+6170,tomato utthappam
+2417,tong garden cashew nuts black pepper 90
+2413,tong garden chilli broad beans with skin 75
+2419,tong garden coated peanuts spicy sesame flavor 30
+2418,tong garden coated peanuts thai chili flavour 30
+2426,tong garden cocktail nuts 80
+2421,tong garden coconut flavour coated peanuts 30
+2422,tong garden garlic peanuts 60
+2423,tong garden mexican style peanuts 60
+2415,tong garden mixed nuts 30
+2412,tong garden onion and garlic broad beans with skin 75
+2420,tong garden salted almonds 70
+2414,tong garden salted cashew nuts 80
+2425,tong garden salted pistachios 90
+2410,tong garden tropical nuts and fruits mix pouch 350
+2416,tong garden wasabi green peas 30
+2411,tong garden wasabi green peas 75
+686,too yumm karare munchy masala
+9412,toppings brownie
+9406,toppings caramel sauce
+9405,toppings chocolate chips
+9409,toppings chocolate sauce
+9408,toppings lotus biscoff
+9404,toppings nutella
+9411,toppings oreo
+9410,toppings peanuts
+9407,toppings strawberry sauce
+9786,tossed salad tuna
+3547,tossed salad
+9775,tossed salad chicken
+865,town bus butter murukku
+266,town bus madras mixture
+866,town bus rice kodubale
+891,townbus madras mixture 10rs
+890,townbus masala peanut 10rs
+224,townbus khara sev 30 gm mrp 10
+4123,transportation charges mrp
+4120,transportation charges non mrp
+229,treat burst choco cream fills 120 gm mrp 30
+227,treat croissant cocoa cream roll 47 gm mrp 15
+226,treat cr me wafers choco 75 gm mrp 25
+225,treat cr me wafers strawberry 75 gm mrp 25
+531,treat jimjam 25
+4593,tres cheese fries
+9988,treslyches tub nutella chocolate
+9987,treslyches tub rose
+9986,treslyches tub vanilla
+6003,triple chocolate waffle
+6288,trivandrum chicken fry
+10003,tropical veg sandwich
+36,tropicana mango 20
+78,tropicana 200ml tetra pack
+513,tropicana anar 20
+2266,tropicana apple 200ml 30
+179,tropicana apple delight 200 ml mrp 20
+514,tropicana guava 20
+283,tropicana litchi delight 20
+281,tropicana mango delight 20
+114,tropicana mixed fruit delight 20
+2267,tropicana orange 200ml 30
+124,tropicana orange delight 20
+629,tropicana pineapple delight 20
+802,tropicana pomegranate delight 200 ml
+314,tropicana pomegranate delight 20
+1705,tropicana guava delight rs 25
+2788,tropicana mango 20
+3328,tulsi lime juice
+7266,tulsi tea
+8748,tuna fish fry
+2771,turkey red apple 08081000
+2671,turkish delites cashew fantasy 375
+2672,turkish delites gul pistachio 395
+6543,turkish kebab roll
+2673,turkysh delites klasik paan 350
+2674,turkysh delites narnia hazelnut 400
+3250,turmeric milk
+6862,tutti fruiti ice cream
+2623,twinings tea bags 25 assam tea 240
+2624,twinings tea bags 25 darjeeling 299
+2179,twinings tea bags 25 english breakfast 299
+2625,twinings tea bags 25 green tea 295
+2626,twinings tea bags 25 lemon 299
+2627,twinings tea bags 25 pure camomile 335
+2628,twinings tea bags 25 pure peppermint 320
+9978,twisted coolerz
+7003,twister danish
+2736,twix chocolate 60
+2108,unibic fruit and nuts 20
+2114,unibic snapper cream n onion 20
+2109,unibic snapper indi spice 20
+5972,uggani
+7267,uggani puffed rice upma
+7268,uggani puffed rice upma mirchi bajji
+5726,ulavacharu chicken biryani
+5720,ulavacharu veg biryani 450 gms
+5908,ulli karam masala dosa
+4203,ulli vada
+6991,ulundhu poornam kozhukattai
+4200,undampori
+6672,unibic
+335,unibic 60gm 10rs
+515,unibic butter cookies 10
+341,unibic choco ripple cookies 10
+527,unibic choco ripple cookies 40
+2743,unibic chocochip cookies 10
+2107,unibic chocochip cookies 20
+274,unibic chocochip cookies 35
+2757,unibic choconuts cookies 20
+355,unibic cookies 5
+516,unibic honey oats 10
+1302,unibic jeera cookies 30
+2790,unibic kisscenter cookies 50
+118,unibic milk cookies 5
+1638,unibic fruit nut cookies 10
+4216,unnakai
+4248,unni appam
+3715,upma
+770,upma old
+4765,uppu kadalai
+6307,uppu kara manga
+3333,usal pav
+733,uthappam
+7513,uthappam
+3652,uttapam
+4212,uzhunnu vada
+4353,vada
+775,vada 2 pcs
+3605,vada pav
+3614,vada usal
+3232,vangi bath
+5313,vanilla birthday cake 1 kg
+3419,vanilla cake
+4864,vanilla choco chip doughnut
+5614,vanilla cupcake
+6272,vanilla frappe
+6857,vanilla ice cream
+6816,vanilla milkshake
+3724,vanilla muffin
+5838,vanilla pastry
+3269,vanilla shake
+8186,vanilla softy
+8189,vanilla softy with chocolate sauce
+10083,vanilla blueberry cupcake with frosting
+6771,vanjaram fish fry
+6345,varalakshmi special lunch
+4434,variety rice
+6103,variety rice tamrind rice
+739,variety rice sambar rice
+6318,variety rice lunch
+766,variety rice
+738,variety rice curd rice
+767,variety rice tomato dum rice
+8069,vazhai illai fish
+4131,vazhaipoo vadai
+6590,vazhapoo vada 2 pcs
+4246,vazhuthana bhaji
+7416,veeshappam
+6911,veg chopsuey
+9933,veg slot 1
+9934,veg slot 2
+9935,veg slot 3
+9936,veg slot 4
+9937,veg slot 5
+5886,veg ball manchurian
+6472,veg balls in hot garlic sauce
+7757,veg bao
+5892,veg bhuna masala
+4702,veg biriyani veg kurma
+4634,veg biriyani full
+4635,veg biriyani half
+6576,veg biriyani with raitha
+701,veg biryani
+6520,veg biryani
+746,veg biryani with raitha
+741,veg biryani basmati rice
+5615,veg bowl
+4705,veg breakfast
+3596,veg burger
+5884,veg burger large french fries masala jeera soda
+8576,veg calzone
+4130,veg cheese balls
+4195,veg cheese sandwich
+6273,veg chettinad biryani
+5307,veg chilli garlic noodles
+4768,veg club cheese sandwich
+4144,veg club sandwich
+5616,veg coleslaw cheese sandwich
+5617,veg coleslaw sandwich
+3532,veg compound salad
+8572,veg crackers
+8768,veg cup noodles 65g
+8769,veg cup noodles 60g
+5618,veg curry
+832,veg cutlet
+4315,veg cutlet
+5131,veg dinner
+1609,veg dinner sunday
+761,veg dum biryani
+5619,veg dum biryani
+5289,veg fried momo fresh made no frozen 5 pc
+3498,veg fried rice
+6432,veg fried rice 350 gms
+750,veg fried rice with manchurian
+4680,veg grilled cheese sandwich
+4679,veg grilled sandwich
+4559,veg hakka noodle
+3659,veg hot dog
+10310,veg hunan with triple pepper noodles
+7204,veg idly
+6069,veg jaipuri
+6275,veg kathi roll
+5721,veg keema biryani 450 gms
+10263,veg khau suey
+6067,veg kolahpuri
+5620,veg korma
+5979,veg kothu parotta
+4627,veg kurma
+6274,veg lunch
+6157,veg machurian dosa
+3360,veg maggi
+5308,veg manchow fried rice
+1006,veg manchurian
+6455,veg manchurian
+5007,veg manchurian biryani
+4090,veg meal
+9951,veg meals dinner careleon
+9949,veg meals lunch careleon
+4668,veg meals without sweet
+3502,veg momo
+5287,veg momo fresh made no frozen
+6896,veg momo pasta
+6894,veg momo burger
+6898,veg momo platter
+5288,veg momo fresh made no frozen 3 pc
+8944,veg momos
+935,veg nanking noodles 350 grm
+7271,veg noodle soup
+3495,veg noodles
+6429,veg noodles 350 gms
+5662,veg nuggets
+4753,veg omelette double egg
+5623,veg packed meal
+4436,veg pakora
+1013,veg pasta
+7211,veg pasta
+6782,veg patties
+7761,veg pink sauce pasta
+6276,veg pizza
+4191,veg puff
+4347,veg pulao
+4637,veg pulao full
+4638,veg pulao half
+1681,veg pulao half
+6014,veg pulav 200 gm aloo dum
+6575,veg pulav with raitha
+4234,veg roll
+7272,veg romesco pasta
+3543,veg salad
+4230,veg samosa
+3593,veg sandwich
+4473,veg sandwich full
+4472,veg sandwich half
+5306,veg schezwan fried rice
+5290,veg schezwan momo fresh made no frozen 5 pc
+5624,veg schezwan noodles
+6974,veg seekh kabab grilled roll
+3544,veg seekh salad
+5625,veg singapore noodles
+4085,veg spring roll
+6402,veg starter with veg fried rice
+6652,veg starters
+8213,veg sub
+6578,veg szechwan rice
+7273,veg tacos
+977,veg thali
+3663,veg wrap
+3706,veg croissant
+3719,veg masala dosa
+3674,veg pasta with cheese sauce
+3676,veg pasta with pink sauce
+3675,veg pasta with tomato sauce
+3673,veg pasta with white sauce
+785,veg pulao with dal fry
+3688,veg shashlik
+6097,veg biryani
+5968,vegetable bhat
+3192,vegetable biryani
+9961,vegetable calzone
+3650,vegetable fried kebab
+6471,vegetable hongkong style
+3519,vegetable hot and sour soup
+7492,vegetable idli
+3291,vegetable juice
+3694,vegetable lasagne
+3520,vegetable manchow soup
+3709,vegetable puff
+3218,vegetable pulao
+4169,vegetable quiche pie
+7270,vegetable soup
+3646,vegetable tandoori kebab
+3643,vegetable tawa kebab
+52,vegetable upma
+6185,vegetable utthappam
+3713,vegetable tikka
+5627,vegetables balls in hot garlic sauce
+5628,vegetables in chilli basil sauce
+5629,vegetables in hunan sauce
+5630,vegetables in schezwan sauce
+293,veggi manchow
+6976,veggi roll
+9915,veggie appe half
+9922,veggie appe full
+5305,veggie burnt garlic fried rice
+6313,velarikai
+4481,vendhaya dosai with vadakari
+5656,verkadalai
+5878,very veggie semizza 3 slices
+149,vibro paneer 500 ml soda mrp 33
+6025,vietnamese rice roll
+6887,virgin mojito
+7274,virgin pina colada
+5763,visitor
+2718,vit n rich almond choco bar 125
+2719,vit n rich almond nutties 99
+2720,wabs tapioca chips desi fantasy 60
+2721,wabs tapioca chips flingy hot peppers 60
+8568,waffle
+3672,waffles with honey
+8803,watermelon crush
+7275,watermelon ice cream
+3285,watermelon juice
+6888,watermelon mojito
+1017,western egg cheese
+4482,wheat dosa
+7276,wheat idiyappam
+4640,wheat paratha
+7277,wheat poha
+7278,wheat pongal
+7279,wheat upma
+6193,wheat paratha with chicken curry
+6192,wheat paratha with egg curry
+6194,wheat paratha with paneer curry
+5989,white chocolate
+5993,white fantasy waffles
+5631,white forest cake
+5632,white forest pastry
+6393,white rice
+782,white rice 250 gms
+3524,whole fruit
+2433,wingreens jalapeno pita chips sweet chilli chip dip 60
+2435,wingreens naan chips dip butter garlic 60
+2436,wingreens naan chips dip chatpata pudina 60
+2434,wingreens naan chips dip tez tandoori pudina 60
+565,winkies mini swiss roll 10
+306,winny muffin 66 gm rs 30
+5770,wok works non veg
+5769,wok works veg
+4115,wooden stirrer
+2722,wrigley s doublemint mints lemon mints 50
+2723,wrigleys double mints peppermint 50
+7280,yakhni pulao
+2724,yakult light probiotic milk 95
+2725,yakult probiotic milk 80
+2680,yanyan dip biscuit snack chocolate 100
+2681,yanyan dip biscuit snack strawberry 100
+2682,yanyan dip biscuit snack vanilla 100
+6613,yellow dal 200 gms
+4783,yellow peas masala
+8059,yezhaneer paiyasam
+272,yoga bar blueberry pie
+2455,yoga bar protein bar almond fudge 125
+2456,yoga bar protein bar blueberry pie 50
+2454,yoga bar protein bar chocolate brownie 125
+4572,yogurt
+4784,young palmyra fruits 6 pcs
+961,yova sugarcane juice 40
+6988,zaikedaar paneer biryani
+2726,zazzy candy roll 40
+2634,zevic chocolate org turkish hazelnuts s f 185
+2635,zevic stevia classic chocolate no sugar added 145
+2636,zevic stevia organic jaggery chocolate no sugar added 135
+2638,zevic stevia roasted almonds chocolate 155
+2637,zevic stevia zesty orange dark 70 chocolate no sugar added 185
+6545,zinger burger
+4398,zinger paneer burger peri peri fries
+2727,zoik sparkling water 50
+5772,zucchini and onion quesadellas
+6070,chicken do pyaza
+6071,chicken kolhapuri
+190,choco ripple cookies 60 gm mrp 10
+6060,chole masala
+6722,juice lemon
+6773,kola vada 1 pc
+7004,meat bun
+9075,shepherd s pie
+6098,veg manchuria biryani
