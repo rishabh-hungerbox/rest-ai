@@ -18,3 +18,4 @@ venv/
 default.sqlite
 .DS_Store
 menu_mapping_index/
+menu_mapping/output/*

@@ -9,6 +9,7 @@ from jsonschema import validate
 from llama_index.core.node_parser import SentenceWindowNodeParser
 import csv
 import random
+from datetime import datetime
 import unicodedata
 import re
 from menu_mapping.helper_classes.llm_helper import LLMHelper
@@ -36,8 +37,7 @@ class MenuMapperAI:
         self.prompt = self.fetch_prompt()
 
     def execute(self, child_menu_name):
-        item_name = ItemSpellCorrector('gpt-4o-mini').correct_item_spelling(child_menu_name)
-        return self.generate_response_debug(item_name)
+        return self.generate_response_debug(child_menu_name)
 
     @staticmethod
     def normalize_string(s: str) -> str:
@@ -47,7 +47,7 @@ class MenuMapperAI:
         s = " ".join(s.split())  # Remove extra whitespace
         return s
     
-    def process_response(self, response, item_id_map, threshold=0.75) -> list:
+    def process_response(self, response, item_id_map, threshold=0.6) -> list:
         relevant_items = json.loads(str(response).strip("```json").strip("```"))
         filtered_items = []
         for item in relevant_items:
@@ -207,14 +207,17 @@ class MenuMapperAI:
 
     def generate_response_debug(self, user_input):
         retriever = self.global_index.as_retriever(similarity_top_k=self.similarity_top_k)
-        item_name = MenuMapperAI.normalize_string(user_input)
+        item_name = ItemSpellCorrector('gpt-4o-mini').correct_item_spelling(user_input)
+        output_text = f'{user_input},{item_name},"'
         nodes = retriever.retrieve(item_name)
         print()
-        print('Item Name: ', user_input)
+        print('Item Name: ', item_name)
         text = "ID,Food Item Name,Vector Score\n"
         for node in nodes:
             text += f"{node.node.text},{node.score}\n"
+            output_text += f'{node.node.text},{node.score}\n'
             print(node.node.text, node.score)
+        output_text += '",'
 
         # preparing query engine on the filtered index
         filtered_index = VectorStoreIndex.from_documents([Document(text=text)])
@@ -223,7 +226,22 @@ class MenuMapperAI:
         response = query_engine.query(self.prompt + user_input)
         print("response: ", response)
         relevant_items = self.process_response(response, self.item_id_map)
+        output_text += f'"{json.dumps(relevant_items).replace("\"", "\"\"")}"\n'
+
+        self.save_output(output_text)
+
         return relevant_items
+    
+    def save_output(self, output_text):
+        file_path = f"menu_mapping/output/output_{datetime.now().strftime("%Y-%m-%d")}.csv"
+
+        if not os.path.exists(file_path):
+            with open(file_path, "w") as file:
+                file.write("User Input, Spell Correction, Vector Tokens, Response\n")
+
+        with open(file_path, "a") as file:
+            file.write(output_text)
+        
 
 
 class ItemSpellCorrector:
