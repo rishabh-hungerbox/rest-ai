@@ -24,6 +24,7 @@ ID,NAME
 7817,5 star premium veg meal
 7819,5 star premium veg snack
 420,5 star 45 grms 30
+97,7up
 661,7up 20
 960,7up 35
 115,7up 25 rs
@@ -186,11 +187,11 @@ ID,NAME
 10236,apple muffin eggless
 3727,apple pie
 10219,apple pie eggless
-152,appy 200ml tetra pack mrp 10
-300,appy juice tetra pack 150 ml rs 10
+152,appy tetra pack mrp 10
+300,appy juice tetra pack rs 10
 2168,aquafina water 1ltr 20
-2169,aquafina water 250ml 7
-2170,aquafina water 500ml 10
+2169,aquafina water 7
+2170,aquafina water 10
 6302,arabian roll
 6539,arabic kabooli rice with al faham chicken
 6284,arabic kabuli with grilled chicken
@@ -223,17 +224,17 @@ ID,NAME
 1293,b fizz 12
 1468,b natural apple 20
 415,b natural cloudy apple 20
-428,b natural dakshin pink guava 300 ml 40
+428,b natural dakshin pink guava 40
 413,b natural guava 20
-429,b natural himalayan mixed fruit 300 ml 40
+429,b natural himalayan mixed fruit 40
 414,b natural litchi 20
 347,b natural mango magic 20
 348,b natural mixed fruit 20
 495,b natural nagpur orange with pulp 40
-466,b natural orange 180 ml 20
+466,b natural orange 20
 432,b natural orange oomph
-427,b natural orange oomph 150 ml 20
-425,b natural watermelon 200 ml 20
+427,b natural orange oomph 20
+425,b natural watermelon 20
 4594,b fast sandwich
 1496,b natural mango 20
 6544,bbq chicken burger
@@ -258,7 +259,7 @@ ID,NAME
 5333,babycorn cheese sandwich
 4735,babycorn dosa
 6444,babycorn manchurian
-305,badam amul cool 180 ml rs 20
+305,badam amul cool rs 20
 3238,badam milk
 4658,badam milkshake
 10239,badam peda
@@ -410,10 +411,10 @@ ID,NAME
 10203,biscoff cheese pastry eggless
 4425,bisi bele bath
 3231,bisibelle bhath
-2171,bisleri 300ml 7
-151,bisleri 500 ml mrp 10
-2172,bisleri limonata 600ml 40
-2173,bisleri spyci 600ml 40
+2171,bisleri 7
+151,bisleri mrp 10
+2172,bisleri limonata 40
+2173,bisleri spyci 40
 3311,bitter gourd juice
 3584,black chana chaat
 7116,black channa rice
@@ -480,7 +481,7 @@ ID,NAME
 3248,bournvita milk
 3258,bournvita shake
 260,bovonto
-150,bovonto 500 ml mrp 35
+150,bovonto mrp 35
 3312,brahmi juice
 2693,brb popcorn chip salted caramel 40
 2692,brb popcorn chips salsa 40
@@ -584,7 +585,7 @@ ID,NAME
 2196,britannia treat wafers orange 50
 2209,britannia treat wafers vanilla 50
 2219,britannia treat o vanilla cream cookie 10
-338,britannia winkin cow choco thick shake 100 ml
+338,britannia winkin cow choco thick shake
 6691,britannia wonderfull choco nut 100 gms
 256,brittania milkbikis
 253,brittania nutrichoice digestive
@@ -721,7 +722,7 @@ ID,NAME
 2248,cadbury silk bubbly bubblegum 175
 2253,cadbury silk bubbly bubblegum 80
 377,cadbury silk roast almond
-302,cafe amul cool 200 ml rs 25
+302,cafe amul cool rs 25
 6993,cafe frappe
 4880,cake
 3420,cake crumble pie
@@ -851,9 +852,9 @@ ID,NAME
 3382,chena payesh
 3383,chena roll
 6777,chennai style biryani
-9485,cherupayar parippu payasam 1000ml
-9497,cherupayar parippu payasam 150ml
-9491,cherupayar parippu payasam 500ml
+9485,cherupayar parippu payasam
+9497,cherupayar parippu payasam
+9491,cherupayar parippu payasam
 5354,chettinad chicken dry
 6702,chettinad pepper chicken meals
 6769,chettinad chilly chicken dry
@@ -1083,7 +1084,7 @@ ID,NAME
 6694,chikki 100gms
 3305,chikku juice
 3262,chikoo fruit shake
-8871,chikoo juice 250ml
+8871,chikoo juice
 8882,chikoo milk shake
 3557,chili chipotle chicken salad
 4198,chilli garlic cheese toast
@@ -1227,12 +1228,12 @@ ID,NAME
 6502,clear chicken soup
 6499,clear soup
 7465,clubbed chicken tower burger
-494,coca cola 250ml 20
-2269,coca cola 320ml vanilla 150
-2268,coca cola 750 ml 40
-2270,coca cola zero sugar 250ml 20
-1081,coca cola zero sugar 300ml
-287,coca cola 300 ml 40
+494,coca cola 20
+2269,coca cola vanilla 150
+2268,coca cola 40
+2270,coca cola zero sugar 20
+1081,coca cola zero sugar
+287,coca cola 40
 366,coca cola no sugar
 2679,cocojal coconut water 50
 2144,cocojar tender coconut water 50
@@ -1250,8 +1251,8 @@ ID,NAME
 7625,coffee ice cream
 845,coffee joy 50
 3728,coffee mocha fantasy cake
-2748,coke 250 ml 22021090
-145,coke 300 ml can mrp 40
+2748,coke 22021090
+145,coke can mrp 40
 3242,cold badam milk
 3244,cold boost
 4323,cold coffee
@@ -1295,7 +1296,7 @@ ID,NAME
 4374,corn cheese momo
 4770,corn cheese sandwich
 3589,corn flakes chaat
-779,corn flakes 50 gms with milk 100ml
+779,corn flakes 50 gms with milk
 7323,corn idly
 4193,corn maggi
 6182,corn masala dosa
@@ -1362,7 +1363,7 @@ ID,NAME
 3293,cucumber juice
 10176,cucumber mint lemon
 2468,cup noodles chilli super hot 50
-953,cup corn 150ml
+953,cup corn
 8197,cupcakes
 70,cuppa noodles chicken
 3189,curd
@@ -1417,6 +1418,7 @@ ID,NAME
 259,dairymilk 5rs
 433,dakshin pink guava
 3219,dakshini pulao
+3488,dal
 4431,dal kachori
 7721,dal khichdi
 3490,dal makhani
@@ -1459,7 +1461,7 @@ ID,NAME
 3637,dhokla sandwich
 473,diamond aloo bhujia
 2686,diet coke 40
-146,diet coke 300 ml can mrp 40
+146,diet coke can mrp 40
 4240,dilkush
 5424,dindigul chicken biryani
 7335,dindigul egg biryani
@@ -1647,6 +1649,7 @@ ID,NAME
 795,earthy nuts roasted cashew 59
 1269,earthy nuts roasted pistachios rs 60
 4907,eclairs
+7343,egg
 9113,egg mushroom roll
 9114,egg panner
 6735,egg mutta bonda
@@ -1735,7 +1738,7 @@ ID,NAME
 2479,ego sweet potato chips mexican twist 40
 5088,eid special moti biryani
 4219,ela ada
-304,elaichi amul cool 180 ml rs 20
+304,elaichi amul cool rs 20
 6871,elaichi tea
 4206,elanchi
 4469,elayada
@@ -1773,7 +1776,7 @@ ID,NAME
 9142,espresso
 6249,event dinner
 6255,event lunch
-2698,evocus alkaline water 500ml 100
+2698,evocus alkaline water 100
 8892,extra
 6104,extra katori
 6923,extra add on
@@ -1836,7 +1839,7 @@ ID,NAME
 3435,fish fry
 3641,fishtawa kebab
 6666,five star 25gm
-63,fizz 160ml
+63,fizz
 1279,fizz appy 12
 1280,fizz be fizz
 4087,flat white
@@ -1885,7 +1888,7 @@ ID,NAME
 6400,fried rice veg
 925,fried rice veg 350 grms
 5444,fried veg momo
-153,frooti 160 ml tetra pack mrp 10
+153,frooti tetra pack mrp 10
 1655,frooti mango drink rs 20
 9801,fruit
 40,fruit nut energy bar
@@ -2029,9 +2032,9 @@ ID,NAME
 66,goodlife
 1700,goodday harmony 15
 8758,goosberry juice
-9486,gothamb pradhaman 1000ml
-9498,gothamb pradhaman 150ml
-9492,gothamb pradhaman 500ml
+9486,gothamb pradhaman
+9498,gothamb pradhaman
+9492,gothamb pradhaman
 3278,granola milk shake
 4165,grape lemon juice
 3528,grapes
@@ -2120,7 +2123,7 @@ ID,NAME
 869,haldirams indian mixture 10
 2291,haldirams instant bhel 10
 320,haldirams khatta meetha
-324,haldirams lassi 180ml 20rs
+324,haldirams lassi 20rs
 2289,haldirams masala kaju 50
 104,haldirams masala peanuts 40 gms 10
 265,haldirams matka jhatka
@@ -2174,12 +2177,12 @@ ID,NAME
 2332,hershey s milkshake vanilla ice cream 35
 893,hershey s strawberry milkshake 35
 2793,hersheys creamy milk chocolate 55
-309,hersheys milk shake almond 200 ml rs 35
+309,hersheys milk shake almond rs 35
 2330,hersheys milk shake chocolate 35
 2329,hersheys milk shake cookies n cream 35
-308,hersheys milk shake cookies n creame 200 ml rs 20
+308,hersheys milk shake cookies n creame rs 20
 2331,hersheys milk shake strawberry 35
-310,hersheys milk shake strawberry 180 ml rs 35
+310,hersheys milk shake strawberry rs 35
 4100,hi tea
 290,hide seek 10
 2777,hide seek 19059020 30
@@ -2227,26 +2230,26 @@ ID,NAME
 2783,ice cream strawberry 21050000 10
 4395,ice cream topping
 4396,ice cream waffle cone
-8802,ice magic s butterscotch large cup 70 ml
-8796,ice magic s castata slice 120 ml
-8797,ice magic s chocobar big 60 ml
-8784,ice magic s chocolate big cone 100 ml
-8790,ice magic s custurd apple 100 ml
-8789,ice magic s gudbud 100 ml
-8799,ice magic s kulfi 100 ml
-8801,ice magic s large cup chocolate 70 ml
-8800,ice magic s mango duet 60 ml
-8795,ice magic s matka kulfi 100 ml
-8794,ice magic s mini chocobar 40 ml
-8793,ice magic s nutty bar butter scotch 60 ml
-8792,ice magic s nutty bar chocolate 60 ml
-8791,ice magic s pina wlada 100 ml
-8783,ice magic s strawberry duet 60 ml
-8786,ice magic s strawberry big cone 100 ml
-8787,ice magic s swinger sunde 120 ml
-8788,ice magic s tender coconut tubes 100 ml
-8798,ice magic s vanila cup 70 ml
-8785,ice magic s vanilla big cone 100 ml
+8802,ice magic s butterscotch large cup
+8796,ice magic s castata slice
+8797,ice magic s chocobar big
+8784,ice magic s chocolate big cone
+8790,ice magic s custurd apple
+8789,ice magic s gudbud
+8799,ice magic s kulfi
+8801,ice magic s large cup chocolate
+8800,ice magic s mango duet
+8795,ice magic s matka kulfi
+8794,ice magic s mini chocobar
+8793,ice magic s nutty bar butter scotch
+8792,ice magic s nutty bar chocolate
+8791,ice magic s pina wlada
+8783,ice magic s strawberry duet
+8786,ice magic s strawberry big cone
+8787,ice magic s swinger sunde
+8788,ice magic s tender coconut tubes
+8798,ice magic s vanila cup
+8785,ice magic s vanilla big cone
 8209,ice popsicle
 8570,ice cream sandwich
 8569,icecream
@@ -2355,12 +2358,12 @@ ID,NAME
 7156,jola akki dosa
 10532,joy nagar moa
 4953,juice
-6719,juice sweet lime 300ml
-6723,juice butter fruit 300 ml
-6721,juice dragon 300 ml
-6725,juice ginger lime 300 ml
-6724,juice kiwi 300 ml
-6720,juice litchi 300 ml
+6719,juice sweet lime
+6723,juice butter fruit
+6721,juice dragon
+6725,juice ginger lime
+6724,juice kiwi
+6720,juice litchi
 6417,kacha kakara cheese sandwich
 6416,kacha kakara sandwich
 10172,kachche gosht ki biryani
@@ -2391,7 +2394,7 @@ ID,NAME
 7162,kala khatta soda
 3369,kalakand
 4610,kali dosa
-64,kalmegh bitters 100ml
+64,kalmegh bitters
 10317,kanchipuram idli
 4669,kanji
 7623,kanji meal
@@ -2440,7 +2443,7 @@ ID,NAME
 6285,kerala parotta with beef curry
 6962,kerala veg meal
 6279,kerala veg thali
-301,kesar amul cool 180 ml rs 20
+301,kesar amul cool rs 20
 6842,kesar badam lassi
 7015,kesar bhog
 6848,kesar falooda
@@ -2467,9 +2470,9 @@ ID,NAME
 6387,kinaxis lunch
 2565,kinder joy for boys 45
 2566,kinder joy for girls 45
-2818,kinley soda water 750ml
+2818,kinley soda water
 2683,kinley water 1 ltr 20
-2684,kinley water 500 ml 10
+2684,kinley water 10
 6835,kinnathappam
 3299,kinoo juice
 167,kit kat 20
@@ -2580,7 +2583,7 @@ ID,NAME
 2571,lakerol sugar free pastilles lemon tea 110
 2572,lakerol sugar free pastilles strawberry 110
 3315,lassi
-184,lassi rose flavor 200 ml mrp 15
+184,lassi rose flavor mrp 15
 4086,latte
 5786,lauer payesh
 2528,lavian exotique creme bakes 10
@@ -2676,8 +2679,8 @@ ID,NAME
 534,little hearts 20
 2750,little hearts 5 19053100
 53,little hearts classic
-5092,live fruit custard falooda 250ml
-5093,live mango custard falooda 250ml
+5092,live fruit custard falooda
+5093,live mango custard falooda
 3220,lobia pulao
 3611,lobia vada
 4388,lobster omelette
@@ -2716,8 +2719,8 @@ ID,NAME
 49,mtr poha
 282,maaza
 2670,maaza 20
-299,maaza 150 ml rs 10
-154,maaza 150ml tetra pack mrp 10
+299,maaza rs 10
+154,maaza tetra pack mrp 10
 54,maaza refresh
 4405,mac cheese pasta veg sandwich mint lime juice
 3534,macaroni salad
@@ -2732,7 +2735,7 @@ ID,NAME
 6295,madurai jigarthanda
 3359,maggi
 340,maggi chicken cuppa noodles 67 grms
-195,maggi chicken cuppa noodles 67 ml mrp 50
+195,maggi chicken cuppa noodles mrp 50
 339,maggi chilly chow cuppa noodles 70 grms
 194,maggi chilly chow cuppa noodles 50
 5855,maggi fries
@@ -3005,14 +3008,14 @@ ID,NAME
 756,mint rice old
 2669,minute maid apple 10
 570,minute maid pulpy orange 20
-6693,minutemaid pulpy orange 250 ml
+6693,minutemaid pulpy orange
 285,miranda
 8888,mirchi baji
 131,mirinda 25
 91,mirinda 40
 116,mirinda 20 rs
-188,mirinda 250 ml mrp 35
-373,mirinda 250ml 30rs
+188,mirinda mrp 35
+373,mirinda 30rs
 3334,misal pav
 9139,misel pav
 8870,mix fruit juice
@@ -3090,8 +3093,8 @@ ID,NAME
 3372,motichur laddu
 130,mountain dew 20
 1514,mountain dew 35
-451,mountain dew 250 ml 25rs
-872,mountain dew can 250 ml 30
+451,mountain dew 25rs
+872,mountain dew can 30
 2687,mountain dew can 35
 8584,mousse
 4899,mouth freshner
@@ -3212,15 +3215,15 @@ ID,NAME
 6972,neer dosa
 8058,neer majjige masala butter milk
 2659,nescafe all in 1 cup 20
-128,nescafe chilled latte 180 ml 35
+128,nescafe chilled latte 35
 2656,nescafe chilled latte drink 45
 2658,nescafe choco mocha 45
 1555,nescafe cold coffee
-180,nescafe hazelnut 180 ml mrp 35
+180,nescafe hazelnut mrp 35
 2661,nescafe hazelnut coffee drink 40
 132,nescafe intense cafe 35
 2660,nescafe intense cafe drink 45
-155,nescafe rtd milo 180 ml mrp 30
+155,nescafe rtd milo mrp 30
 123,nescafe hazelnut
 2657,nestea iced tea lemon flavour 30
 88,nestle milkybar 10
@@ -3257,7 +3260,7 @@ ID,NAME
 9242,neverno traditional fish fry
 4249,neyyappam
 3325,nimboo soda
-482,nimbooz 250 ml 20
+482,nimbooz 20
 5525,nippat
 7189,nippattu masala
 169,nissin cup noodles 70 gm mrp 45
@@ -3439,9 +3442,9 @@ ID,NAME
 5014,pain au chocolat
 4470,pakkavada
 4591,pakoda
-9483,palada payasam 1000ml
-9495,palada payasam 150ml
-9489,palada payasam 500ml
+9483,palada payasam
+9495,palada payasam
+9489,palada payasam
 7203,palak aloo paratha
 831,palak bajji
 3620,palak bhajji
@@ -3555,33 +3558,33 @@ ID,NAME
 42,paper boat
 1294,paper boat orange 20
 625,paper boat aam panna 35
-332,paper boat aamras 35 200 ml
+332,paper boat aamras 35
 430,paper boat alphonso
-426,paper boat alphonso aam 150 ml 20
+426,paper boat alphonso aam 20
 673,paper boat alphonso mango rs 20
 1499,paper boat anar 20
 533,paper boat anar 35
 2265,paper boat anar 50
-329,paper boat apple 150ml 20rs
+329,paper boat apple 20rs
 864,paper boat apple with vitamin d 20
 469,paper boat buttermilk 20
 453,paper boat chikki 28 grms 10
 1706,paper boat chilli guava 35
-384,paper boat chilli guava 150ml 20rs
+384,paper boat chilli guava 20rs
 447,paper boat chocolate milk shake 35
-421,paper boat coconut water 200ml
+421,paper boat coconut water
 436,paper boat coconut water 50
 496,paper boat crushed chikki 16 grms 6
-435,paper boat gauva 150 ml 20
+435,paper boat gauva 20
 439,paper boat jaljeera 20
-560,paper boat jaljeera 200 ml 35
+560,paper boat jaljeera 35
 512,paper boat jamun sugar free 30
-561,paper boat jamun 200 ml 55
+561,paper boat jamun 55
 481,paper boat lassi 20
 2803,paper boat lassi 25
 2263,paper boat low sugar calories peach 60
 2262,paper boat low sugar calories ginger lemon 60
-331,paper boat lychee 150ml 20rs
+331,paper boat lychee 20rs
 438,paper boat mango lassi 25
 1467,paper boat milkshake chocolate 35
 1465,paper boat milkshake strawberry 35
@@ -3591,31 +3594,31 @@ ID,NAME
 273,paper boat peanut chikki 16 grms 6
 422,paper boat plain lassi 20
 437,paper boat plain lassi 25
-333,paper boat pomegranate juice 150ml 25rs
-490,paper boat pudina butter milk 250ml 30
-419,paper boat santra 150 ml 20
+333,paper boat pomegranate juice 25rs
+490,paper boat pudina butter milk 30
+419,paper boat santra 20
 431,paper boat santra 30
 464,paper boat sesame chikki 16 gms 6
 1075,paper boat swing 20
 2264,paper boat swing juicier drink mixed fruit 40
 2261,paper boat swing juicier drink slurpy mango 40
 2766,paper boat tasty apply 12
-456,paper boat vanilla milk shake 180ml 30
+456,paper boat vanilla milk shake 30
 1066,paper boat yummy guava 20
 2768,paper boat yummy guava 12
 4742,paper dosa
 10416,paper masala dosa
-330,paper boat mixed fruit 150ml 20rs
-376,paper boat orange 150ml 20rs
-383,paper boat aamras 150ml 20rs
+330,paper boat mixed fruit 20rs
+376,paper boat orange 20rs
+383,paper boat aamras 20rs
 6980,papri chat
 6630,parapu adai with avial 1 no
 823,paratha
 3355,paratha bhaji
 7209,parippu payasam
-9484,parippu pradhaman 1000ml
-9496,parippu pradhaman 150ml
-9490,parippu pradhaman 500ml
+9484,parippu pradhaman
+9496,parippu pradhaman
+9490,parippu pradhaman
 4202,parippu vada
 537,parle 20 20 butter gold 10
 538,parle 20 20 cashew almond 10
@@ -3687,12 +3690,13 @@ ID,NAME
 2599,paul and mike plain chocolate 72 dark himalayan pink salt 275
 2597,paul and mike 64 mild d choc jamaican rum 250
 2598,paul and mike choco 64 italian piedmont hazelnuts 275
+6269,pav
 3356,pav bhaji
 3616,pav bhajji
 4664,payasam
-9487,pazha pradhaman 1000ml
-9499,pazha pradhaman 150ml
-9493,pazha pradhaman 500ml
+9487,pazha pradhaman
+9499,pazha pradhaman
+9493,pazha pradhaman
 4204,pazham nirachathu
 6370,pazham pori
 4320,peach ice tea
@@ -3726,10 +3730,10 @@ ID,NAME
 504,pepsi 30
 1513,pepsi 35
 95,pepsi 40
-147,pepsi 250 ml can mrp 25
-372,pepsi black 250ml 30rs
+147,pepsi can mrp 25
+372,pepsi black 30rs
 2147,pepsi black zero calories 35
-342,pepsi black 250ml 25rs
+342,pepsi black 25rs
 2786,pepsi black tin 22021010 35
 129,pepsi pet 20rs mrp
 113,pepsi swag 25
@@ -3890,7 +3894,7 @@ ID,NAME
 6960,puttu
 8034,puttu with chicken curry
 4616,puttu with kadala
-776,puttu puttu 200 gms kadalacurry 150ml
+776,puttu puttu 200 gms kadalacurry
 5910,qubani ka meetha
 8578,quiche
 10004,quiche
@@ -3960,7 +3964,7 @@ ID,NAME
 7231,rawa uttapam
 3613,rawa vada
 6080,rawthar chicken biriyani with egg
-2819,real activ coconut water 200ml
+2819,real activ coconut water
 850,real apple 20
 524,real fruit power guava juice 20
 7043,real gauva
@@ -3983,7 +3987,7 @@ ID,NAME
 5994,red velvet waffles
 10082,red velvet cupcake with frosting
 367,redbull energy drink
-375,redbull energy drink 250ml 110
+375,redbull energy drink 110
 5858,reg fries
 9975,regular rice bowl non veg
 9970,regular rice bowl veg
@@ -4004,7 +4008,7 @@ ID,NAME
 10254,ridge gourd juice
 2712,rigdam jowar jaggery biscuits 50
 2713,rigdam ragi jaggery biscuits 50
-65,rim zim 100ml
+65,rim zim
 2365,ritebite bar choco delite 40
 2382,ritebite bar fruits seed cranberries strawberries 45
 2366,ritebite bar nuts seeds cashews pumpkin seeds 45
@@ -4038,7 +4042,7 @@ ID,NAME
 3324,rooh afza
 3246,roohafza milk
 3260,roohafza shake
-303,rose amul cool 180 ml rs 20
+303,rose amul cool rs 20
 5929,rose lassi
 3254,rose milkshake
 4377,rose sarbath
@@ -4117,9 +4121,9 @@ ID,NAME
 5934,semiya khichdi
 6106,semiya khichdi with sambar chutney
 765,semiya kichadi
-9488,semiya payasam 1000ml
-9500,semiya payasam 150ml
-9494,semiya payasam 500ml
+9488,semiya payasam
+9500,semiya payasam
+9494,semiya payasam
 774,semiya khichadi
 3337,semiya upma
 6462,sesame chilly chicken
@@ -4287,10 +4291,10 @@ ID,NAME
 6173,spring onion dosa
 7255,spring onion uttappam
 6650,spring rolls
-1248,sprite 300ml 40
-234,sprite 250 ml mrp 20
-2384,sprite 750 ml pet 40
-186,sprite can 300 ml mrp 40
+1248,sprite 40
+234,sprite mrp 20
+2384,sprite pet 40
+186,sprite can mrp 40
 3581,sprout bhel
 7256,sprout dosa
 5103,sprout salad
@@ -4357,9 +4361,9 @@ ID,NAME
 4900,sugar
 3406,sugar doughnut
 8886,sugarcane 1 lt
-8884,sugarcane 250ml
+8884,sugarcane
 3290,sugarcane juice
-8885,sugarcane with ginger 250ml
+8885,sugarcane with ginger
 536,suggi crushed peanut chikki 20
 3582,sukha bhel
 3591,sukha puri
@@ -4486,13 +4490,14 @@ ID,NAME
 3453,tawa paratha
 3458,tawa roti phulka
 3227,tawa pulao
+3444,tea
 6271,tea snacks
 3423,tea cake
 7262,tea with honey
 98,tedhe medhe tomato masti
 382,temptation almond treat 100
 378,temptations rum raisins 72 grms 100
-8061,tender coconut coconut water 350 ml
+8061,tender coconut coconut water
 4435,tender coconut milk shake
 4583,tex mex paradilla
 4983,thai chilli meal bowl
@@ -4526,12 +4531,12 @@ ID,NAME
 6058,thilopi fry
 3686,three bean stew
 2717,threptin lite diskettes 459
-148,thums up 300 ml can mrp 38
-423,thums up 250 ml 20
+148,thums up can mrp 38
+423,thums up 20
 94,thums up 40
 2754,thums up 50
-1247,thums up 300ml 40
-187,thumsup can 300 ml mrp 40
+1247,thums up 40
+187,thumsup can mrp 40
 2645,tic tac apple tert 10
 2650,tic tac mint 10
 2647,tic tac mint 25
@@ -4616,18 +4621,18 @@ ID,NAME
 6288,trivandrum chicken fry
 10003,tropical veg sandwich
 36,tropicana mango 20
-78,tropicana 200ml tetra pack
+78,tropicana tetra pack
 513,tropicana anar 20
-2266,tropicana apple 200ml 30
-179,tropicana apple delight 200 ml mrp 20
+2266,tropicana apple 30
+179,tropicana apple delight mrp 20
 514,tropicana guava 20
 283,tropicana litchi delight 20
 281,tropicana mango delight 20
 114,tropicana mixed fruit delight 20
-2267,tropicana orange 200ml 30
+2267,tropicana orange 30
 124,tropicana orange delight 20
 629,tropicana pineapple delight 20
-802,tropicana pomegranate delight 200 ml
+802,tropicana pomegranate delight
 314,tropicana pomegranate delight 20
 1705,tropicana guava delight rs 25
 2788,tropicana mango 20
@@ -4882,7 +4887,7 @@ ID,NAME
 4481,vendhaya dosai with vadakari
 5656,verkadalai
 5878,very veggie semizza 3 slices
-149,vibro paneer 500 ml soda mrp 33
+149,vibro paneer soda mrp 33
 6025,vietnamese rice roll
 6887,virgin mojito
 7274,virgin pina colada

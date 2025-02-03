@@ -59,8 +59,19 @@ Keyword: "
 Vector score is the score of how much a food item matches with the given keyword.
 Can you review this list and assign your own relevance score to each item based on how much it matches with the given keyword ?
 You may also take the vector score into consideration.
-Relevance score should be between 0 and 1.
-Please respond with the JSON format like this:
+Relevance score should be between 0 and 1. Matching should be done by extracting the item and quantity from the keyword and doing intelligent comparison.
+Example: 'idli 2 nos', 'idli' is the item and should match with 'Idli' rather than 'Idli & Vada'.
+Extra points for matching the quantity.
+Adjectives should be given less weightage. 
+Example 'Morning Snacks' matches with 'Snacks' and does not match with 'Morning Tea'.
+Example'juice of the day' matches with 'juice' and does not match with 'lunch of the day'.
+If the keyword does not have a brand name in it, then brand names should not be considered.
+Note: giving some examples for clarification.
+'coffee' should match with 'coffee' and not 'Nescafe Cold Coffee'. But 'Nescafe Cold Coffee' should match with 'Nescafe Cold Coffee'.
+'perk' should match with 'perk' and not 'perk with nuts' or 'Cadbury Perk'.
+'vada chutney' is more similar to 'vada' than 'Idli Wada Sambhar Chutney'
+'ground nut barfi' is more similar to 'barfi' than 'Chocolate Barfi'
+Please respond with the JSON format like this and not other text:
 ```json
 [
     {
@@ -71,21 +82,87 @@ Please respond with the JSON format like this:
     ...
 ]```
 Keyword is: "
-5,"The given document contains a list of food items with their id, name, and vector score.
-Vector score is the score of how much a food item matches with the given keyword.
-Can you review this list and assign your own relevance score to each item based on how much it matches with the given keyword ?
-You may also take the vector score into consideration.
-Relevance score should be between 0 and 1.
-Exact food item name match should have a relevance score of 1.
-Try to assume correct spelling of keyword if it is not correct.
-Please respond with the JSON format like this:
+5,"The document contains a list of food items, each with an ID, name, and vector score. Your task is to calculate a relevance score (between 0 and 1) for each item in the list based on how much it matches a given 'keyword'. Use the following rules to guide your scoring:
+
+1. Exact Item Match Priority:
+   - Extract the item name and quantity from the keyword.
+   - Prioritize items that match the name exactly without extra or unrelated elements.  
+     Example:  
+     - Keyword: 'idli 2 nos'  
+     - Match: 'Idli - 2 Pcs' gets a higher score than 'Idly - 2 Nos & 1 No Vada'.
+
+2. Quantity Matching:
+   - Matching quantities (e.g., '2 nos') should contribute to a higher score.
+   - Missing or mismatched quantities should reduce the score.
+
+3. Additional Elements:
+   - Items with extra elements (e.g., 'vada') that are not in the keyword should be scored lower, even if the main item matches.
+   - Example:  
+     - Keyword: 'idli 2 nos'  
+     - Match: 'Idli - 2 Pcs' gets a higher score than 'Idly - 2 Nos & 1 No Vada'.
+
+4. Adjective Handling:
+   - Adjectives in the keyword (e.g., 'Morning Snacks') should match the core item (e.g., 'Snacks') and not overly specific variations (e.g., 'Morning Tea').
+
+5. Brand Names:
+   - If the keyword does not contain a brand name, ignore brand names when matching.
+
+6. Vector Score Incorporation:
+   - Use the provided vector score as a secondary consideration, but prioritize logical relevance (e.g., item name and quantity) over the vector score.
+
+Format of the Response:
+Respond only in the following JSON format with double quotes:
 ```json
 [
     {
-        ""id"": <id>,
-        ""name"": <name>,
-        ""relevance_score"": <calculated_relevance_score>
+        'id': <id>,
+        'name': <name>,
+        'relevance_score': <calculated_relevance_score>
     },
     ...
 ]```
-Keyword is: "
+The LLM output should not contain any other text except the ```[{}]``` string [very important].
+The json output should not contain more than 7 items.
+
+The 'keyword' is "
+6,"The document contains a list of food items, each with an ID, name, and vector score. Your task is to calculate a relevance score (between 0 and 1) for each item in the list based on how much it matches a given keyword. Use the following rules to guide your scoring:
+
+### Matching Rules:
+1. Exact Item Match Priority:
+   - Extract the main elements (e.g., item names) from the keyword.
+   - Prioritize items that contain **all the main elements in the keyword** (e.g., 'idli' and 'vada') in the same sequence or close proximity.  
+   - Example:  
+     - Keyword: 'idli vada'  
+     - Match: 'idli wada' gets a higher score than 'idly curry vada'.
+
+2. Sequence Matching:
+   - Items where the order of words in the name closely matches the order in the keyword (e.g., 'idli vada') should receive a higher score than items where the words are scrambled (e.g., 'vada idli').
+
+3. Quantity Matching:
+   - Matching quantities (e.g., '2 nos') in the keyword should further increase the score.
+   - Missing or mismatched quantities should reduce the score.
+
+4. Penalty for Extra Elements:
+   - Items with additional or unrelated elements (e.g., 'idli vada curry') should be penalized, even if they match the main elements.
+
+5. Adjective Handling:
+   - Adjectives or descriptors in the keyword (e.g., 'morning snacks') should match the **core item** and not overly specific variations (e.g., 'morning tea').
+
+6. Brand Names:
+   - If the keyword does not contain a brand name, ignore brand names when matching.
+
+7. Vector Score Incorporation:
+   - Use the provided vector score to refine ranking when multiple items have similar textual relevance.
+   - Prioritize logical matches (e.g., item name and keyword overlap) over vector score alone.
+
+### Format of the Response:
+Respond only in the following JSON format with double quotes:
+```json
+[
+    {
+        'id': <id>,
+        'name': <name>,
+        'relevance_score': <calculated_relevance_score>
+    },
+    ...
+]"
