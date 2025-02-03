@@ -16,6 +16,7 @@ import csv
 from llama_index.core.postprocessor import LLMRerank
 from menu_mapping.helper_classes.utility import MenuMappingUtility
 from llama_index.llms.anthropic import Anthropic
+from etc.query_utility import QueryUtility
 
 
 class MenuMapperAI:

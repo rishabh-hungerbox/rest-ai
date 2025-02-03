@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/2.2/ref/settings/
 
 import os
 from dotenv import load_dotenv
+from sshtunnel import SSHTunnelForwarder
+import paramiko
 
 
 load_dotenv()
@@ -78,6 +80,35 @@ REST_FRAMEWORK = {
     'EXCEPTION_HANDLER': 'etc.exception_handler.ExceptionHandler',
     'UNAUTHENTICATED_USER': None,
 }
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': os.environ.get('DB_FIN_PG_DATABASE'),
+        'HOST': os.environ.get('DB_FIN_PG_HOST'),
+        'PORT': os.environ.get('DB_FIN_PG_PORT'),
+        'USER': os.environ.get('DB_FIN_PG_USERNAME'),
+        'PASSWORD': os.environ.get('DB_FIN_PG_PASSWORD'),
+        'OPTIONS': {'options': '-c search_path=public,deduction'},
+    }
+}
+
+if os.getenv('APP_ENV') == 'local':
+    SSH_HOST = os.getenv('SSH_HOST')
+    SSH_PORT = int(os.getenv('SSH_PORT'))
+    SSH_USER = os.getenv('SSH_USER')
+    SSH_PRIVATE_KEY = os.getenv('SSH_PRIVATE_KEY')
+    SSH_PASSPHRASE = os.getenv('SSH_PASSPHRASE')
+    private_key = paramiko.RSAKey(filename=SSH_PRIVATE_KEY, password=SSH_PASSPHRASE)
+    # Set up SSH tunnel
+    tunnel = SSHTunnelForwarder(
+        (SSH_HOST, SSH_PORT),
+        ssh_username=SSH_USER,
+        ssh_pkey=private_key,
+        remote_bind_address=(os.environ.get('DB_FIN_PG_HOST'), int(os.environ.get('DB_FIN_PG_PORT'))))
+    tunnel.start()
+    DATABASES['default']['HOST'] = '127.0.0.1'
+    DATABASES['default']['PORT'] = int(tunnel.local_bind_port)
 
 LOGGING = {
     'version': 1,
