@@ -4,13 +4,14 @@ from trulens_eval import (
     TruLlama,
     OpenAI
 )
+import os
 
 
 class TruLensHelper:
 
     @staticmethod
     def get_prebuilt_trulens_recorder(query_engine, app_id):
-        openai = OpenAI(api_key="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")
+        openai = OpenAI(api_key=os.getenv('OPEN_API_KEY'))
         groundedness = (
             Feedback(openai.groundedness_measure_with_cot_reasons, name="Groundedness")
             .on(TruLlama.select_source_nodes().node.text)
