@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'corsheaders',
+    'menu_mapping'
 ]
 
 ROOT_URLCONF = 'urls'

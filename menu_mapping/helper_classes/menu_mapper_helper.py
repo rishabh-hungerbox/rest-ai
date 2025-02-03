@@ -13,6 +13,7 @@ from dotenv import load_dotenv
 from menu_mapping.helper_classes.tru_lens_helper import TruLensHelper
 from llama_index.core.node_parser import SentenceWindowNodeParser
 import csv
+import sys
 from llama_index.core.postprocessor import LLMRerank
 from menu_mapping.helper_classes.utility import MenuMappingUtility
 from llama_index.llms.anthropic import Anthropic
@@ -239,7 +240,8 @@ class MenuMapperAI:
         return final_nodes, vs_best, vs_score, llmre_best, llmre_score
 
 
-ai = MenuMapperAI(prompt_id=7, model="gpt-4o-mini", embedding="text-embedding-3-small", similarity_top_k=10, benchmark_on=False, debug_mode=False, sampling_size=50, with_reranker=True)
+if not any("migrat" in arg for arg in sys.argv):
+    ai = MenuMapperAI(prompt_id=7, model="gpt-4o-mini", embedding="text-embedding-3-small", similarity_top_k=10, benchmark_on=False, debug_mode=False, sampling_size=50, with_reranker=True)
 
 
 def get_master_menu_response(child_menu_name: str):
