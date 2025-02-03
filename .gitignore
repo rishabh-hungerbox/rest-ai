@@ -17,5 +17,7 @@ venv/
 # Vector Index and Other Databases
 default.sqlite
 .DS_Store
+menu_mapping_index_root/
+menu_mapping_index_root/*
 menu_mapping_index/
 menu_mapping/output/*

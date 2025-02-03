@@ -55,38 +55,12 @@ class MenuMappingUtility:
 
     @staticmethod
     def fetch_data():
-
-        # JSON Schema
-        json_schema = {
-            "$schema": "http://json-schema.org/draft-07/schema#",
-            "description": "Schema for a list of items with id, name, and usage",
-            "type": "array",
-            "items": {
-                "type": "object",
-                "properties": {
-                    "id": {
-                        "description": "Unique identifier for the item",
-                        "type": "integer"
-                    },
-                    "name": {
-                        "description": "Name of the item",
-                        "type": "string"
-                    },
-                    "usage": {
-                        "description": "Usage count of the item",
-                        "type": "integer",
-                        "minimum": 0
-                    }
-                },
-                "required": ["id", "name", "usage"]
-            }
-        }
-
-        file_path = "menu_mapping/input/large_sku_with_usage.json"
+        file_path = "menu_mapping/input/root_items_input.csv"
         try:
             with open(file_path, "r") as file:
-                data = json.load(file)
-            validate(instance=data, schema=json_schema)
+                reader = csv.DictReader(file)
+                rows = list(reader)
+
         except Exception as e:
             print(f"Error: {str(e)}")
             return
@@ -95,19 +69,16 @@ class MenuMappingUtility:
 
         # Convert each row to a Document
         documents = [Document(text="ID,NAME")]
-        for item in data:
-            normalized_item_name = MenuMappingUtility.normalize_string(item['name'])
-            if ('bulk' in normalized_item_name or 'inv-' in normalized_item_name or 'test' in normalized_item_name or len(normalized_item_name) < 3):
-                continue
-            documents.append(Document(text=f"{item['id']},{normalized_item_name}"))
-            item_id_map[item['id']] = {
-                "id": item['id'],
-                "name": item['name'],
-                "usage": item['usage']
+        for row in rows:
+            documents.append(Document(text=f"{row['id']},{row['name']}"))
+            item_id_map[str(row['id'])] = {
+                "id": row['id'],
+                "name": row['name'],
+                "trace_ids": row['trace_ids']
             }
 
         # saving file for testing purpose, to be removed
-        documents_path = os.path.join(os.path.dirname(file_path), "processed_documents.txt")
+        documents_path = os.path.join(os.path.dirname(file_path), "processed_documents_root.txt")
         with open(documents_path, "w") as file:
             for doc in documents:
                 file.write(doc.text + "\n")

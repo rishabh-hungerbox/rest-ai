@@ -2,6 +2,7 @@ import openai
 from llama_index.llms.openai import OpenAI
 import os
 from menu_mapping.helper_classes.utility import MenuMappingUtility
+import json
 
 
 class LLMHelper:
@@ -27,6 +28,58 @@ class ItemSpellCorrector:
                     """
         name = LLMHelper(self.model).execute(prompt.format(item_name=item_name))
         return MenuMappingUtility.normalize_string(name)
+    
+
+class ItemFormatter:
+    def __init__(self, model):
+        self.model = model
+
+    def format(self, item_name):
+        prompt = """Given the name of a food item name (can be Indian), extract the different food items present in the name and reply with a ' | ' seperated string (Look at the example). Remove any sort of price or quantity from the said food item name.
+                    Keep definitive spellings for indian food items like 'pakora', 'bhaji', 'chapati', 'paratha', 'idli', 'bhatura' and so on
+                    Spell correct 'rool' to 'roll' and so on.
+                    Note: Things like 'parotta' should not get converted to 'paratha'.
+                    Tell if the item is ambigious in name or not. Ambiguity arises with unspecific names like 'juice of the day', while specific names like 'Juice' are not ambiguous.
+                    'Combo', 'Dinner', 'Menu' and 'Lunch' should be considered as ambiguous as they don't specify any item.
+                    Also tell if the item is a retail store food item (mrp) or a restaurant dish (non_mrp).
+                    Note: snack items like 'samosa', 'pakora', 'muffin', 'bread', 'Veg sandwich' and so on are not MRP items.
+                    Formatted Name should have proper capitalization (start of each important word in capital) (look at the example below). 
+                    Note : 'Chicken Egg Biryani', 'Chicken paratha', 'Chicken Egg roll' are same single items while 'Chapati 3 Egg curry' should be separated like 'Chapati, Egg Curry'. 'Aloo Paratha - 1 No With Channa Masala - 60 Grm Curd' Should be separated like 'Aloo Paratha, Channa Masala, Curd'
+                    Items like 'fried rice chicken' and 'chicken fried rice' are same single items.
+                    Items like 'bread butter jam' or 'bread butter jam roll' are a single item.
+                    Note: Brand names should are important and should not be removed like 'Amul', 'Domino's' etc.
+                    Output should be in json format with double quotes and enclosed in ```json {} ```
+                    Output 'name' field should not contain any commas. Remove 'add on'/'addon' from input if present.
+
+                    Example:
+                    Input: '2 piece dossa & idlly 50 milligram 30 /- Rs'
+                    Output:```json{
+                    "name": "Dosa | Idli",
+                    "ambiguous": 0,
+                    "is_mrp": 0,
+                    }```
+
+                    Input: 'glazed night snack'
+                    Output:```json{
+                    "name": "glazed night snack",
+                    "ambiguous": 1,
+                    "is_mrp": 0,
+                    }```
+
+                    food item is """
+        response = LLMHelper(self.model).execute(f'{prompt}{item_name}')
+        try:
+            response = str(response).replace("'", '"')
+            formated_item = json.loads(response.strip("```json").strip("```"))
+        except Exception as e:
+            print(f"Error processing response: {e}")
+            return {
+                        "name": 'LLM JSON parsing failed',
+                        "ambiguous": 1,
+                        "is_mrp": 0
+                    }
+        
+        return formated_item
 
 
 class Evaluator:

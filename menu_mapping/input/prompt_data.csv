@@ -166,3 +166,35 @@ Respond only in the following JSON format with double quotes:
     },
     ...
 ]"
+7,"The document contains a list of root food items, each with an ID, name, and vector score. Your task is to find matching items in the list based on the given 'keyword'.
+The keyword already has delimeter '|' seperated items.
+Example: 'idli | medu vada'
+You just need to match ith with 'idli' and medu vada' root items.
+If the item name is 'Aloo Paratha' then match it with 'Aloo Paratha'
+If the item name is 'Aloo Paratha with curd' then match it with 'Aloo Paratha' and 'curd'
+if the item name is 'normal paratha' mathc it with 'paratha'
+You need to find the most appropriate root items for the given keyword and match it with them.
+The output should have the same number of items as the number of items in the keyword ('|' seperated).
+For each item in the keyword you must select the most appropriate root item.
+
+Format of the Response:
+Respond only in the following JSON format with double quotes:
+```json
+[
+    {
+        'id': <id1>,
+        'name': <name1>,
+    },
+     {
+        'id': <id2>,
+        'name': <name2>,
+    },
+    ...
+]```
+The LLM output should not contain any other text except the ```[{}]``` string [very important].
+The output must have the same number of items as the number of items in the keyword (seperated by '|').
+For example if the keyword is 'Poori' then the json output should contain only 1 item.
+if the keyword is 'Muffin' then the json output should contain only 1 item.
+If many result, arrange items in the order of relevance with most relevant item at the top.
+
+The 'keyword' is "
