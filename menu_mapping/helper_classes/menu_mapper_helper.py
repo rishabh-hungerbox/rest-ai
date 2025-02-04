@@ -231,7 +231,7 @@ class MenuMapperAI:
             vs_best = nodes[0].node.text
             vs_score = nodes[0].score
         if self.with_reranker:
-            
+
             items = item_name.split(' | ')
             for food in items:
                 nodes = self.retriever.retrieve(food)

@@ -172,22 +172,23 @@ Example: 'idli | medu vada'
 You just need to match ith with 'idli' and medu vada' root items.
 If the item name is 'Aloo Paratha' then match it with 'Aloo Paratha'
 If the item name is 'Aloo Paratha with curd' then match it with 'Aloo Paratha' and 'curd'
-if the item name is 'normal paratha' mathc it with 'paratha'
+if the item name is 'normal paratha' match it with 'paratha'
+if the item name is 'hot coffee' and 'hot coffee' is not present in the list, match it with 'coffee' instead of 'cold coffee'
 You need to find the most appropriate root items for the given keyword and match it with them.
 The output should have the same number of items as the number of items in the keyword ('|' seperated).
 For each item in the keyword you must select the most appropriate root item.
 
 Format of the Response:
-Respond only in the following JSON format with double quotes:
+Respond only in the following JSON format with double quotes and valid trailing commas:
 ```json
 [
     {
         'id': <id1>,
-        'name': <name1>,
+        'name': <name1>
     },
      {
         'id': <id2>,
-        'name': <name2>,
+        'name': <name2>
     },
     ...
 ]```
