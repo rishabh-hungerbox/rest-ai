@@ -18,6 +18,7 @@ from llama_index.core.postprocessor import LLMRerank
 from menu_mapping.helper_classes.utility import MenuMappingUtility
 from llama_index.llms.anthropic import Anthropic
 from etc.query_utility import QueryUtility
+from menu_mapping.models import LLMLogs, MenuMappingPrediction
 
 
 class MenuMapperAI:
@@ -39,14 +40,13 @@ class MenuMapperAI:
         load_dotenv()
         openai.api_key = os.getenv('OPEN_API_KEY')
         os.environ["TOKENIZERS_PARALLELISM"] = "false"
-        
+
         documents, self.item_id_map = MenuMappingUtility.fetch_data()
         self.global_index = self.generate_vector_index(documents)
         self.prompt = self.fetch_prompt()
 
     def execute(self, child_menu_name):
         return self.generate_response_debug(child_menu_name)
-    
 
     def process_response(self, response, item_id_map) -> list:
         try:
@@ -122,14 +122,16 @@ class MenuMapperAI:
         tru_recorder = TruLensHelper.get_prebuilt_trulens_recorder(query_engine, self.app_id)
         return tru, tru_recorder
 
-    def generate_response(self, input_data):
+    def generate_response(self, input_data, log_id=None):
         RETRY_COUNT = 3
-        ouput_text = 'ID,Name,Cleaned Name,Master Menu ID,Master Menu Name,Eval Input,Predicted Name,Eval Prediction\n'
+        # ouput_text = 'ID,Name,Cleaned Name,Master Menu ID,Master Menu Name,Eval Input,Predicted Name,Eval Prediction\n'
 
-        dt = datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
-        file_path = f"menu_mapping/output/root_mapping_{self.model}_{dt}.csv"
-        with open(file_path, "w") as file:
-            file.write(ouput_text)
+        # dt = datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
+        # file_path = f"menu_mapping/output/root_mapping_{self.model}_{dt}.csv"
+        # with open(file_path, "w") as file:
+        #     file.write(ouput_text)
+            
+        ranked_nodes = {}
 
         for data in input_data.values():
             item = data['name']
@@ -149,10 +151,17 @@ class MenuMapperAI:
 
             if valid:
                 nodes, _, _, _, _ = self.get_filtered_nodes(item_data['name'])
+                for node in nodes:
+                    info = node.text.split(",")
+                    ranked_nodes[info[0]] = info[1]
                 if len(nodes) == 0:
                     print("Reranker returned nothing !!!!!")
                     eval_input = Evaluator('gpt-4o-mini').item_evaluator(data['mv_name'], item)
-                    ouput_text += f"{data['id']},{data['name']},{data['mv_id']},{data['mv_name']},'{eval_input}','NOT FOUND','NOT FOUND','NULL','0','NULL','NULL'\n"
+                    eval_input = bool(eval_input == 'YES')
+                    # ouput_text += f"{data['id']},{data['name']},{data['mv_id']},{data['mv_name']},'{eval_input}','NOT FOUND','NOT FOUND','NULL','0','NULL','NULL'\n"
+                    prediction = MenuMappingPrediction(menu_id=data['id'], menu_name=data['name'], master_menu_id=data['mv_id'], master_menu_name=data['mv_name'], corrected_menu_name=item_data['name'],
+                                                       eval_current=eval_input, predicted_menu_name='NOT FOUND', eval_prediction=None, response='', ranked_nodes=ranked_nodes, log_id=log_id)
+                    prediction.save()
                     continue
 
                 text = "ID,Food Item Name,Vector Score\n"
@@ -198,9 +207,16 @@ class MenuMapperAI:
                     root_item_name = 'NOT FOUND'
                     eval_input = Evaluator('gpt-4o-mini').item_evaluator(data['mv_name'], item_data['name'])
                     print("None")
-            ouput_text = f"""{data['id']},{data['name']},{item_data['name']},{data['mv_id']},{data['mv_name']},{eval_input},{root_item_name},{eval_prediction}\n"""
-            with open(file_path, "a") as file:
-                file.write(ouput_text)
+            eval_input = bool(eval_input == 'YES')
+            eval_prediction = bool(eval_prediction == 'YES')
+            if root_item_name in ['AMBIGUOUS ITEM DETECTED', 'MRP ITEM DETECTED']:
+                eval_prediction = None
+            prediction = MenuMappingPrediction(menu_id=data['id'], menu_name=data['name'], master_menu_id=data['mv_id'], master_menu_name=data['mv_name'], corrected_menu_name=item_data['name'],
+                                               eval_current=eval_input, predicted_menu_name=root_item_name, eval_prediction=eval_prediction, response=str(response), ranked_nodes=ranked_nodes, log_id=log_id)
+            prediction.save()
+            # ouput_text = f"""{data['id']},{data['name']},{item_data['name']},{data['mv_id']},{data['mv_name']},{eval_input},{root_item_name},{eval_prediction}\n"""
+            # with open(file_path, "a") as file:
+            #     file.write(ouput_text)
 
         return
 
@@ -249,4 +265,6 @@ def get_master_menu_response(child_menu_name: str):
 
 
 def process_data(data):
-    ai.generate_response(data)
+    log = LLMLogs(model_name=ai.model, embedding_model=ai.embedding, prompt=ai.prompt)
+    log.save()
+    ai.generate_response(data, log.id)
