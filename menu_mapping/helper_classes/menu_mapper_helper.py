@@ -239,9 +239,9 @@ class MenuMapperAI:
                     top_n=self.similarity_top_k,
                     llm=self.llm
                 )
-                print(f"Given Food Item - '{food}'. Find the most relevant food item.")
+                print(f"Given Food Item - '{food}'. Find the most relevant food item. Give more priority to exact item name match.")
                 filter_nodes = reranker.postprocess_nodes(
-                    nodes, QueryBundle(f"Given Food Item - '{food}'. Find the most relevant food item.")
+                    nodes, QueryBundle(f"Given Food Item - '{food}'. Find the most relevant food item. Give more priority to exact item name match.")
                 )
                 print("ID,Food Item Name,Vector Score")
                 for node in filter_nodes:

@@ -3,1445 +3,1445 @@ id,name,trace_ids
 2,Aam Sandesh,5781
 3,Aamras,8199
 4,Aappam,7010
-5,Achari Chana Pulao,10308
-6,Adai Dosai,7013
-7,Adai Uttapam,4241
-8,Affogato,9037
-9,Afgani Chicken,6745 - 6743
-10,Afghani Chicken Biryani,6283
-11,Afghani Murgh Tikka,10174
-12,Aglio Oglio Pasta,7762
-13,Ajmer Cake,7560
-14,Akki Roti,7087
-15,Al Faham Chicken,6539
-16,Alasande Vada,7089
-17,Alfredo Pasta,7121
-18,Allepy Chicken Curry,4643
-19,Almond,4313
-20,Aloo Bhaji,8887
-21,Aloo Bhature,6906
-22,Aloo Bhindi,6062
-23,Aloo Biryani,6015
-24,Aloo Bonda,4217
-25,Aloo Bun,7090
-26,Aloo Chaat,6235 - 7541
-27,Aloo Chilli,10229
-28,Aloo Chop,10230
-29,Aloo Dum,5867 - 6014
-30,Aloo Gobi,6064
-31,Aloo Gobi Paratha,10412
-32,Aloo Jeera,6065
-33,Aloo Manchurian,10231
-34,Aloo Masala,5937 - 860
-35,Aloo Masala Cheese Sandwich,5327
-36,Aloo Masala Sandwich,5328
-37,Aloo Mattar,9041
-38,Aloo Methi Paratha,10307
-39,Aloo Mutter Curry,5329
-40,Aloo Mutter Kulcha,7092
-41,Aloo Mutter Masala,6066
-42,Aloo Palak,6068
-43,Aloo Paratha,4570 - 6604
-44,Aloo Patty Salad,3535
-45,Aloo Puri,7538
-46,Aloo Pyaz Paratha,6752
-47,Aloo Sabzi,7091
-48,Aloo Samosa,4322
-49,Aloo Sandwich,4761
-50,Aloo Tamatar,9042
-51,Aloo Tikki Chaat,4418
-52,Aloo Tikki Ragda Chaat,3561
-53,Aloo Tikki Sandwich,7094
-54,Ambuli Juice,8063
-55,Ambur Chicken Biryani,4451
-56,Ambur Egg Biryani,7095
-57,Ambur Mutton Biryani,5331
-58,Ambur Veg Biryani,4450
-59,American Chocomax,5965
-60,Americano,4088
-61,Amriti,5787
-62,Amritsar Chicken,7096
-63,Amritsari Fish Fry,9243
-64,Anchovy Fish Fry,8753
-65,Andhra Chilli Chicken,5332
-66,Andhra Kara Dosa,6553 - 4745
-67,Andhra Special Chicken Biryani,7549
-68,Andhra Special Veg Biryani,7550
-69,Andhra Veg Biryani,5722
-70,Anjeer Milk Shake,3275
-71,Anjeer Peda,10232
-72,Appalam,6391
-73,Appam,6959 - 6368 - 7099 - 7100 - 7101 - 4615 - 4444 - 4614 - 8035 - 4613
-74,Appe,9918 - 9927
-75,Appe Lollypop,9916 - 9923
-76,Appe Pizza,9921 - 9930
-77,Appe Platter,9931
-78,Apple,6751
-79,Apple Cinnamon Tart,10234
-80,Apple Fruit Shake,3261
-81,Apple Juice,3302
-82,Apple Milk Shake,8872
-83,Apple Muffin,10236
-84,Apple Pie,3727
-85,Arabian Roll,6302
-86,Arabic Kabooli Rice,6539
-87,Arabic Kabuli,6284
-88,Arisi Paruppu Sadam,6343
-89,Assorted Bajji,4354
-90,Assorted Veg Paneer Sandwich,7006
-91,Atho Chicken,7065
-92,Atho Egg,7064
-93,Atho Egg Chicken,7066
-94,Avakaya Chicken Biryani,5727
-95,Avakaya Mutton Biryani,5732
-96,Avalaki Bhath,7105
-97,Avalakki Bath,7436
-98,Avial,6630
-99,Avocado Milkshake,7104
-100,Awadhi Chicken Biryani,5090
-101,Awadhi Veg Biryani,7106
-102,Azadi Non Veg,9332
-103,BBQ Chicken,5888
-104,BBQ Chicken Burger,6544
-105,BBQ Chicken Salad,3559
-106,BBQ Paneer,5887
-107,Baby Corn,8557
-108,Baby Corn 65 Biryani,5911
-109,Baby Corn Chilli,6053
-110,Baby Corn Fried Rice,6579
-111,Baby Corn Manchurian,7107
-112,Baby Corn Masala Dosa,6628
-113,Baby Corn Mushroom Masala Dosa,7475
-114,Baby Corn Pakoda,10237
-115,Baby Corn Paneer Biryani,10419
-116,Baby Corn Pepper Masala,7108
-117,Baby Corn Salad,5104
-118,Baby Corn Tikka,10238
-119,Babycorn Cheese Sandwich,5333
-120,Babycorn Dosa,4735
-121,Babycorn Manchurian,6444
-122,Babycorn Mushroom Biryani,5008
-123,Badam Milk,3238
-124,Badam Peda,10239
-125,Badam Pheni,7552
-126,Badam Shake,3276
-127,Badam Chai Tea,8874
-128,Baigan Bharta,8203
-129,Baigan Bharwa,8204
-130,Baked Cheese Cake,10002
-131,Baked Chicken Au Gratin,3697
-132,Baked Chicken Eggplant Moussaka,3682
-133,Baked Eggplant Moussaka,3681
-134,Balushahi,10401
-135,Banana,3530 - 6748
-136,Banana Bajji,6915 - 6591
-137,Banana Bonda,8763
-138,Banana Cake Slice,3408
-139,Banana Caramel Cake,3411
-140,Banana Cashew Cake,3412
-141,Banana Chocolate Cake,3413
-142,Banana Chocolate Cake Shake,7110
-143,Banana Fry,4201
-144,Banana Honey Milk Shake,2611
-145,Banana Lassi,4393
-146,Banana Milkshake,3252
-147,Banana Pancakes,3414
-148,Banana Rasayana,10241
-149,Banga Chicken,7073
-150,Banga Egg,7072
-151,Barfi,5336
-152,Barracuda Fish Fry,8755
-153,Basbousa,6036
-154,Basil Pesto Pasta,7120
-155,Basmati Rice,741
-156,Basundi,10405
-157,Batani Curry,7340
-158,Bbq Chicken,7111
-159,Bbq Fries,5859
-160,Bbq Paneer,7112
-161,Bbq Pizza,6790
-162,Bedmi Poori,5868
-163,Beef Biryani,7519
-164,Beef Curry,6291 - 6534 - 6535 - 6285
-165,Beef Fry,7621
-166,Beef Roll,7628
-167,Beetroot,10249 - 6751
-168,Beetroot Aloo Paratha,7113
-169,Beetroot Dosa,7114
-170,Beetroot Juice,3292
-171,Beetroot Lassi,10243
-172,Bejo Soup,7076
-173,Belgian Doughnut,4874
-174,Belgium Chocolate Truffle,9357
-175,Belgium Pastry,3729
-176,Bell Pepper Pizza,7763
-177,Berliner,10217
-178,Berry Cake,9993
-179,Besan Barfi,3391
-180,Besan Chilla,9038
-181,Besan Laddu,3361
-182,Besan Ladoo,9955
-183,Bhagara Rice,3193
-184,Bhaji Pav,5337
-185,Bhalla Papri Chat,6981
-186,Bhatura,5945 - 6727
-187,Bhature,3353
-188,Bhel,3573
-189,Bhel Puri,3574
-190,Bhindi,8206
-191,Bircher Muesli,10244
-192,Birdy's Chicken Jungli Sandwich,8834
-193,Biriyani Zone Special Chicken Curry,5893
-194,Biryani,4433
-195,Biscoff Cheese Pastry,10203
-196,Bisi Bele Bath,4425 - 3231
-197,Black Chana Chaat,3584
-198,Black Channa,7116
-199,Black Channa Sundal,7117
-200,Black Channa Vada,7118
-201,Black Coffee,3443
-202,Black Currant Kulfi,6850
-203,Black Currant Lassi,6946
-204,Black Currant Milkshake,3270
-205,Black Forest Cake,4082
-206,Black Forest Pastry,3394
-207,Black Mojito,4903
-208,Black Olive Salad,5005
-209,Black Tea,3445
-210,Blackcurrant Lassi,6839
-211,Blackcurrant Milkshake,10245
-212,Blackcurrant Mojito,6827
-213,Blackcurrant Smoothie,6821
-214,Blueberry Cheese Cake,9088
-215,Blueberry Doughnut,5338
-216,Blueberry Ice Tea,6885
-217,Blueberry Milkshake,10246
-218,Blueberry Mojito,6826
-219,Blueberry Pastry,4167
-220,Blueberry Smoothie,6820
-221,Blueberry Waffle,7054
-222,Boiled Banana,9352
-223,Boiled Cassava,6308
-224,Boiled Egg,3429 - 777 - 6357 - 8963 - 6354 - 4756
-225,Boiled Peanut,4355
-226,Boiled Peanut Sundal,6312
-227,Boli,6299
-228,Bombay Chicken Biryani,6236
-229,Bombay Mixture,7283
-230,Bombay Samosa,4231
-231,Bombay Veg Biryani,6237
-232,Bonda,3716
-233,Bonda Chaat,3588
-234,Bonda Soup,3513
-235,Boodni Ladoo,9954
-236,Boondi Phirni,4914
-237,Borishali Chicken Thali,7497
-238,Boti Masala,7285
-239,Bottle Gourd Bajji,10247
-240,Bottle Gourd Kheer,7250
-241,Bread,5874 - 5944 - 5352 - 5947 - 5442 - 5445 - 5454 - 5490 - 3432 - 3433
-242,Bread Bajji,828 - 6585
-243,Bread Better Jam,5339
-244,Bread Better Jam Toast,5341
-245,Bread Butter,5340
-246,Bread Butter Toast,5342
-247,Bread Channa,7542
-248,Bread Chat,7288
-249,Bread Fry,4213
-250,Bread Jam,5343
-251,Bread Masala Dosa,7471
-252,Bread Omelette,6730
-253,Bread Pakoda,3625
-254,Bread Pakora,993
-255,Bread Pudding,10404
-256,Bread Roll,3441
-257,Bread Upma,7286
-258,Brinjal Bajji,6588
-259,Brioche,10221
-260,Broccoli Soup,7290
-261,Broken Wheat Poha,7291
-262,Brown Garlic Tomato Rice,3209
-263,Brown Onion Pulao,3215
-264,Brownie,3407
-265,Brownie Fantasy,5963
-266,Brownie Shake,3281
-267,Brownie Sundae,6865
-268,Bubble Gum Mojito,7548
-269,Bubble Tea,7292
-270,Bubblegum Velvet Waffles,5996
-271,Bulls Eye,4617
-272,Bun Butter Gulkand,6883
-273,Bun Butter Jam,5851
-274,Bun Masala,7293
-275,Bun Maska,4430
-276,Bun Omelette,8215
-277,Burger,6900
-278,Buritto Veg,4586
-279,Burnt Garlic Fried Rice,4573
-280,Burnt Garlic Rice,6484
-281,Butter,3191
-282,Butter Appe,9931
-283,Butter Chicken,6536
-284,Butter Chicken Biryani,6776 - 6775
-285,Butter Chicken Masala,4649 - 6718
-286,Butter Croissant,3703
-287,Butter Dosa,6165
-288,Butter Kulcha,5891
-289,Butter Masala Dosa,6180
-290,Butter Milk,10526
-291,Butter Naan,5345 - 6601 - 6716 - 6718
-292,Butter Non,6510
-293,Butter Paneer,6085
-294,Butter Paneer Appe,9920 - 9929
-295,Butter Plain Dosa,6181
-296,Butter Roast Dosa,4737
-297,Butter Roti,5890 - 6603
-298,Butter Scotch Chocolate Waffle,7052
-299,Butter Scotch Milkshake,3255
-300,Butter Scotch Pastry,3396
-301,Butter Tandoori Paratha,6507
-302,Butter Tandoori Roti,5346
-303,Buttermilk,3314
-304,Butterscotch Ice Cream,6861
-305,Butterscotch Lassi,6841
-306,Butterscotch Muffin,5347
-307,Butterscotch Smoothie,8875
-308,Butterscotch Waffles,5991
-309,Cabbage,3628 - 7294
-310,Cabbage Bhajji,3630
-311,Cafe Frappe,6993
-312,Cake,4880
-313,Cake Crumble Pie,3420
-314,Cake Fudge,58
-315,Calicut Chicken Curry,4646
-316,Calicut Chicken Roast,6072
-317,Candy Chicken,6305
-318,Cane Juice,8881
-319,Cannelloni,7230
-320,Capsicum Bajji,7296
-321,Capsicum Bhaji,6983
-322,Capsicum Cheese Sandwich,5348
-323,Capsicum Masala Dosa,6556
-324,Capsicum Pulao,7297
-325,Capsicum Rice,3202
-326,Capsicum Rice Bath,7491
-327,Caramel Brownie,5349
-328,Caramel Sauce,9406
-329,Carrot,7300 - 3292 - 6751
-330,Carrot Cake,3422
-331,Carrot Cherry Cake,7301
-332,Carrot Corn Pulao,7298
-333,Carrot Dosa,5932
-334,Carrot Halwa,7439
-335,Carrot Idli,7299
-336,Carrot Juice,3283
-337,Carrot Paratha,7302
-338,Carrot Rice,907 - 7303 - 6572
-339,Carrot Soup,7304
-340,Carrot Utthappam,6171
-341,Cashew Paneer Curry,8565
-342,Cauliflower Masala Dosa,7470
-343,Cereals,3656
-344,Chaat,3562
-345,Chai,4566
-346,Chakuli,9579
-347,Cham-Cham,9959
-348,Chana Aloo Tikki,3572
-349,Chana Chaat,3585
-350,Chana Masala,7537
-351,Chanar Jelabi,5779
-352,Chanar Kalia Thali,7496
-353,Chandrakala,4420
-354,Channa,4782 - 5945
-355,Channa Masala,6604 - 809 - 6605 - 6606 - 6607
-356,Channa Masala Dosa,6555
-357,Chapati,4214 - 760 - 6504 - 6286 - 6290
-358,Char Grilled Lemon Chicken,3695
-359,Chatpata Aloo Paratha,10309
-360,Chatti Pathiri,4228
-361,Cheela,5350
-362,Cheese,3188 - 1017
-363,Cheese Aloo Tikki,7093
-364,Cheese Bread Omelette,4380
-365,Cheese Chicken Meatball,5903
-366,Cheese Chicken Momos,6899
-367,Cheese Corn Nuggets,4404
-368,Cheese Croissant,3704
-369,Cheese Dosa,6153
-370,Cheese Maggi,5351
-371,Cheese Masala Dosa,6154
-372,Cheese Masala Omelette,6917
-373,Cheese Omelette,4384 - 5352
-374,Cheese Onion Dosa,6146
-375,Cheese Onion Paratha,10413
-376,Cheese Paradilla,4584
-377,Cheese Paratha,5353
-378,Cheese Pasta,6951
-379,Cheese Sandwich,5396
-380,Cheese Sauce,3678 - 3674
-381,Cheesy Fries,5860
-382,Cheesy Paneer Tikka Wrap,5902
-383,Chena Angoor,3362
-384,Chena Payesh,3382
-385,Chena Roll,3383
-386,Chenna Masala,5938
-387,Chennai Style Biryani,6777
-388,Chettinad Chicken Dry,5354
-389,Chettinad Chilly Chicken,6769
-390,Chettinad Pepper Chicken Meals,6702
-391,Chettinadu Masala Dosa,737
-392,Chia Oats Pudding,10262
-393,Chicken,4577 - 6521 - 6978 - 6770 - 4584 - 5379 - 5402 - 922 - 4438 - 9782 - 930 - 9776 - 5498 - 5503 - 6319 - 5531 - 9780 - 6489 - 5588 - 9781 - 9774 - 928 - 4579
-394,Chicken 555,8543
-395,Chicken 555 Biryani,8528
-396,Chicken 65,4639 - 814 - 6424 - 6636 - 7524 - 6638 - 6637
-397,Chicken 65 Biryani,4708
-398,Chicken 65 Kebab,5355
-399,Chicken Bhajji,3635
-400,Chicken Bharta,6383
-401,Chicken Biryani,3233 - 5094 - 4632 - 4633 - 6354 - 6355 - 6095 - 742 - 6636
-402,Chicken Bonda,8074
-403,Chicken Bun,6999
-404,Chicken Burger,3598 - 4399 - 5885
-405,Chicken Burnt Garlic Fried Rice,5309
-406,Chicken Calzone,9960
-407,Chicken Chaap,6385
-408,Chicken Chap,6082
-409,Chicken Cheese Balls,6739
-410,Chicken Chettinad,5356 - 808 - 4415
-411,Chicken Chettinad Biryani,6300
-412,Chicken Chilli Dog,4589
-413,Chicken Chilli Garlic Noodles,5357
-414,Chicken Chilly,9823
-415,Chicken Chopsuey,6912
-416,Chicken Club Sandwich,6747
-417,Chicken Coconut Fry,4626
-418,Chicken Crispy,9827
-419,Chicken Croissant,3708
-420,Chicken Curry,7099 - 6503 - 5360 - 6394 - 6374 - 6373 - 7338 - 6059 - 6061 - 6705 - 6728 - 8051 - 6538 - 8044 - 8046 - 8045 - 8047 - 8039 - 8041 - 6715 - 6647 - 8040 - 8042 - 8034 - 6714 - 8038 - 789 - 4678 - 6193
-421,Chicken Cutlet,6541
-422,Chicken Dinner,10536
-423,Chicken Do Piyaza,6384
-424,Chicken Do Pyaza,6070
-425,Chicken Donne Biryani,7305
-426,Chicken Dosa,6147
-427,Chicken Drumsticks,6304
-428,Chicken Drumsticks Biryani,8531
-429,Chicken Dum Biryani,5361 - 10420
-430,Chicken Frankie,9822
-431,Chicken Fried Idli,8043 - 8048
-432,Chicken Fried Kebab,3647
-433,Chicken Fried Momo,5294
-434,Chicken Fried Rice,6431 - 3497
-435,Chicken Fry,4625
-436,Chicken Fry Biryani,5724 - 5737 - 10421
-437,Chicken Garlic Finger,4143
-438,Chicken Gravy,4697 - 4623 - 4696
-439,Chicken Grill,7368 - 7367
-440,Chicken Hakka Noodle,4560
-441,Chicken Hakka Noodles,5362
-442,Chicken Harabhara,9825
-443,Chicken Hot Dog,3662
-444,Chicken Hot Sour Soup,3522
-445,Chicken In Bell Pepper Sauce,3687
-446,Chicken In Chilli Basil Sauce,5363
-447,Chicken In Chilli Oyster Sauce,5364
-448,Chicken In Hot Garlic Sauce,5365
-449,Chicken In Schezwan Sauce,5367
-450,Chicken Kathi Roll,6301
-451,Chicken Kebab Biryani,7284
-452,Chicken Keema Dosa,7306
-453,Chicken Keema Paratha,5946
-454,Chicken Keema Pav,7307
-455,Chicken Keema Puff,8820
-456,Chicken Keema Samosa,6306
-457,Chicken Kefte Tagine,3693
-458,Chicken Kheema,7308
-459,Chicken Kheema Pav,7014
-460,Chicken Kofta Salad,3554
-461,Chicken Kolapuri,7521
-462,Chicken Kolhapuri,6071
-463,Chicken Koliwada,9824
-464,Chicken Korma,825 - 6074
-465,Chicken Kosha,5766
-466,Chicken Kothu Parotta,4471
-467,Chicken Kotthu Parotta,6517
-468,Chicken Kurma,6364
-469,Chicken Kuska,7309
-470,Chicken Kuska Biryani,7310
-471,Chicken Lasagne,3702
-472,Chicken Lemon Coriander Soup,3516
-473,Chicken Liver Fry,6764
-474,Chicken Lolipop,6641
-475,Chicken Lollipop,6460
-476,Chicken Lollipop Biryani,8525
-477,Chicken Maggi,3357
-478,Chicken Majestic,8544
-479,Chicken Majestic Biryani,8529
-480,Chicken Malai Tikka,7311
-481,Chicken Manchow Fried Rice,5312
-482,Chicken Manchow Soup,3521
-483,Chicken Manchurian,4648 - 6456 - 6476 - 924
-484,Chicken Manchurian Biryani,5010
-485,Chicken Manchurian Dry,5372
-486,Chicken Masala,6643
-487,Chicken Masala Dosa,3721
-488,Chicken Mirchi Bajji,8076
-489,Chicken Momo,3503 - 5292 - 5291
-490,Chicken Mughali Curry,8561
-491,Chicken Mugulai,7522
-492,Chicken Mulligatawny Soup,3515
-493,Chicken Nanking Noodles,936
-494,Chicken Navabi,7520
-495,Chicken Noodles,3494
-496,Chicken Nuggets,4399 - 4142
-497,Chicken Omelette,4385
-498,Chicken Oriental Salad,3555
-499,Chicken Pakoda,8542 - 6361
-500,Chicken Pakoda Biryani,8527
-501,Chicken Palli Palayam,4647
-502,Chicken Paniyaram,6737
-503,Chicken Paratha,6756 - 4328
-504,Chicken Paratha Roll,4478
-505,Chicken Pasta,7210 - 3678 - 3679
-506,Chicken Pasta With Pink Sauce,3680
-507,Chicken Pasta With White Sauce,3677
-508,Chicken Pathiri,4225
-509,Chicken Patti Samosa,3631
-510,Chicken Pepper Dry,5883
-511,Chicken Pepper Fry,6642
-512,Chicken Pepper Gravy,6362
-513,Chicken Pepper Masala,7523
-514,Chicken Piccata,3683
-515,Chicken Pizza,6247
-516,Chicken Podimas,8070
-517,Chicken Popcorn,4141 - 6051
-518,Chicken Puff,3711 - 951
-519,Chicken Puffs,7525
-520,Chicken Pulao,5373
-521,Chicken Quesadilla,5771
-522,Chicken Rezzala,6382
-523,Chicken Rice Bowl,6658
-524,Chicken Roast,6987
-525,Chicken Roll,4235
-526,Chicken Salad,3551
-527,Chicken Salad Sandwich,4428
-528,Chicken Salt And Pepper,6655
-529,Chicken Samosa,3632 - 6742
-530,Chicken Sandwich,3594 - 4477 - 4476
-531,Chicken Satay,4576 - 4575
-532,Chicken Schezwan Fried Rice,5310 - 6430
-533,Chicken Schezwan Noodles,5311 - 937 - 6426
-534,Chicken Seekh Kabab,7674
-535,Chicken Shashlik,3691
-536,Chicken Shawarma,5775
-537,Chicken Shawarma Plate,7364
-538,Chicken Singapore Noodles,5374
-539,Chicken Starter,6405
-540,Chicken Stew,4615 - 822 - 5943 - 6369
-541,Chicken Strips,7314
-542,Chicken Submarine,6783
-543,Chicken Tandoori,6508
-544,Chicken Tandoori Kebab,3639
-545,Chicken Tangdi Biryani,5011
-546,Chicken Tawa Kebab,3640
-547,Chicken Teriyaki Salad,3556
-548,Chicken Tikka,3714
-549,Chicken Tikka Biryani,6134
-550,Chicken Tikka Chaap,6386
-551,Chicken Tikka Cheese Sandwich,4692
-552,Chicken Tikka Croissant,8821
-553,Chicken Tikka Grilled Roll,6975
-554,Chicken Tikka Masala,8562
-555,Chicken Tikka Mini Roll,8835
-556,Chicken Tikka Pizza,4601
-557,Chicken Tikka Salad,9032
-558,Chicken Tikka Sandwich,4330
-559,Chicken Tikka Semizza,5905
-560,Chicken Vada,8077
-561,Chicken Varattiyathu,4645
-562,Chicken Wings,6772
-563,Chicken Wrap,3666
-564,Chicken Yakhni Biryani,7315
-565,Chicken in Hunan Sauce,5366
-566,Chikku Juice,3305
-567,Chikoo Fruit Shake,3262
-568,Chikoo Milk Shake,8882
-569,Chili Chipotle Chicken,5900
-570,Chilli,4198
-571,Chilli Bhajji,3623
-572,Chilli Cheese Maggi,5376
-573,Chilli Cheese Sandwich,4762 - 9799
-574,Chilli Cheese Toast,4196
-575,Chilli Chicken,4624 - 812 - 933 - 6425
-576,Chilli Chicken Biryani,8526
-577,Chilli Chipotle Chicken,7316
-578,Chilli Coriander Uthappam,6167
-579,Chilli Corn Cheese Sandwich,4771
-580,Chilli Garlic Egg Fried Rice,7233
-581,Chilli Garlic Potato Bites,7214
-582,Chilli Garlic Veg Fried Rice,7235
-583,Chilli Gobi,4628
-584,Chilli Idli,4324
-585,Chilli Paneer,9010 - 8546
-586,Chilli Paratha,5377
-587,Chilli Prawns,8545
-588,Chilly Babycorn,6475
-589,Chilly Bajji,6586
-590,Chilly Chicken,6457 - 6477
-591,Chilly Egg,6463
-592,Chilly Garlic Chicken Rice,6487
-593,Chilly Garlic Noodles,6492 - 6494
-594,Chilly Garlic Rice,6486
-595,Chilly Idly,6626
-596,Chilly Mushroom,6474
-597,Chilly Paneer,6451
-598,Chinese Non-Veg Chop Suey,7317
-599,Chinese Non-Veg Meal,5379 - 5380 - 5381 - 5382
-600,Chitrana Rice,7319
-601,Choco Carnival Sundaes,4408
-602,Choco Chip Brownie,7001
-603,Choco Chip Fudgy Brownie,7002
-604,Choco Flakes,6781
-605,Choco Hazelnut Doughnut,4875
-606,Choco Lava Cake,3416
-607,Choco Truffle Cake,3399
-608,Chocochip Brownie,5391
-609,Chocochip Cake,3415
-610,Chocoholic Waffles,5992
-611,Chocolate,8765 - 9988
-612,Chocolate Almond Doughnut,4861
-613,Chocolate Ball,3405
-614,Chocolate Bao,7759
-615,Chocolate Barfi,9957
-616,Chocolate Brownie,4331
-617,Chocolate Bun Maska,5852
-618,Chocolate Cake,5392 - 883
-619,Chocolate Chip,9796
-620,Chocolate Chips,9405
-621,Chocolate Cream Cake,4079
-622,Chocolate Croissant,3705
-623,Chocolate Cupcake,3417
-624,Chocolate Danish,10223
-625,Chocolate Doughnut,8842 - 3404
-626,Chocolate Dream Cake Doughnut,4869
-627,Chocolate Frappe,6814
-628,Chocolate Gateaux,5828
-629,Chocolate Iced Glazed Doughnut,4867
-630,Chocolate Iced Glazed Sprinkle Doughnut,4868
-631,Chocolate Kit Kat Shake,9794
-632,Chocolate Kulfi,6851
-633,Chocolate Lassi,6840
-634,Chocolate Milkshake,3256
-635,Chocolate Momo,6893
-636,Chocolate Mousse,4453
-637,Chocolate Muffin,3725
-638,Chocolate Pastry,3397 - 10200
-639,Chocolate Pheni,7551
-640,Chocolate Pudding,8764
-641,Chocolate Sandwich,5861
-642,Chocolate Sauce,9409 - 8189
-643,Chocolate Shake,9798
-644,Chocolate Smoothie,8873
-645,Chocolate Soft clair,9997
-646,Chocolate Softy,8188
-647,Chocolate Thickshake,6855
-648,Chocolate Walnut Brownie,5393
-649,Chocolava,10202
-650,Chole,6727 - 6733 - 3562 - 3353 - 3213
-651,Chole Bhature,-1
-652,Chole Biryani,10398
-653,Chole Masala,861 - 6060
-654,Chole Paneer,10321
-655,Chow Chow Bath,4620
-656,Chum Chum,3363
-657,Churro Doughnut,4870
-658,Chutney,3655 - 5396 - 10319 - 6551 - 10318 - 6106
-659,Cinnamon Doughnut,5397
-660,Cinnamon Roll,9990
-661,Classic Doner Kebab,6525
-662,Classic Doner Kebab Chicken,6546
-663,Classic Donuts,5846
-664,Classic Falooda,6829
-665,Classic Maggi,4194
-666,Classic Margherita Pizza,5895
-667,Classic South Meals,757
-668,Clear Chicken Soup,6502
-669,Clubbed Chicken Tower Burger,7465
-670,Coconut,3194
-671,Coconut Barfi,5398
-672,Coconut Kulfi,6852
-673,Coconut Milk,5936
-674,Coconut Rice,3195 - 904
-675,Coffee,3442
-676,Coffee Ice Cream,7625
-677,Coffee Mocha Fantasy Cake,3728
-678,Cold Coffee,4323 - 4407
-679,Cold Coffee Milkshake,3253
-680,Cold Horlicks Milk,3245
-681,Coleslaw Sandwich,5399
-682,Colombian Chocolate Cheese Cake,9983
-683,Cone Cake,5836
-684,Continental Chicken Soup,3657
-685,Continental Non-Veg Meal,5402 - 5403 - 5405
-686,Continental Non-Veg Packed Meal,5408
-687,Cooker Mandi,10904
-688,Cookies,5661 - 6004
-689,Coriander Dosa,7321
-690,Coriander Rice,7322
-691,Corn Bread Omelette,4379
-692,Corn Chaat,3586
-693,Corn Cheese Momo,4374
-694,Corn Cheese Sandwich,4770
-695,Corn Flakes Chaat,3589
-696,Corn Idli,7323
-697,Corn Maggi,4193
-698,Corn Masala Dosa,6182
-699,Corn Mushroom Rice,6483
-700,Corn Pasta Cheese Salad,3539
-701,Corn Peanut Salad,3537
-702,Corn Peas Biryani,5009
-703,Corn Peas Salad,3538
-704,Corn Potato Burger,7467
-705,Corn Pulao,3216
-706,Corn Sandwich,4769
-707,Corn Spinach Cheese Sandwich,5413
-708,Corn Spinach Parcel,5958 - 5965
-709,Corn Spinach Sandwich,5414
-710,Corn Utthappam,6172
-711,Corn and Pepper Tossed Salad,3548
-712,Corn and Spinach Cheese Sandwich,4685
-713,Corn and Spinach Sandwich,4684
-714,Cottage Cheese and Pepper Steaks,3698
-715,Crab Omelette,4387
-716,Cranberry Smoothie,6822
-717,Cream Bun,4779
-718,Cream Cheese Bagel with Chia Seeds,10227
-719,Cream Chicken,4908
-720,Cream Paneer,4909
-721,Cream Roll,6248
-722,Cream Waffle,6004
-723,Creamy Chicken Sandwich,4688
-724,Creamy Oreo Sundae,4369
-725,Crispy Chicken,6303
-726,Crispy Chicken Corn Dog,4588
-727,Crispy Chilli Babycorn,5299
-728,Crispy Chilli Pepper Corn,5415
-729,Crispy Chilli Potato,5298 - 931 - 5416
-730,Crispy Chilly Potato,6446
-731,Crispy Mushroom,7326
-732,Crispy Schezwan Vegetables,5417
-733,Crunchy Taco Bowl,10039
-734,Crunchy Taco Supreme Non Veg,9973
-735,Crunchy Taco Supreme Veg,9968
-736,Crunchy Wheat Taco,9977
-737,Crushers,4409
-738,Cucumber Dosa,7327
-739,Cupcakes,8197
-740,Curd,6604 - 3189 - 6605 - 6606 - 6607
-741,Curd Rice,6636 - 4360 - 903 - 6574 - 6638 - 4699 - 6637 - 4698 - 738
-742,Curd Vada,5682
-743,Curry Leaf Dosa,7328
-744,Curry Leaf Rice,7329
-745,Curry Leaves Rice,5978 - 6573
-746,Custard,3393
-747,Custard Apple Milkshake,3271
-748,Cut Fruits,7330
-749,Cutlet,4706 - 6594 - 4707
-750,Cutlet Chaat,3590 - 3563
-751,Cutlet Chana,6982
-752,Dabeli,7331
-753,Dahi,3587
-754,Dahi Bhalle Chaat,3564
-755,Dahi Bhel Chaat,3565
-756,Dahi Bhel Puri,7539
-757,Dahi Kachodi,7543
-758,Dahi Kachori,3575
-759,Dahi Papdi Chaat,3566
-760,Dahi Puri,6311 - 6596 - 6411
-761,Dahi Sev Puri,3576
-762,Dahi Vada,4356
-763,Dakshini Pulao,3219
-764,Dal,3488 - 4676
-765,Dal Fry,740 - 785
-766,Dal Kachori,4431
-767,Dal Khichdi,7721
-768,Dal Makhani,3490
-769,Dal Pappu,3489
-770,Dal Paratha,7085
-771,Dal Pulao,3217
-772,Dal Tadka,4653
-773,Dal Vada,833
-774,Danish Pastry,9991
-775,Dark Chocolate,5988
-776,Dark Chocolate Waffle,4407
-777,Dark White Waffle,7056
-778,Date Banana Walnut Cake,9994
-779,Dates Milkshake,3266
-780,Dates Pie,7334
-781,Dates Walnut Cake,7333
-782,Desi Butter Chicken,6286
-783,Dhaba Rice,3207
-784,Dhai,6421
-785,Dhal,6614
-786,Dhal Tadukan,6612
-787,Dhokla,3636
-788,Dhokla Sandwich,3637
-789,Dilkush,4240
-790,Dindigul Chicken Biryani,5424
-791,Dindigul Egg Biryani,7335
-792,Diwali Special Non Veg Meals,9946
-793,Domino's Achari Do Pyaza Pizza,10112 - 10090
-794,Domino's Al Fungi Gourmet Pizza,10449
-795,Domino's Blazing Chicken Paprika Pizza,10429
-796,Domino's Blazing Onion and Paprika Pizza,10113
-797,Domino's Champaran Mutton Pizza,10441
-798,Domino's Champaran Veg Pizza,10148 - 10127 - 10106
-799,Domino's Cheese Volcano BBQ Chicken Pizza,10425
-800,Domino's Cheese Volcano Blazing Chicken Pizza,10424
-801,Domino's Cheese Volcano Chicken Delight Pizza,10422
-802,Domino's Cheese Volcano Double Chicken Pizza,10423
-803,Domino's Cheese Volcano Farm House Pizza,10442
-804,Domino's Cheese Volcano Peppy Paneer Pizza,10443
-805,Domino's Cheese Volcano Veggie Paradise Pizza,10444
-806,Domino's Cheese and Corn Pizza,10138 - 10117 - 10096
-807,Domino's Chicken Dominator Pizza,10434
-808,Domino's Chicken Fiesta Pizza,10431
-809,Domino's Chicken Golden Delight Pizza,10432
-810,Domino's Chicken Keema Paratha Pizza,10428
-811,Domino's Chicken Pepperoni Gourmet Pizza,10447
-812,Domino's Chicken Pepperoni Pizza,10436
-813,Domino's Chicken Sausage Pizza,10426
-814,Domino's Corn Cheese Volcano Pizza,10445
-815,Domino's Corn and Cheese Paratha Pizza,10091
-816,Domino's Double Cheese Margherita Pizza,10115 - 10094
-817,Domino's Farmhouse Pizza,10140 - 10098
-818,Domino's Fiery Jalapeno and Paprika Pizza,10114
-819,Domino's Fiery Sausage Paprika Pizza,10430
-820,Domino's Indi Chicken Tikka Pizza,10437
-821,Domino's Indi Tandoori Paneer Pizza,10144 - 10123 - 10102
-822,Domino's Kosha Mangsho Pizza,10439
-823,Domino's Kosha Veg Pizza,10146 - 10125 - 10104
-824,Domino's Malai Chingri Pizza,10440
-825,Domino's Mexican Green Wave Pizza,10120
-826,Domino's Non Veg Supreme Pizza,10435
-827,Domino's Paneer Malai Pizza,10126
-828,Domino's Paneer Spice Supreme Pizza,10152 - 10131 - 10110
-829,Domino's Pepper Barbeque Chicken Pizza,10427
-830,Domino's Peppy Paneer Pizza,10139
-831,Domino's Primavera Gourmet Pizza,10448
-832,Domino's Smoked Chicken Gourmet Pizza,10446
-833,Domino's Spiced Double Chicken Pizza,10433
-834,Domino's The 4 Cheese Gourmet Pizza,10450
-835,Domino's The 4 Cheese Pizza,10124
-836,Domino's The 5 Feast Chicken Pizza,10438
-837,Domino's Veg Extravaganza Pizza,10143 - 10122 - 10101
-838,Domino's Veggie Buddies Pizza,10149 - 10128 - 10107
-839,Domino's Veggie Fiesta Pizza,10109
-840,Domino's Veggie Paradise Pizza,10142 - 10121 - 10100
-841,Donne Egg Biryani,7336
-842,Donne Mushroom Biryani,5089
-843,Donne Veg Biryani,7337
-844,Donut,43 - 10218
-845,Donuts,10201
-846,Dosa,3653 - 7339 - 7340 - 7338 - 7341 - 4744
-847,Double Chicken Treat Semizza,5879
-848,Double Chocolate Doughnut,4862
-849,Double Chocolate Waffle,7055
-850,Double Egg,4755
-851,Double Ka Meetha,7342
-852,Doughnut,4309
-853,Dragon Chicken,4650 - 934
-854,Dragon Chicken Biryani,8530
-855,Dragon Gobi,4629
-856,Dragon Milkshake,3272
-857,Dragon Paneer,5297
-858,Dragon Potato,6445 - 932
-859,Dragon Style,922 - 7374
-860,Dry Fruit Bhel Puri,7540
-861,Dry Fruit Kulfi,4999
-862,Dry Fruit Lassi,6844
-863,Dry Fruit Sundae,6868
-864,Dry Fruits Pulao,3223
-865,Dryfruit Milkshake,6854
-866,Dudhi Halva,3364
-867,Dugga Dugga,9820
-868,Dulce De Leche,6038
-869,Dum Aloo Curry,5426
-870,Dum Biriyani,6137
-871,Dum Biriyani - Chicken,6131
-872,Egg,758 - 10417 - 5380 - 5403 - 5408 - 7343 - 6089 - 5445 - 9791 - 5454 - 9773 - 5499 - 5504 - 7068 - 5532 - 5537 - 9778 - 6080 - 5584 - 5589 - 9777 - 9771
-873,Egg Appam,6369
-874,Egg Bajji,6110
-875,Egg Bhurji,5939 - 4352 - 6208 - 4192 - 5947
-876,Egg Biryani,6521 - 6324 - 692 - 3234 - 6094 - 6638
-877,Egg Bonda,6735 - 3634
-878,Egg Burger,6877
-879,Egg Cheese Sandwich,4681
-880,Egg Chicken,7074
-881,Egg Chilli,5427
-882,Egg Chilli Cheese Sandwich,4775
-883,Egg Chilli Garlic Noodles,5428
-884,Egg Chop,10658
-885,Egg Club Cheese Sandwich,4777
-886,Egg Club Sandwich,4776
-887,Egg Corn Sandwich,4774
-888,Egg Croissant,3707
-889,Egg Curry,760 - 6504 - 826 - 4351 - 6395 - 6377 - 6378 - 4694 - 4365 - 6717 - 6649 - 4363 - 4364 - 6192
-890,Egg Dinner,10537
-891,Egg Dosa,4608 - 730
-892,Egg Fatheera,6548
-893,Egg Fried Rice,6405 - 3496 - 6406
-894,Egg Hakka Noodles,5430
-895,Egg Hot Dog,3661
-896,Egg Kothu Parotta,5980
-897,Egg Kotthu Parotta,6514
-898,Egg Kuska Biryani,7344
-899,Egg Lollipop,8066
-900,Egg Maggi,3358
-901,Egg Masala,4444 - 818 - 4651 - 4652 - 6646 - 6188 - 6190
-902,Egg Masala Dosa,3720 - 734
-903,Egg Masala Sandwich,5431
-904,Egg Mayo Sandwich,4773
-905,Egg Mushroom Roll,9113
-906,Egg Noodles,6405 - 3493 - 6406
-907,Egg Oriental Salad,3550
-908,Egg Pakora,6734
-909,Egg Paneer,9114
-910,Egg Paniyaram,6741
-911,Egg Paratha,9828 - 9829
-912,Egg Podi Dosa,4748
-913,Egg Puff,3710 - 950
-914,Egg Rice Bowl,6660
-915,Egg Roast,4614
-916,Egg Roll,6978 - 4764 - 6977
-917,Egg Salad,3549
-918,Egg Sandwich,3595 - 4475 - 4474
-919,Egg Schezwan Fried Rice,5432
-920,Egg Schezwan Noodles,5433
-921,Egg Singapore Noodles,5434
-922,Egg Soup,7077
-923,Egg Thali,5862
-924,Egg Wrap,3665
-925,Egga Masala Cheese Sandwich,5435
-926,Eggless Cardamom Pistachio Cake,9911
-927,Eggless Cupcakes,8198
-928,Ela Ada,4219
-929,Elaichi Chai Tea,6871
-930,Elanchi,4206
-931,Elayada,4469
-932,Elayappam,6540
-933,Ellu Kobbari Sadam,7345
-934,Enna Pathiri,4245
-935,Espresso,9142
-936,Extra Cheese,6892
-937,Extra Rice,7456
-938,Extra Sweet,10400
-939,Fajita Wrap,6027
-940,Falafel,6998
-941,Falafel Roll,6994
-942,Falafel Vada,6997
-943,Falooda,6846
-944,Falooda Delight,6830
-945,Fiery Hot Peri Peri Maggi,5856
-946,Fig Milkshake,7564
-947,Filter Coffee,5436
-948,Fish,5381 - 5404 - 7374 - 5500 - 5533 - 5585 - 5590
-949,Fish Biriyani,5881
-950,Fish Biryani,4350
-951,Fish Curry,8035 - 3437 - 786
-952,Fish Dinner,10538
-953,Fish Finger,4139
-954,Fish Fried Kebab,3648
-955,Fish Fry,6768 - 3435
-956,Fish Fry Meals,6696
-957,Fish Manchurian,7375
-958,Fish Meals,6698
-959,Fish Mulaku Curry,4642
-960,Fish Omelette,4386
-961,Fish Podimas,8073
-962,Fish Polichathu,6955
-963,Fish Poth Chori,6281
-964,Fish Pulusu,5734
-965,Fish Tandoori,3436
-966,Fish Tandoori Kebab,3644
-967,Fish Tawa Kebab,3641
-968,Fish Thali,7124
-969,Fish and Chips,9074
-970,Flavoured Croissant,4905
-971,Flavoured Lassi,8065
-972,Flavoured Rice,5967 - 5966
-973,Focaccia Bread,3731
-974,Formaggio Pasta,4597
-975,French Fries,5885 - 3668 - 6051 - 5884
-976,French Toast,8212
-977,French Vanilla Soft clair,9996
-978,Fresh Lime Soda,6934
-979,Fried Cheese Momo,6086
-980,Fried Chicken Biriyani,6132
-981,Fried Chicken Biryani,6107 - 6108
-982,Fried Chicken Momo,5441
-983,Fried Chicken Rice,6404
-984,Fried Egg,6918 - 5442 - 3434
-985,Fried Egg Pasta,6948
-986,Fried Idli,8580
-987,Fried Paneer Momo,5443
-988,Fried Pav Bhaji,7536
-989,Fried Rice,6400 - 925
-990,Fried Veg Momo,5444
-991,Fries,5858
-992,Fruit Cake Slice,3409
-993,Fruit Custard,3392
-994,Fruit Custard Falooda,5092
-995,Fruit Lassi,5930
-996,Fruit Salad,7127 - 9777
-997,Fruit Smoothie,6853
-998,Fudgy Choconut,4346
-999,Gajar Halwa,3365
-1000,Galangal Infused Thai Curry,10311
-1001,Garden Fresh Veggie Pizza,5904
-1002,Garden Veg,4346
-1003,Garlic Bread,8836 - 3671 - 10315
-1004,Garlic Butter Dosa,4738
-1005,Garlic Cheese Toast,4198
-1006,Garlic Chicken,824
-1007,Garlic Chicken Wing,6093
-1008,Garlic Fish Curry,819
-1009,Garlic Pinwheel,5964
-1010,Ghee Cookies,5660
-1011,Ghee Dosa,732 - 6163
-1012,Ghee Idli,6624
-1013,Ghee Jeera Pulao,740
-1014,Ghee Karam Dosa,6164 - 6177
-1015,Ghee Laddu,5783
-1016,Ghee Masala Dosa,5909
-1017,Ghee Onion Dosa,4741
-1018,Ghee Onion Podi Dosa,4743
-1019,Ghee Onion Roast Dosa,4609
-1020,Ghee Podi Dosa,4740
-1021,Ghee Rice,3214 - 6534 - 6059 - 6061 - 10313
-1022,Ghee Roast Dosa,4606
-1023,Ghee Set Dosa,6174
-1024,Ghee Vada,4211
-1025,Ghoogni,7049
-1026,Ghugni,4421
-1027,Ginger Coffee,7247
-1028,Ginger Elaichi Chai Tea,6873
-1029,Ginger Rice,6485
-1030,Ginger Soup,7300
-1031,Ginger Chai Tea,4138
-1032,Goan Fish Curry,9043
-1033,Gobhi Paratha,5446
-1034,Gobi 65,5097
-1035,Gobi 65 Biryani,6099 - 5912
-1036,Gobi Bhajji,3626
-1037,Gobi Chili,5882
-1038,Gobi Chilli Dry,5447
-1039,Gobi Corn Dosa,7130
-1040,Gobi Fried Rice,6580
-1041,Gobi Manchurian,4630 - 6423 - 4701
-1042,Gobi Masala,6618
-1043,Gobi Mushroom Masala Dosa,7474
-1044,Gobi Onion Paratha,7131
-1045,Gobi Paratha,7132 - 6605
-1046,Gobi Pepper Dry,7133
-1047,Gobi Pepper Masala Dosa,7473
-1048,Gobi Pulao,5449
-1049,Gobi Pyaz Paratha,6757
-1050,Gobindo Bhug Chaaler Payesh,5785
-1051,Gol Bhajji,3621
-1052,Golden Corn Pizza,7764
-1053,Gongura Chicken,5450
-1054,Gongura Chicken Biryani,5725
-1055,Gongura Mutton Biryani,5731
-1056,Gongura Veg Biryani,6125
-1057,Gothamb Pradhaman,9498
-1058,Grape Juice,10249
-1059,Greek Farm House Salad,9782 - 9791 - 9792
-1060,Greek Salad,9076
-1061,Green Grapes Milkshake,7134
-1062,Green Mirchi Chicken Biryani,5728
-1063,Green Mirchi Mutton Biryani,5733
-1064,Green Moong Dal,820
-1065,Green Moong Usli,4437
-1066,Green Moong Vada,3609
-1067,Green Moongdal Masala Dosa,7135
-1068,Green Peas Masala,6679
-1069,Green Peas Masala Dosa,4747
-1070,Green Peas Paratha,7136
-1071,Green Peas Poha,7137
-1072,Green Tea,3447
-1073,Greens Salad,8963
-1074,Grill Chicken Cheese Sandwich,5451
-1075,Grill Chicken Sandwich,5452
-1076,Grilled Chicken,6284 - 3700
-1077,Grilled Chicken Cheese Sandwich,4691
-1078,Grilled Chicken Salad,8964
-1079,Grilled Chicken Sandwich,4690
-1080,Grilled Fish Salad,9033
-1081,Ground Nut,6203
-1082,Guacamole,7139
-1083,Guava,3529
-1084,Guava Juice,4780
-1085,Guava Milk Shake,7140
-1086,Guava Mojito,7631
-1087,Gud Bud Sundae,6869
-1088,Gud Chai Tea,4568
-1089,Gud Kesar Chai Tea,4553
-1090,Gujiya,10240
-1091,Gulab Jamun,6202 - 3366
-1092,Gulkand Lassi,7141
-1093,Gun Chicken,6766
-1094,Gup Chup Chat,6979
-1095,Gurer Talas,10530
-1096,Habanero Burrito,9974 - 9969
-1097,Hakka Noodles,6495 - 6403 - 6398 - 930 - 929
-1098,Half Fry Egg,5453
-1099,Halwa,8200
-1100,Harayali Chicken Tikka,7142
-1101,Hare Mutter Paneer Ke Kofte,10308
-1102,Haryali Kebab,5455
-1103,Hash Brown Short Balls,6996
-1104,Hawaiian Salad,9776 - 9773 - 9787 - 9772
-1105,Hazelnut Coffee,-1
-1106,Hazelnut Milk Shake,3264
-1107,Hazelnut Soft clair,9995
-1108,Healthy Ragi Malt,3327
-1109,Heart Shape Pan Cake,9925
-1110,Heerekai Bajji,7143
-1111,Homemade Chocolates,5829
-1112,Honey,7262 - 3672
-1113,Honey Almond Cake,3403
-1114,Honey Almond Tart,7145
-1115,Honey Cake,3424
-1116,Honey Chilly Cauliflower,6453
-1117,Honey Lemon Chicken,5303
-1118,Hong Kong Chicken Fried Rice,8560
-1119,Horse Mackerel Fry Fish,8757
-1120,Hot And Sour Chicken Soup,6500
-1121,Hot And Sour Soup,6498
-1122,Hot Chocolate,3240
-1123,Hot Chocolate Sundae,6864
-1124,Hot Garlic Sauce,5627
-1125,Hot Horlicks,3241
-1126,Hot Sour Pepper Chicken Soup,5285
-1127,Hot Sour Pepper Veg Soup,5283
-1128,Hyderabadi Chicken Biryani,6136 - 5456
-1129,Hyderabadi Chicken Curry,8563
-1130,Hyderabadi Chicken Dum Biryani,5457
-1131,Hyderabadi Egg Biryani,7147
-1132,Hyderabadi Mutton Biryani,5458
-1133,Hyderabadi Mutton Dum Biryani,5459
-1134,Hyderabadi Paneer Biryani,5460
-1135,Hyderabadi Paneer Dum Biryani,5461
-1136,Hyderabadi Veg Biryani,5462
-1137,Hyderabadi Veg Dum Biryani,5463
-1138,INVALID RESPONSE LLM,1076
-1139,Ice Coffee,9799
-1140,Ice Cream,7001 - 7330 - 7127 - 8569 - 4404 - 4402 - 6952
-1141,Ice Cream Milkshake,8202
-1142,Ice Cream Waffle Cone,4396
-1143,Ice Popsicle,8209
-1144,Iced Tea,6254
-1145,Idiappam,6364
-1146,Idiyappam,6961 - 6705 - 4694 - 6759 - 4695 - 5936 - 1070
-1147,Idli,745 - 744 - 3651 - 1308 - 724 - 723 - 4456 - 4454 - 3330 - 7150 - 3332 - 10319 - 546 - 6561 - 6566 - 6567 - 6551
-1148,Idli Manchurian,7148
-1149,Idli Soup,7149
-1150,Idly,6728
-1151,Idyappam,6565
-1152,Ilish Begun Bori Jhol,6121 - 6117
-1153,Ilish Bhapa,6115 - 6119
-1154,Ilish Paturi,6122 - 6118
-1155,Imarti,9958
-1156,Indian Lentil Soup,7151
-1157,Indian Meal Bowl,4850
-1158,Indonesian Noodles,6399
-1159,Indori Poha,5464
-1160,Irachi Pathiri,4229
-1161,Irish Frappe,6813
-1162,Italian Pasta,6949
-1163,Jack Fruit Fry Biryani,5723
-1164,Jack Fruit Pulao,6196
-1165,Jackfruit Milkshake,7154
-1166,Jaggery Coffee,7155
-1167,Jaggery Chai Tea,4732
-1168,Jal Jeera,3319
-1169,Jalapeno Pizza,5965 - 5961
-1170,Jalebi,4238 - 3384 - 3367
-1171,Jam Bun,4778
-1172,Jam Maska Bun,5465
-1173,Jam Roll,4239
-1174,Jangiri,7565
-1175,Jeera,6202
-1176,Jeera Aloo Dry,5466
-1177,Jeera Masala Soda,6944
-1178,Jeera Rice,3210 - 6536 - 10314
-1179,Jeera Samba Chicken Biryani,10173
-1180,Jeera Soda,6676
-1181,Jhakkas Jamun,463
-1182,Jharkand Khicadi,791
-1183,Jhula Gur,10529
-1184,Jigarthanda,8056
-1185,Jola Akki Dosa,7156
-1186,Joy Nagar Moa,10532
-1187,Juice,4953
-1188,Kacha Cheese Sandwich,6417
-1189,Kacha Sandwich,6416
-1190,Kachauri,6780
-1191,Kachche Gosht Ki Biryani,10172
-1192,Kachori,4137
-1193,Kachori Chaat,3567
-1194,Kadai Chicken,4655
-1195,Kadai Paneer,817
-1196,Kadai Veg,6063
-1197,Kadala,4244 - 4616
-1198,Kadala Curry,7100 - 7339 - 6759 - 6956 - 6758 - 7163
-1199,Kadalacurry,776
-1200,Kadalai Curry,1070
-1201,Kadhai Chicken,5467
-1202,Kadhai Doodh,3243
-1203,Kadhai Paneer,5468
-1204,Kadhi Chawal,7158
-1205,Kahwa Kesari,4569
-1206,Kai Holige,7160
-1207,Kaipola,4227
-1208,Kaju Katli,5469
-1209,Kakka Roast,6056
-1210,Kal Dosa,548 - 4455 - 6562 - 6758 - 4697 - 4554
-1211,Kala Jamun,3368
-1212,Kalakand,3369
-1213,Kali Dosa,4610
-1214,Kanchipuram Idli,10317
-1215,Kanji,4669
-1216,Kappa,4205
-1217,Kappa Biriyani,4611
-1218,Kappa Puzhukku,4224
-1219,Kara Pori,6297
-1220,Kara Sev,6206
-1221,Karamani,5658
-1222,Karampodi Dosa,6150
-1223,Karampodi Masala Dosa,6151
-1224,Karela Bhaji,3627
-1225,Karimeen Fry,6057
-1226,Kathal Biryani,5470
-1227,Kathal Dum Biryani,5471
-1228,Katori Chaat,3568
-1229,Kaya Bajji,6109
-1230,Kazhi,8051 - 8052
-1231,Keema Balls,7161
-1232,Keema Samosa,3633
-1233,Keera Kootu,810
-1234,Keera Rice,4699
-1235,Keera Vada,834
-1236,Keerai Vada,3610 - 6592
-1237,Kerala Chicken Biryani,5472
-1238,Kerala Chicken Dum Biryani,5473
-1239,Kerala Chicken Meal,6963
-1240,Kerala Egg Biryani,7173
-1241,Kerala Fish Biryani,7174
-1242,Kerala Fish Curry,6287
-1243,Kerala Fish Meal,6964
-1244,Kerala Mutton Biryani,5474
-1245,Kerala Mutton Dum Biryani,5475
-1246,Kerala Non Veg Thali,6280
-1247,Kerala Paratha,4641 - 7163 - 6535 - 6538
-1248,Kerala Parotta,6285
-1249,Kerala Veg Meal,6962
-1250,Kerala Veg Thali,6279
-1251,Kesar Badam Lassi,6842
-1252,Kesar Badam Milk,6874
-1253,Kesar Bhog,7015
-1254,Kesar Falooda,6848
-1255,Kesar Peda,3385
-1256,Kesar Pista,4854
-1257,Kesar Pista Kulfi,4998
-1258,Kesar Pista Lassi,5928
-1259,Kesar Pista Phirni,7083
-1260,Kesari Bath,3389
-1261,Kesari Chai Tea,4567
-1262,Khaja,10406
-1263,Khandvi,3638
-1264,Khao Suey With Vegetables,4580
-1265,Khaosuey,4577
-1266,Khara Bath,4619
-1267,Khara Boondhi,10260
-1268,Kheer Bati,5788
-1269,Kheer Kadam,5782
-1270,Khichdi,4621
-1271,Khus Ka Sherbet,3320
-1272,Kilimeen Fry,7556
-1273,Kimchi Fried Rice,4574 - 4576
-1274,Kinnathappam,6835
-1275,Kinoo Juice,3299
-1276,Kirni Juice,1171
-1277,Kit Kat Milkshake,6817
-1278,Kit Kat Peanut Butter Shake,7165
-1279,Kitkat Milkshake,6926
-1280,Kitkat Waffle,6001
-1281,Kiwi Fruit Milkshake,7166
-1282,Kiwi Lassi,4394
-1283,Kiwi Pastry,4879
-1284,Kizhangu,4247
-1285,Kizhi Biriyani,6135 - 6142 - 6141 - 6130
-1286,Kodubale,10253 - 866
-1287,Kokum Sharbat,3321
-1288,Kola Urundai,4136
-1289,Kola Vada,6773
-1290,Koli Saru,9044
-1291,Kolkata Chicken Biryani,5476
-1292,Kolkata Chicken Dum Biryani,5477
-1293,Kolkata Egg Biryani,5091
-1294,Kolkata Mutton Biryani,5478
-1295,Kolkata Mutton Dum Biryani,5479
-1296,Kolukattai,7000
-1297,Kootu,6390
-1298,Koozhu,8062
-1299,Kothu Parotta,7168
-1300,Kotthimera Chicken Dum Biryani,5913
-1301,Kozhi Ada,4226
-1302,Kozhi Kari Soru,6639 - 762
-1303,Kozhi Vadai,6767
-1304,Kozhi Varutha Curry,813
-1305,Kozhukatta,4242
-1306,Kozhukkatta,4218
-1307,Krunchy Choco Custard Doughnut,4876
-1308,Kuboos,7366
-1309,Kulfi,7171
-1310,Kulfi Falooda,6847
-1311,Kulfi Milkshake,6927
-1312,Kung Pao Chicken,6479
-1313,Kungpao Cauliflower,6469
-1314,Kurkure Chatpata Cheese Namkeen,2320 - 2317
-1315,Kurkure Cheese Momo,6088
-1316,Kurkure Veg Momo,6087
-1317,Kurma,749 - 748 - 6608 - 6565 - 6610
-1318,Kuska Biryani,6356
-1319,Kuttu Parotta,4623
-1320,Lachha Paratha,5132
-1321,Lactose Free Milk,4910
-1322,Laddu,4236
-1323,Lassi,3315
-1324,Latte,4086
-1325,Lauer Payesh,5786
-1326,Lazeez Bhuna Chicken Biryani,6989
-1327,Lazeez Chicken Dum Biryani,1573
-1328,Lazy Daisy Cake,6037
-1329,Leaf Plate,8081
-1330,Lebanese Chicken Sandwich,7007
-1331,Lebanese Shawarma,6542
-1332,Lemon,8878 - 10175
-1333,Lemon Chicken,6480
-1334,Lemon Chicken Dry,5480
-1335,Lemon Honey Chai Tea,9793
-1336,Lemon Ice Tea,4449
-1337,Lemon Juice,6722
-1338,Lemon Masala,8880
-1339,Lemon Rice,3203 - 4365 - 10318 - 6571 - 902
-1340,Lemon Semiya,7172
-1341,Lemon Sevai,862
-1342,Lemon Sherbet,7188
-1343,Lemon Soda,7546 - 4406
-1344,Lemon Tea,3446
-1345,Lemony Orange Soda,5885
-1346,Lime,8957
-1347,Lime Dew,5026
-1348,Lobia Pulao,3220
-1349,Lobia Vada,3611
-1350,Lobster Omelette,4388
-1351,Lollipop Chicken,5300
-1352,Lotus Biscoff,9408
-1353,Lotus Cheese Cake,9982
-1354,Luchi,4421 - 5867
-1355,Lucknowi Chicken Biryani,5481
-1356,Lucknowi Chicken Dum Biryani,5482
-1357,Lucknowi Mutton Biryani,5483
-1358,Lucknowi Mutton Dum Biryani,5484
-1359,Lucknowi Paneer Biryani,5485
-1360,Lucknowi Paneer Dum Biryani,5486
-1361,Lucknowi Veg Biryani,5487
-1362,Lucknowi Veg Dum Biryani,5488
-1363,Lychee Juice,6856
-1364,Lychee Lassi,6947
-1365,Lychee Milkshake,6924
-1366,Lychee Soda,6936
-1367,M Dew,92
-1368,Mac Cheese Pasta,4405
-1369,Macaroni Salad,3534
-1370,Mackerel Fish Fry,8750 - 8746
-1371,Maddur Vada,3606
-1372,Madurai Jigarthanda,6295
-1373,Maggi,5666 - 4192 - 83
-1374,Maggi Fries,5855
-1375,Maggi Manchurian,5665
-1376,Maggie,9918 - 9927
-1377,Makka Cholam,6310
-1378,Malabar Cake,4252
-1379,Malabar Chicken Curry,6073
-1380,Malabar Egg Roast,6958
-1381,Malabar Fish Curry,6054
-1382,Malabar Parotta,8883
-1383,Malabar Stew,6957
-1384,Malabar Trevally Fish Fry,8754
-1385,Malai,4856
-1386,Malai Cham Cham,3386
-1387,Malai Chicken,9826
-1388,Malai Kulfi,4996
-1389,Malai Sandwich,3370
-1390,Malaysian Curry Mee Chicken,4578
-1391,Malaysian Curry Mee With Vegetables,4581
-1392,Malpoa,5789
-1393,Malpua,3388
-1394,Manchow Chicken Soup,6501
-1395,Manchurian,923 - 752 - 754 - 750
-1396,Mangalore Bajji,7175
-1397,Mangalore Bonda,7176 - 6984
-1398,Mangalore Bun,7177
-1399,Mango Avocado Milkshake,6928
-1400,Mango Cake,3402
-1401,Mango Chicken Biryani,5914
-1402,Mango Custard Falooda,5093
-1403,Mango Dosa,7178
-1404,Mango Gateaux,9359
-1405,Mango Icecream,6860
-1406,Mango Juice,3300
-1407,Mango Lassi,4390
-1408,Mango Malai,4855
-1409,Mango Malai Kulfi,4997
-1410,Mango Masti Doughnut,4865
-1411,Mango Milkshake,3279
-1412,Mango Mojito,6889
-1413,Mango Mousse,4166
-1414,Mango Pastry,4168
-1415,Mango Pheni,7553
-1416,Mango Rice,3204 - 908
-1417,Mango Rice Bowl,4987
-1418,Mango Rosogolla,5790
-1419,Mango Salad,5108
-1420,Mango Seer Fish Curry,6704
-1421,Mango Smoothie,6818
-1422,Mango Trifle,7346
-1423,Marble Cake,8765
-1424,Marble Fruit Cake,8766
-1425,Margherita,4599
-1426,Margherita Cheese Pizza,4404
-1427,Margherita Pizza,5964 - 4968
-1428,Masala,9579
-1429,Masala Bonda,4207
-1430,Masala Chaat,5872
-1431,Masala Chai Tea,4318
-1432,Masala Cheese Sandwich,7544
-1433,Masala Chicken Tikka Wrap,5877
-1434,Masala Corn,7347
-1435,Masala Dosa,547 - 6145
-1436,Masala Egg Curry,8564
-1437,Masala Fried Fish,6344 - 811
-1438,Masala Gobi Pulao,3230
-1439,Masala Idli,5489
-1440,Masala Jeera Soda,5884
-1441,Masala Kurma Raitha,6609
-1442,Masala Maggie,5664
-1443,Masala Omelet,790
+5,Achar,-1
+6,Achari Chana Pulao,10308
+7,Adai Dosai,7013
+8,Adai Uttapam,4241
+9,Affogato,9037
+10,Afgani Chicken,6745 - 6743
+11,Afghani Chicken Biryani,6283
+12,Afghani Murgh Tikka,10174
+13,Aglio Oglio Pasta,7762
+14,Ajmer Cake,7560
+15,Akki Roti,7087
+16,Al Faham Chicken,6539
+17,Alasande Vada,7089
+18,Alfredo Pasta,7121
+19,Allepy Chicken Curry,4643
+20,Almond,4313
+21,Aloo Bhaji,8887
+22,Aloo Bhature,6906
+23,Aloo Bhindi,6062
+24,Aloo Biryani,6015
+25,Aloo Bonda,4217
+26,Aloo Bun,7090
+27,Aloo Chaat,6235 - 7541
+28,Aloo Chilli,10229
+29,Aloo Chop,10230
+30,Aloo Dum,5867 - 6014
+31,Aloo Gobi,6064
+32,Aloo Gobi Paratha,10412
+33,Aloo Jeera,6065
+34,Aloo Manchurian,10231
+35,Aloo Masala,5937 - 860
+36,Aloo Masala Cheese Sandwich,5327
+37,Aloo Masala Sandwich,5328
+38,Aloo Mattar,9041
+39,Aloo Methi Paratha,10307
+40,Aloo Mutter Curry,5329
+41,Aloo Mutter Kulcha,7092
+42,Aloo Mutter Masala,6066
+43,Aloo Palak,6068
+44,Aloo Paratha,4570 - 6604
+45,Aloo Patty Salad,3535
+46,Aloo Puri,7538
+47,Aloo Pyaz Paratha,6752
+48,Aloo Sabzi,7091
+49,Aloo Samosa,4322
+50,Aloo Sandwich,4761
+51,Aloo Tamatar,9042
+52,Aloo Tikki Chaat,4418
+53,Aloo Tikki Ragda Chaat,3561
+54,Aloo Tikki Sandwich,7094
+55,Ambuli Juice,8063
+56,Ambur Chicken Biryani,4451
+57,Ambur Egg Biryani,7095
+58,Ambur Mutton Biryani,5331
+59,Ambur Veg Biryani,4450
+60,American Chocomax,5965
+61,Americano,4088
+62,Amriti,5787
+63,Amritsar Chicken,7096
+64,Amritsari Fish Fry,9243
+65,Anchovy Fish Fry,8753
+66,Andhra Chilli Chicken,5332
+67,Andhra Kara Dosa,6553 - 4745
+68,Andhra Special Chicken Biryani,7549
+69,Andhra Special Veg Biryani,7550
+70,Andhra Veg Biryani,5722
+71,Anjeer Milk Shake,3275
+72,Anjeer Peda,10232
+73,Appalam,6391
+74,Appam,6959 - 6368 - 7099 - 7100 - 7101 - 4615 - 4444 - 4614 - 8035 - 4613
+75,Appe,9918 - 9927
+76,Appe Lollypop,9916 - 9923
+77,Appe Pizza,9921 - 9930
+78,Appe Platter,9931
+79,Apple,6751
+80,Apple Cinnamon Tart,10234
+81,Apple Fruit Shake,3261
+82,Apple Juice,3302
+83,Apple Milk Shake,8872
+84,Apple Muffin,10236
+85,Apple Pie,3727
+86,Arabian Roll,6302
+87,Arabic Kabooli Rice,6539
+88,Arabic Kabuli,6284
+89,Arisi Paruppu Sadam,6343
+90,Assorted Bajji,4354
+91,Assorted Veg Paneer Sandwich,7006
+92,Atho Chicken,7065
+93,Atho Egg,7064
+94,Atho Egg Chicken,7066
+95,Avakaya Chicken Biryani,5727
+96,Avakaya Mutton Biryani,5732
+97,Avalaki Bhath,7105
+98,Avalakki Bath,7436
+99,Avial,6630
+100,Avocado Milkshake,7104
+101,Awadhi Chicken Biryani,5090
+102,Awadhi Veg Biryani,7106
+103,Azadi Non Veg,9332
+104,BBQ Chicken,5888
+105,BBQ Chicken Burger,6544
+106,BBQ Chicken Salad,3559
+107,BBQ Paneer,5887
+108,Baby Corn,8557
+109,Baby Corn 65 Biryani,5911
+110,Baby Corn Chilli,6053
+111,Baby Corn Fried Rice,6579
+112,Baby Corn Manchurian,7107
+113,Baby Corn Masala Dosa,6628
+114,Baby Corn Mushroom Masala Dosa,7475
+115,Baby Corn Pakoda,10237
+116,Baby Corn Paneer Biryani,10419
+117,Baby Corn Pepper Masala,7108
+118,Baby Corn Salad,5104
+119,Baby Corn Tikka,10238
+120,Babycorn Cheese Sandwich,5333
+121,Babycorn Dosa,4735
+122,Babycorn Manchurian,6444
+123,Babycorn Mushroom Biryani,5008
+124,Badam Milk,3238
+125,Badam Peda,10239
+126,Badam Pheni,7552
+127,Badam Shake,3276
+128,Badam Chai Tea,8874
+129,Baigan Bharta,8203
+130,Baigan Bharwa,8204
+131,Baked Cheese Cake,10002
+132,Baked Chicken Au Gratin,3697
+133,Baked Chicken Eggplant Moussaka,3682
+134,Baked Eggplant Moussaka,3681
+135,Balushahi,10401
+136,Banana,3530 - 6748
+137,Banana Bajji,6915 - 6591
+138,Banana Bonda,8763
+139,Banana Cake Slice,3408
+140,Banana Caramel Cake,3411
+141,Banana Cashew Cake,3412
+142,Banana Chocolate Cake,3413
+143,Banana Chocolate Cake Shake,7110
+144,Banana Fry,4201
+145,Banana Honey Milk Shake,2611
+146,Banana Lassi,4393
+147,Banana Milkshake,3252
+148,Banana Pancakes,3414
+149,Banana Rasayana,10241
+150,Banga Chicken,7073
+151,Banga Egg,7072
+152,Barfi,5336
+153,Barracuda Fish Fry,8755
+154,Basbousa,6036
+155,Basil Pesto Pasta,7120
+156,Basmati Rice,741
+157,Basundi,10405
+158,Batani Curry,7340
+159,Bbq Chicken,7111
+160,Bbq Fries,5859
+161,Bbq Paneer,7112
+162,Bbq Pizza,6790
+163,Bedmi Poori,5868
+164,Beef Biryani,7519
+165,Beef Curry,6291 - 6534 - 6535 - 6285
+166,Beef Fry,7621
+167,Beef Roll,7628
+168,Beetroot,10249 - 6751
+169,Beetroot Aloo Paratha,7113
+170,Beetroot Dosa,7114
+171,Beetroot Juice,3292
+172,Beetroot Lassi,10243
+173,Bejo Soup,7076
+174,Belgian Doughnut,4874
+175,Belgium Chocolate Truffle,9357
+176,Belgium Pastry,3729
+177,Bell Pepper Pizza,7763
+178,Berliner,10217
+179,Berry Cake,9993
+180,Besan Barfi,3391
+181,Besan Chilla,9038
+182,Besan Laddu,3361
+183,Besan Ladoo,9955
+184,Bhagara Rice,3193
+185,Bhaji Pav,5337
+186,Bhalla Papri Chat,6981
+187,Bhatura,5945 - 6727
+188,Bhature,3353
+189,Bhel,3573
+190,Bhel Puri,3574
+191,Bhindi,8206
+192,Bircher Muesli,10244
+193,Birdy's Chicken Jungli Sandwich,8834
+194,Biriyani Zone Special Chicken Curry,5893
+195,Biryani,4433
+196,Biscoff Cheese Pastry,10203
+197,Bisi Bele Bath,4425 - 3231
+198,Black Chana Chaat,3584
+199,Black Channa,7116
+200,Black Channa Sundal,7117
+201,Black Channa Vada,7118
+202,Black Coffee,3443
+203,Black Currant Kulfi,6850
+204,Black Currant Lassi,6946
+205,Black Currant Milkshake,3270
+206,Black Forest Cake,4082
+207,Black Forest Pastry,3394
+208,Black Mojito,4903
+209,Black Olive Salad,5005
+210,Black Tea,3445
+211,Blackcurrant Lassi,6839
+212,Blackcurrant Milkshake,10245
+213,Blackcurrant Mojito,6827
+214,Blackcurrant Smoothie,6821
+215,Blueberry Cheese Cake,9088
+216,Blueberry Doughnut,5338
+217,Blueberry Ice Tea,6885
+218,Blueberry Milkshake,10246
+219,Blueberry Mojito,6826
+220,Blueberry Pastry,4167
+221,Blueberry Smoothie,6820
+222,Blueberry Waffle,7054
+223,Boiled Banana,9352
+224,Boiled Cassava,6308
+225,Boiled Egg,3429 - 777 - 6357 - 8963 - 6354 - 4756
+226,Boiled Peanut,4355
+227,Boiled Peanut Sundal,6312
+228,Boli,6299
+229,Bombay Chicken Biryani,6236
+230,Bombay Mixture,7283
+231,Bombay Samosa,4231
+232,Bombay Veg Biryani,6237
+233,Bonda,3716
+234,Bonda Chaat,3588
+235,Bonda Soup,3513
+236,Boodni Ladoo,9954
+237,Boondi Phirni,4914
+238,Borishali Chicken Thali,7497
+239,Boti Masala,7285
+240,Bottle Gourd Bajji,10247
+241,Bottle Gourd Kheer,7250
+242,Bread,5874 - 5944 - 5352 - 5947 - 5442 - 5445 - 5454 - 5490 - 3432 - 3433
+243,Bread Bajji,828 - 6585
+244,Bread Better Jam,5339
+245,Bread Better Jam Toast,5341
+246,Bread Butter,5340
+247,Bread Butter Toast,5342
+248,Bread Channa,7542
+249,Bread Chat,7288
+250,Bread Fry,4213
+251,Bread Jam,5343
+252,Bread Masala Dosa,7471
+253,Bread Omelette,6730
+254,Bread Pakoda,3625
+255,Bread Pakora,993
+256,Bread Pudding,10404
+257,Bread Roll,3441
+258,Bread Upma,7286
+259,Brinjal Bajji,6588
+260,Brioche,10221
+261,Broccoli Soup,7290
+262,Broken Wheat Poha,7291
+263,Brown Garlic Tomato Rice,3209
+264,Brown Onion Pulao,3215
+265,Brownie,3407
+266,Brownie Fantasy,5963
+267,Brownie Shake,3281
+268,Brownie Sundae,6865
+269,Bubble Gum Mojito,7548
+270,Bubble Tea,7292
+271,Bubblegum Velvet Waffles,5996
+272,Bulls Eye,4617
+273,Bun Butter Gulkand,6883
+274,Bun Butter Jam,5851
+275,Bun Masala,7293
+276,Bun Maska,4430
+277,Bun Omelette,8215
+278,Burger,6900
+279,Buritto Veg,4586
+280,Burnt Garlic Fried Rice,4573
+281,Burnt Garlic Rice,6484
+282,Butter,3191
+283,Butter Appe,9931
+284,Butter Chicken,6536
+285,Butter Chicken Biryani,6776 - 6775
+286,Butter Chicken Masala,4649 - 6718
+287,Butter Croissant,3703
+288,Butter Dosa,6165
+289,Butter Kulcha,5891
+290,Butter Masala Dosa,6180
+291,Butter Milk,10526
+292,Butter Naan,5345 - 6601 - 6716 - 6718
+293,Butter Non,6510
+294,Butter Paneer,6085
+295,Butter Paneer Appe,9920 - 9929
+296,Butter Plain Dosa,6181
+297,Butter Roast Dosa,4737
+298,Butter Roti,5890 - 6603
+299,Butter Scotch Chocolate Waffle,7052
+300,Butter Scotch Milkshake,3255
+301,Butter Scotch Pastry,3396
+302,Butter Tandoori Paratha,6507
+303,Butter Tandoori Roti,5346
+304,Buttermilk,3314
+305,Butterscotch Ice Cream,6861
+306,Butterscotch Lassi,6841
+307,Butterscotch Muffin,5347
+308,Butterscotch Smoothie,8875
+309,Butterscotch Waffles,5991
+310,Cabbage,3628 - 7294
+311,Cabbage Bhajji,3630
+312,Cafe Frappe,6993
+313,Cake,4880
+314,Cake Crumble Pie,3420
+315,Cake Fudge,58
+316,Calicut Chicken Curry,4646
+317,Calicut Chicken Roast,6072
+318,Candy Chicken,6305
+319,Cane Juice,8881
+320,Cannelloni,7230
+321,Capsicum Bajji,7296
+322,Capsicum Bhaji,6983
+323,Capsicum Cheese Sandwich,5348
+324,Capsicum Masala Dosa,6556
+325,Capsicum Pulao,7297
+326,Capsicum Rice,3202
+327,Capsicum Rice Bath,7491
+328,Caramel Brownie,5349
+329,Caramel Sauce,9406
+330,Carrot,7300 - 3292 - 6751
+331,Carrot Cake,3422
+332,Carrot Cherry Cake,7301
+333,Carrot Corn Pulao,7298
+334,Carrot Dosa,5932
+335,Carrot Halwa,7439
+336,Carrot Idli,7299
+337,Carrot Juice,3283
+338,Carrot Paratha,7302
+339,Carrot Rice,907 - 7303 - 6572
+340,Carrot Soup,7304
+341,Carrot Utthappam,6171
+342,Cashew Paneer Curry,8565
+343,Cauliflower Masala Dosa,7470
+344,Cereals,3656
+345,Chaat,3562
+346,Chai,4566
+347,Chakuli,9579
+348,Cham-Cham,9959
+349,Chana Aloo Tikki,3572
+350,Chana Chaat,3585
+351,Chana Masala,7537
+352,Chanar Jelabi,5779
+353,Chanar Kalia Thali,7496
+354,Chandrakala,4420
+355,Channa,4782 - 5945
+356,Channa Masala,6604 - 809 - 6605 - 6606 - 6607
+357,Channa Masala Dosa,6555
+358,Chapati,4214 - 760 - 6504 - 6286 - 6290
+359,Char Grilled Lemon Chicken,3695
+360,Chatpata Aloo Paratha,10309
+361,Chatti Pathiri,4228
+362,Cheela,5350
+363,Cheese,3188 - 1017
+364,Cheese Aloo Tikki,7093
+365,Cheese Bread Omelette,4380
+366,Cheese Chicken Meatball,5903
+367,Cheese Chicken Momos,6899
+368,Cheese Corn Nuggets,4404
+369,Cheese Croissant,3704
+370,Cheese Dosa,6153
+371,Cheese Maggi,5351
+372,Cheese Masala Dosa,6154
+373,Cheese Masala Omelette,6917
+374,Cheese Omelette,4384 - 5352
+375,Cheese Onion Dosa,6146
+376,Cheese Onion Paratha,10413
+377,Cheese Paradilla,4584
+378,Cheese Paratha,5353
+379,Cheese Pasta,6951
+380,Cheese Sandwich,5396
+381,Cheese Sauce,3678 - 3674
+382,Cheesy Fries,5860
+383,Cheesy Paneer Tikka Wrap,5902
+384,Chena Angoor,3362
+385,Chena Payesh,3382
+386,Chena Roll,3383
+387,Chenna Masala,5938
+388,Chennai Style Biryani,6777
+389,Chettinad Chicken Dry,5354
+390,Chettinad Chilly Chicken,6769
+391,Chettinad Pepper Chicken Meals,6702
+392,Chettinadu Masala Dosa,737
+393,Chia Oats Pudding,10262
+394,Chicken,4577 - 6521 - 6978 - 6770 - 4584 - 5379 - 5402 - 922 - 4438 - 9782 - 930 - 9776 - 5498 - 5503 - 6319 - 5531 - 9780 - 6489 - 5588 - 9781 - 9774 - 928 - 4579
+395,Chicken 555,8543
+396,Chicken 555 Biryani,8528
+397,Chicken 65,4639 - 814 - 6424 - 6636 - 7524 - 6638 - 6637
+398,Chicken 65 Biryani,4708
+399,Chicken 65 Kebab,5355
+400,Chicken Bhajji,3635
+401,Chicken Bharta,6383
+402,Chicken Biryani,3233 - 5094 - 4632 - 4633 - 6354 - 6355 - 6095 - 742 - 6636
+403,Chicken Bonda,8074
+404,Chicken Bun,6999
+405,Chicken Burger,3598 - 4399 - 5885
+406,Chicken Burnt Garlic Fried Rice,5309
+407,Chicken Calzone,9960
+408,Chicken Chaap,6385
+409,Chicken Chap,6082
+410,Chicken Cheese Balls,6739
+411,Chicken Chettinad,5356 - 808 - 4415
+412,Chicken Chettinad Biryani,6300
+413,Chicken Chilli Dog,4589
+414,Chicken Chilli Garlic Noodles,5357
+415,Chicken Chilly,9823
+416,Chicken Chopsuey,6912
+417,Chicken Club Sandwich,6747
+418,Chicken Coconut Fry,4626
+419,Chicken Crispy,9827
+420,Chicken Croissant,3708
+421,Chicken Curry,7099 - 6503 - 5360 - 6394 - 6374 - 6373 - 7338 - 6059 - 6061 - 6705 - 6728 - 8051 - 6538 - 8044 - 8046 - 8045 - 8047 - 8039 - 8041 - 6715 - 6647 - 8040 - 8042 - 8034 - 6714 - 8038 - 789 - 4678 - 6193
+422,Chicken Cutlet,6541
+423,Chicken Dinner,10536
+424,Chicken Do Piyaza,6384
+425,Chicken Do Pyaza,6070
+426,Chicken Donne Biryani,7305
+427,Chicken Dosa,6147
+428,Chicken Drumsticks,6304
+429,Chicken Drumsticks Biryani,8531
+430,Chicken Dum Biryani,5361 - 10420
+431,Chicken Frankie,9822
+432,Chicken Fried Idli,8043 - 8048
+433,Chicken Fried Kebab,3647
+434,Chicken Fried Momo,5294
+435,Chicken Fried Rice,6431 - 3497
+436,Chicken Fry,4625
+437,Chicken Fry Biryani,5724 - 5737 - 10421
+438,Chicken Garlic Finger,4143
+439,Chicken Gravy,4697 - 4623 - 4696
+440,Chicken Grill,7368 - 7367
+441,Chicken Hakka Noodle,4560
+442,Chicken Hakka Noodles,5362
+443,Chicken Harabhara,9825
+444,Chicken Hot Dog,3662
+445,Chicken Hot Sour Soup,3522
+446,Chicken In Bell Pepper Sauce,3687
+447,Chicken In Chilli Basil Sauce,5363
+448,Chicken In Chilli Oyster Sauce,5364
+449,Chicken In Hot Garlic Sauce,5365
+450,Chicken In Schezwan Sauce,5367
+451,Chicken Kathi Roll,6301
+452,Chicken Kebab Biryani,7284
+453,Chicken Keema Dosa,7306
+454,Chicken Keema Paratha,5946
+455,Chicken Keema Pav,7307
+456,Chicken Keema Puff,8820
+457,Chicken Keema Samosa,6306
+458,Chicken Kefte Tagine,3693
+459,Chicken Kheema,7308
+460,Chicken Kheema Pav,7014
+461,Chicken Kofta Salad,3554
+462,Chicken Kolapuri,7521
+463,Chicken Kolhapuri,6071
+464,Chicken Koliwada,9824
+465,Chicken Korma,825 - 6074
+466,Chicken Kosha,5766
+467,Chicken Kothu Parotta,4471
+468,Chicken Kotthu Parotta,6517
+469,Chicken Kurma,6364
+470,Chicken Kuska,7309
+471,Chicken Kuska Biryani,7310
+472,Chicken Lasagne,3702
+473,Chicken Lemon Coriander Soup,3516
+474,Chicken Liver Fry,6764
+475,Chicken Lolipop,6641
+476,Chicken Lollipop,6460
+477,Chicken Lollipop Biryani,8525
+478,Chicken Maggi,3357
+479,Chicken Majestic,8544
+480,Chicken Majestic Biryani,8529
+481,Chicken Malai Tikka,7311
+482,Chicken Manchow Fried Rice,5312
+483,Chicken Manchow Soup,3521
+484,Chicken Manchurian,4648 - 6456 - 6476 - 924
+485,Chicken Manchurian Biryani,5010
+486,Chicken Manchurian Dry,5372
+487,Chicken Masala,6643
+488,Chicken Masala Dosa,3721
+489,Chicken Mirchi Bajji,8076
+490,Chicken Momo,3503 - 5292 - 5291
+491,Chicken Mughali Curry,8561
+492,Chicken Mugulai,7522
+493,Chicken Mulligatawny Soup,3515
+494,Chicken Nanking Noodles,936
+495,Chicken Navabi,7520
+496,Chicken Noodles,3494
+497,Chicken Nuggets,4399 - 4142
+498,Chicken Omelette,4385
+499,Chicken Oriental Salad,3555
+500,Chicken Pakoda,8542 - 6361
+501,Chicken Pakoda Biryani,8527
+502,Chicken Palli Palayam,4647
+503,Chicken Paniyaram,6737
+504,Chicken Paratha,6756 - 4328
+505,Chicken Paratha Roll,4478
+506,Chicken Pasta,7210 - 3678 - 3679
+507,Chicken Pasta With Pink Sauce,3680
+508,Chicken Pasta With White Sauce,3677
+509,Chicken Pathiri,4225
+510,Chicken Patti Samosa,3631
+511,Chicken Pepper Dry,5883
+512,Chicken Pepper Fry,6642
+513,Chicken Pepper Gravy,6362
+514,Chicken Pepper Masala,7523
+515,Chicken Piccata,3683
+516,Chicken Pizza,6247
+517,Chicken Podimas,8070
+518,Chicken Popcorn,4141 - 6051
+519,Chicken Puff,3711 - 951
+520,Chicken Puffs,7525
+521,Chicken Pulao,5373
+522,Chicken Quesadilla,5771
+523,Chicken Rezzala,6382
+524,Chicken Rice Bowl,6658
+525,Chicken Roast,6987
+526,Chicken Roll,4235
+527,Chicken Salad,3551
+528,Chicken Salad Sandwich,4428
+529,Chicken Salt And Pepper,6655
+530,Chicken Samosa,3632 - 6742
+531,Chicken Sandwich,3594 - 4477 - 4476
+532,Chicken Satay,4576 - 4575
+533,Chicken Schezwan Fried Rice,5310 - 6430
+534,Chicken Schezwan Noodles,5311 - 937 - 6426
+535,Chicken Seekh Kabab,7674
+536,Chicken Shashlik,3691
+537,Chicken Shawarma,5775
+538,Chicken Shawarma Plate,7364
+539,Chicken Singapore Noodles,5374
+540,Chicken Starter,6405
+541,Chicken Stew,4615 - 822 - 5943 - 6369
+542,Chicken Strips,7314
+543,Chicken Submarine,6783
+544,Chicken Tandoori,6508
+545,Chicken Tandoori Kebab,3639
+546,Chicken Tangdi Biryani,5011
+547,Chicken Tawa Kebab,3640
+548,Chicken Teriyaki Salad,3556
+549,Chicken Tikka,3714
+550,Chicken Tikka Biryani,6134
+551,Chicken Tikka Chaap,6386
+552,Chicken Tikka Cheese Sandwich,4692
+553,Chicken Tikka Croissant,8821
+554,Chicken Tikka Grilled Roll,6975
+555,Chicken Tikka Masala,8562
+556,Chicken Tikka Mini Roll,8835
+557,Chicken Tikka Pizza,4601
+558,Chicken Tikka Salad,9032
+559,Chicken Tikka Sandwich,4330
+560,Chicken Tikka Semizza,5905
+561,Chicken Vada,8077
+562,Chicken Varattiyathu,4645
+563,Chicken Wings,6772
+564,Chicken Wrap,3666
+565,Chicken Yakhni Biryani,7315
+566,Chicken in Hunan Sauce,5366
+567,Chikku Juice,3305
+568,Chikoo Fruit Shake,3262
+569,Chikoo Milk Shake,8882
+570,Chili Chipotle Chicken,5900
+571,Chilli,4198
+572,Chilli Bhajji,3623
+573,Chilli Cheese Maggi,5376
+574,Chilli Cheese Sandwich,4762 - 9799
+575,Chilli Cheese Toast,4196
+576,Chilli Chicken,4624 - 812 - 933 - 6425
+577,Chilli Chicken Biryani,8526
+578,Chilli Chipotle Chicken,7316
+579,Chilli Coriander Uthappam,6167
+580,Chilli Corn Cheese Sandwich,4771
+581,Chilli Garlic Egg Fried Rice,7233
+582,Chilli Garlic Potato Bites,7214
+583,Chilli Garlic Veg Fried Rice,7235
+584,Chilli Gobi,4628
+585,Chilli Idli,4324
+586,Chilli Paneer,9010 - 8546
+587,Chilli Paratha,5377
+588,Chilli Prawns,8545
+589,Chilly Babycorn,6475
+590,Chilly Bajji,6586
+591,Chilly Chicken,6457 - 6477
+592,Chilly Egg,6463
+593,Chilly Garlic Chicken Rice,6487
+594,Chilly Garlic Noodles,6492 - 6494
+595,Chilly Garlic Rice,6486
+596,Chilly Idly,6626
+597,Chilly Mushroom,6474
+598,Chilly Paneer,6451
+599,Chinese Non-Veg Chop Suey,7317
+600,Chinese Non-Veg Meal,5379 - 5380 - 5381 - 5382
+601,Chitrana Rice,7319
+602,Choco Carnival Sundaes,4408
+603,Choco Chip Brownie,7001
+604,Choco Chip Fudgy Brownie,7002
+605,Choco Flakes,6781
+606,Choco Hazelnut Doughnut,4875
+607,Choco Lava Cake,3416
+608,Choco Truffle Cake,3399
+609,Chocochip Brownie,5391
+610,Chocochip Cake,3415
+611,Chocoholic Waffles,5992
+612,Chocolate,8765 - 9988
+613,Chocolate Almond Doughnut,4861
+614,Chocolate Ball,3405
+615,Chocolate Bao,7759
+616,Chocolate Barfi,9957
+617,Chocolate Brownie,4331
+618,Chocolate Bun Maska,5852
+619,Chocolate Cake,5392 - 883
+620,Chocolate Chip,9796
+621,Chocolate Chips,9405
+622,Chocolate Cream Cake,4079
+623,Chocolate Croissant,3705
+624,Chocolate Cupcake,3417
+625,Chocolate Danish,10223
+626,Chocolate Doughnut,8842 - 3404
+627,Chocolate Dream Cake Doughnut,4869
+628,Chocolate Frappe,6814
+629,Chocolate Gateaux,5828
+630,Chocolate Iced Glazed Doughnut,4867
+631,Chocolate Iced Glazed Sprinkle Doughnut,4868
+632,Chocolate Kit Kat Shake,9794
+633,Chocolate Kulfi,6851
+634,Chocolate Lassi,6840
+635,Chocolate Milkshake,3256
+636,Chocolate Momo,6893
+637,Chocolate Mousse,4453
+638,Chocolate Muffin,3725
+639,Chocolate Pastry,3397 - 10200
+640,Chocolate Pheni,7551
+641,Chocolate Pudding,8764
+642,Chocolate Sandwich,5861
+643,Chocolate Sauce,9409 - 8189
+644,Chocolate Shake,9798
+645,Chocolate Smoothie,8873
+646,Chocolate Soft clair,9997
+647,Chocolate Softy,8188
+648,Chocolate Thickshake,6855
+649,Chocolate Walnut Brownie,5393
+650,Chocolava,10202
+651,Chole,6727 - 6733 - 3562 - 3353 - 3213
+652,Chole Bhature,-1
+653,Chole Biryani,10398
+654,Chole Masala,861 - 6060
+655,Chole Paneer,10321
+656,Chow Chow Bath,4620
+657,Chum Chum,3363
+658,Churro Doughnut,4870
+659,Chutney,3655 - 5396 - 10319 - 6551 - 10318 - 6106
+660,Cinnamon Doughnut,5397
+661,Cinnamon Roll,9990
+662,Classic Doner Kebab,6525
+663,Classic Doner Kebab Chicken,6546
+664,Classic Donuts,5846
+665,Classic Falooda,6829
+666,Classic Maggi,4194
+667,Classic Margherita Pizza,5895
+668,Classic South Meals,757
+669,Clear Chicken Soup,6502
+670,Clubbed Chicken Tower Burger,7465
+671,Coconut,3194
+672,Coconut Barfi,5398
+673,Coconut Kulfi,6852
+674,Coconut Milk,5936
+675,Coconut Rice,3195 - 904
+676,Coffee,3442
+677,Coffee Ice Cream,7625
+678,Coffee Mocha Fantasy Cake,3728
+679,Cold Coffee,4323 - 4407
+680,Cold Coffee Milkshake,3253
+681,Cold Horlicks Milk,3245
+682,Coleslaw Sandwich,5399
+683,Colombian Chocolate Cheese Cake,9983
+684,Cone Cake,5836
+685,Continental Chicken Soup,3657
+686,Continental Non-Veg Meal,5402 - 5403 - 5405
+687,Continental Non-Veg Packed Meal,5408
+688,Cooker Mandi,10904
+689,Cookies,5661 - 6004
+690,Coriander Dosa,7321
+691,Coriander Rice,7322
+692,Corn Bread Omelette,4379
+693,Corn Chaat,3586
+694,Corn Cheese Momo,4374
+695,Corn Cheese Sandwich,4770
+696,Corn Flakes Chaat,3589
+697,Corn Idli,7323
+698,Corn Maggi,4193
+699,Corn Masala Dosa,6182
+700,Corn Mushroom Rice,6483
+701,Corn Pasta Cheese Salad,3539
+702,Corn Peanut Salad,3537
+703,Corn Peas Biryani,5009
+704,Corn Peas Salad,3538
+705,Corn Potato Burger,7467
+706,Corn Pulao,3216
+707,Corn Sandwich,4769
+708,Corn Spinach Cheese Sandwich,5413
+709,Corn Spinach Parcel,5958 - 5965
+710,Corn Spinach Sandwich,5414
+711,Corn Utthappam,6172
+712,Corn and Pepper Tossed Salad,3548
+713,Corn and Spinach Cheese Sandwich,4685
+714,Corn and Spinach Sandwich,4684
+715,Cottage Cheese and Pepper Steaks,3698
+716,Crab Omelette,4387
+717,Cranberry Smoothie,6822
+718,Cream Bun,4779
+719,Cream Cheese Bagel with Chia Seeds,10227
+720,Cream Chicken,4908
+721,Cream Paneer,4909
+722,Cream Roll,6248
+723,Cream Waffle,6004
+724,Creamy Chicken Sandwich,4688
+725,Creamy Oreo Sundae,4369
+726,Crispy Chicken,6303
+727,Crispy Chicken Corn Dog,4588
+728,Crispy Chilli Babycorn,5299
+729,Crispy Chilli Pepper Corn,5415
+730,Crispy Chilli Potato,5298 - 931 - 5416
+731,Crispy Chilly Potato,6446
+732,Crispy Mushroom,7326
+733,Crispy Schezwan Vegetables,5417
+734,Crunchy Taco Bowl,10039
+735,Crunchy Taco Supreme Non Veg,9973
+736,Crunchy Taco Supreme Veg,9968
+737,Crunchy Wheat Taco,9977
+738,Crushers,4409
+739,Cucumber Dosa,7327
+740,Cupcakes,8197
+741,Curd,6604 - 3189 - 6605 - 6606 - 6607
+742,Curd Rice,6636 - 4360 - 903 - 6574 - 6638 - 4699 - 6637 - 4698 - 738
+743,Curd Vada,5682
+744,Curry Leaf Dosa,7328
+745,Curry Leaf Rice,7329
+746,Curry Leaves Rice,5978 - 6573
+747,Custard,3393
+748,Custard Apple Milkshake,3271
+749,Cut Fruits,7330
+750,Cutlet,4706 - 6594 - 4707
+751,Cutlet Chaat,3590 - 3563
+752,Cutlet Chana,6982
+753,Dabeli,7331
+754,Dahi,3587
+755,Dahi Bhalle Chaat,3564
+756,Dahi Bhel Chaat,3565
+757,Dahi Bhel Puri,7539
+758,Dahi Kachodi,7543
+759,Dahi Kachori,3575
+760,Dahi Papdi Chaat,3566
+761,Dahi Puri,6311 - 6596 - 6411
+762,Dahi Sev Puri,3576
+763,Dahi Vada,4356
+764,Dakshini Pulao,3219
+765,Dal,3488 - 4676
+766,Dal Fry,740 - 785
+767,Dal Kachori,4431
+768,Dal Khichdi,7721
+769,Dal Makhani,3490
+770,Dal Pappu,3489
+771,Dal Paratha,7085
+772,Dal Pulao,3217
+773,Dal Tadka,4653
+774,Dal Vada,833
+775,Danish Pastry,9991
+776,Dark Chocolate,5988
+777,Dark Chocolate Waffle,4407
+778,Dark White Waffle,7056
+779,Date Banana Walnut Cake,9994
+780,Dates Milkshake,3266
+781,Dates Pie,7334
+782,Dates Walnut Cake,7333
+783,Desi Butter Chicken,6286
+784,Dhaba Rice,3207
+785,Dhai,6421
+786,Dhal,6614
+787,Dhal Tadukan,6612
+788,Dhokla,3636
+789,Dhokla Sandwich,3637
+790,Dilkush,4240
+791,Dindigul Chicken Biryani,5424
+792,Dindigul Egg Biryani,7335
+793,Diwali Special Non Veg Meals,9946
+794,Domino's Achari Do Pyaza Pizza,10112 - 10090
+795,Domino's Al Fungi Gourmet Pizza,10449
+796,Domino's Blazing Chicken Paprika Pizza,10429
+797,Domino's Blazing Onion and Paprika Pizza,10113
+798,Domino's Champaran Mutton Pizza,10441
+799,Domino's Champaran Veg Pizza,10148 - 10127 - 10106
+800,Domino's Cheese Volcano BBQ Chicken Pizza,10425
+801,Domino's Cheese Volcano Blazing Chicken Pizza,10424
+802,Domino's Cheese Volcano Chicken Delight Pizza,10422
+803,Domino's Cheese Volcano Double Chicken Pizza,10423
+804,Domino's Cheese Volcano Farm House Pizza,10442
+805,Domino's Cheese Volcano Peppy Paneer Pizza,10443
+806,Domino's Cheese Volcano Veggie Paradise Pizza,10444
+807,Domino's Cheese and Corn Pizza,10138 - 10117 - 10096
+808,Domino's Chicken Dominator Pizza,10434
+809,Domino's Chicken Fiesta Pizza,10431
+810,Domino's Chicken Golden Delight Pizza,10432
+811,Domino's Chicken Keema Paratha Pizza,10428
+812,Domino's Chicken Pepperoni Gourmet Pizza,10447
+813,Domino's Chicken Pepperoni Pizza,10436
+814,Domino's Chicken Sausage Pizza,10426
+815,Domino's Corn Cheese Volcano Pizza,10445
+816,Domino's Corn and Cheese Paratha Pizza,10091
+817,Domino's Double Cheese Margherita Pizza,10115 - 10094
+818,Domino's Farmhouse Pizza,10140 - 10098
+819,Domino's Fiery Jalapeno and Paprika Pizza,10114
+820,Domino's Fiery Sausage Paprika Pizza,10430
+821,Domino's Indi Chicken Tikka Pizza,10437
+822,Domino's Indi Tandoori Paneer Pizza,10144 - 10123 - 10102
+823,Domino's Kosha Mangsho Pizza,10439
+824,Domino's Kosha Veg Pizza,10146 - 10125 - 10104
+825,Domino's Malai Chingri Pizza,10440
+826,Domino's Mexican Green Wave Pizza,10120
+827,Domino's Non Veg Supreme Pizza,10435
+828,Domino's Paneer Malai Pizza,10126
+829,Domino's Paneer Spice Supreme Pizza,10152 - 10131 - 10110
+830,Domino's Pepper Barbeque Chicken Pizza,10427
+831,Domino's Peppy Paneer Pizza,10139
+832,Domino's Primavera Gourmet Pizza,10448
+833,Domino's Smoked Chicken Gourmet Pizza,10446
+834,Domino's Spiced Double Chicken Pizza,10433
+835,Domino's The 4 Cheese Gourmet Pizza,10450
+836,Domino's The 4 Cheese Pizza,10124
+837,Domino's The 5 Feast Chicken Pizza,10438
+838,Domino's Veg Extravaganza Pizza,10143 - 10122 - 10101
+839,Domino's Veggie Buddies Pizza,10149 - 10128 - 10107
+840,Domino's Veggie Fiesta Pizza,10109
+841,Domino's Veggie Paradise Pizza,10142 - 10121 - 10100
+842,Donne Egg Biryani,7336
+843,Donne Mushroom Biryani,5089
+844,Donne Veg Biryani,7337
+845,Donut,43 - 10218
+846,Donuts,10201
+847,Dosa,3653 - 7339 - 7340 - 7338 - 7341 - 4744
+848,Double Chicken Treat Semizza,5879
+849,Double Chocolate Doughnut,4862
+850,Double Chocolate Waffle,7055
+851,Double Egg,4755
+852,Double Ka Meetha,7342
+853,Doughnut,4309
+854,Dragon Chicken,4650 - 934
+855,Dragon Chicken Biryani,8530
+856,Dragon Gobi,4629
+857,Dragon Milkshake,3272
+858,Dragon Paneer,5297
+859,Dragon Potato,6445 - 932
+860,Dragon Style,922 - 7374
+861,Dry Fruit Bhel Puri,7540
+862,Dry Fruit Kulfi,4999
+863,Dry Fruit Lassi,6844
+864,Dry Fruit Sundae,6868
+865,Dry Fruits Pulao,3223
+866,Dryfruit Milkshake,6854
+867,Dudhi Halva,3364
+868,Dugga Dugga,9820
+869,Dulce De Leche,6038
+870,Dum Aloo Curry,5426
+871,Dum Biriyani,6137
+872,Dum Biriyani - Chicken,6131
+873,Egg,758 - 10417 - 5380 - 5403 - 5408 - 7343 - 6089 - 5445 - 9791 - 5454 - 9773 - 5499 - 5504 - 7068 - 5532 - 5537 - 9778 - 6080 - 5584 - 5589 - 9777 - 9771
+874,Egg Appam,6369
+875,Egg Bajji,6110
+876,Egg Bhurji,5939 - 4352 - 6208 - 4192 - 5947
+877,Egg Biryani,6521 - 6324 - 692 - 3234 - 6094 - 6638
+878,Egg Bonda,6735 - 3634
+879,Egg Burger,6877
+880,Egg Cheese Sandwich,4681
+881,Egg Chicken,7074
+882,Egg Chilli,5427
+883,Egg Chilli Cheese Sandwich,4775
+884,Egg Chilli Garlic Noodles,5428
+885,Egg Chop,10658
+886,Egg Club Cheese Sandwich,4777
+887,Egg Club Sandwich,4776
+888,Egg Corn Sandwich,4774
+889,Egg Croissant,3707
+890,Egg Curry,760 - 6504 - 826 - 4351 - 6395 - 6377 - 6378 - 4694 - 4365 - 6717 - 6649 - 4363 - 4364 - 6192
+891,Egg Dinner,10537
+892,Egg Dosa,4608 - 730
+893,Egg Fatheera,6548
+894,Egg Fried Rice,6405 - 3496 - 6406
+895,Egg Hakka Noodles,5430
+896,Egg Hot Dog,3661
+897,Egg Kothu Parotta,5980
+898,Egg Kotthu Parotta,6514
+899,Egg Kuska Biryani,7344
+900,Egg Lollipop,8066
+901,Egg Maggi,3358
+902,Egg Masala,4444 - 818 - 4651 - 4652 - 6646 - 6188 - 6190
+903,Egg Masala Dosa,3720 - 734
+904,Egg Masala Sandwich,5431
+905,Egg Mayo Sandwich,4773
+906,Egg Mushroom Roll,9113
+907,Egg Noodles,6405 - 3493 - 6406
+908,Egg Oriental Salad,3550
+909,Egg Pakora,6734
+910,Egg Paneer,9114
+911,Egg Paniyaram,6741
+912,Egg Paratha,9828 - 9829
+913,Egg Podi Dosa,4748
+914,Egg Puff,3710 - 950
+915,Egg Rice Bowl,6660
+916,Egg Roast,4614
+917,Egg Roll,6978 - 4764 - 6977
+918,Egg Salad,3549
+919,Egg Sandwich,3595 - 4475 - 4474
+920,Egg Schezwan Fried Rice,5432
+921,Egg Schezwan Noodles,5433
+922,Egg Singapore Noodles,5434
+923,Egg Soup,7077
+924,Egg Thali,5862
+925,Egg Wrap,3665
+926,Egga Masala Cheese Sandwich,5435
+927,Eggless Cardamom Pistachio Cake,9911
+928,Eggless Cupcakes,8198
+929,Ela Ada,4219
+930,Elaichi Chai Tea,6871
+931,Elanchi,4206
+932,Elayada,4469
+933,Elayappam,6540
+934,Ellu Kobbari Sadam,7345
+935,Enna Pathiri,4245
+936,Espresso,9142
+937,Extra Cheese,6892
+938,Extra Rice,7456
+939,Extra Sweet,10400
+940,Fajita Wrap,6027
+941,Falafel,6998
+942,Falafel Roll,6994
+943,Falafel Vada,6997
+944,Falooda,6846
+945,Falooda Delight,6830
+946,Fiery Hot Peri Peri Maggi,5856
+947,Fig Milkshake,7564
+948,Filter Coffee,5436
+949,Fish,5381 - 5404 - 7374 - 5500 - 5533 - 5585 - 5590
+950,Fish Biriyani,5881
+951,Fish Biryani,4350
+952,Fish Curry,8035 - 3437 - 786
+953,Fish Dinner,10538
+954,Fish Finger,4139
+955,Fish Fried Kebab,3648
+956,Fish Fry,6768 - 3435
+957,Fish Fry Meals,6696
+958,Fish Manchurian,7375
+959,Fish Meals,6698
+960,Fish Mulaku Curry,4642
+961,Fish Omelette,4386
+962,Fish Podimas,8073
+963,Fish Polichathu,6955
+964,Fish Poth Chori,6281
+965,Fish Pulusu,5734
+966,Fish Tandoori,3436
+967,Fish Tandoori Kebab,3644
+968,Fish Tawa Kebab,3641
+969,Fish Thali,7124
+970,Fish and Chips,9074
+971,Flavoured Croissant,4905
+972,Flavoured Lassi,8065
+973,Flavoured Rice,5967 - 5966
+974,Focaccia Bread,3731
+975,Formaggio Pasta,4597
+976,French Fries,5885 - 3668 - 6051 - 5884
+977,French Toast,8212
+978,French Vanilla Soft clair,9996
+979,Fresh Lime Soda,6934
+980,Fried Cheese Momo,6086
+981,Fried Chicken Biriyani,6132
+982,Fried Chicken Biryani,6107 - 6108
+983,Fried Chicken Momo,5441
+984,Fried Chicken Rice,6404
+985,Fried Egg,6918 - 5442 - 3434
+986,Fried Egg Pasta,6948
+987,Fried Idli,8580
+988,Fried Paneer Momo,5443
+989,Fried Pav Bhaji,7536
+990,Fried Rice,6400 - 925
+991,Fried Veg Momo,5444
+992,Fries,5858
+993,Fruit Cake Slice,3409
+994,Fruit Custard,3392
+995,Fruit Custard Falooda,5092
+996,Fruit Lassi,5930
+997,Fruit Salad,7127 - 9777
+998,Fruit Smoothie,6853
+999,Fudgy Choconut,4346
+1000,Gajar Halwa,3365
+1001,Galangal Infused Thai Curry,10311
+1002,Garden Fresh Veggie Pizza,5904
+1003,Garden Veg,4346
+1004,Garlic Bread,8836 - 3671 - 10315
+1005,Garlic Butter Dosa,4738
+1006,Garlic Cheese Toast,4198
+1007,Garlic Chicken,824
+1008,Garlic Chicken Wing,6093
+1009,Garlic Fish Curry,819
+1010,Garlic Pinwheel,5964
+1011,Ghee Cookies,5660
+1012,Ghee Dosa,732 - 6163
+1013,Ghee Idli,6624
+1014,Ghee Jeera Pulao,740
+1015,Ghee Karam Dosa,6164 - 6177
+1016,Ghee Laddu,5783
+1017,Ghee Masala Dosa,5909
+1018,Ghee Onion Dosa,4741
+1019,Ghee Onion Podi Dosa,4743
+1020,Ghee Onion Roast Dosa,4609
+1021,Ghee Podi Dosa,4740
+1022,Ghee Rice,3214 - 6534 - 6059 - 6061 - 10313
+1023,Ghee Roast Dosa,4606
+1024,Ghee Set Dosa,6174
+1025,Ghee Vada,4211
+1026,Ghoogni,7049
+1027,Ghugni,4421
+1028,Ginger Coffee,7247
+1029,Ginger Elaichi Chai Tea,6873
+1030,Ginger Rice,6485
+1031,Ginger Soup,7300
+1032,Ginger Chai Tea,4138
+1033,Goan Fish Curry,9043
+1034,Gobhi Paratha,5446
+1035,Gobi 65,5097
+1036,Gobi 65 Biryani,6099 - 5912
+1037,Gobi Bhajji,3626
+1038,Gobi Chili,5882
+1039,Gobi Chilli Dry,5447
+1040,Gobi Corn Dosa,7130
+1041,Gobi Fried Rice,6580
+1042,Gobi Manchurian,4630 - 6423 - 4701
+1043,Gobi Masala,6618
+1044,Gobi Mushroom Masala Dosa,7474
+1045,Gobi Onion Paratha,7131
+1046,Gobi Paratha,7132 - 6605
+1047,Gobi Pepper Dry,7133
+1048,Gobi Pepper Masala Dosa,7473
+1049,Gobi Pulao,5449
+1050,Gobi Pyaz Paratha,6757
+1051,Gobindo Bhug Chaaler Payesh,5785
+1052,Gol Bhajji,3621
+1053,Golden Corn Pizza,7764
+1054,Gongura Chicken,5450
+1055,Gongura Chicken Biryani,5725
+1056,Gongura Mutton Biryani,5731
+1057,Gongura Veg Biryani,6125
+1058,Gothamb Pradhaman,9498
+1059,Grape Juice,10249
+1060,Greek Farm House Salad,9782 - 9791 - 9792
+1061,Greek Salad,9076
+1062,Green Grapes Milkshake,7134
+1063,Green Mirchi Chicken Biryani,5728
+1064,Green Mirchi Mutton Biryani,5733
+1065,Green Moong Dal,820
+1066,Green Moong Usli,4437
+1067,Green Moong Vada,3609
+1068,Green Moongdal Masala Dosa,7135
+1069,Green Peas Masala,6679
+1070,Green Peas Masala Dosa,4747
+1071,Green Peas Paratha,7136
+1072,Green Peas Poha,7137
+1073,Green Tea,3447
+1074,Greens Salad,8963
+1075,Grill Chicken Cheese Sandwich,5451
+1076,Grill Chicken Sandwich,5452
+1077,Grilled Chicken,6284 - 3700
+1078,Grilled Chicken Cheese Sandwich,4691
+1079,Grilled Chicken Salad,8964
+1080,Grilled Chicken Sandwich,4690
+1081,Grilled Fish Salad,9033
+1082,Ground Nut,6203
+1083,Guacamole,7139
+1084,Guava,3529
+1085,Guava Juice,4780
+1086,Guava Milk Shake,7140
+1087,Guava Mojito,7631
+1088,Gud Bud Sundae,6869
+1089,Gud Chai Tea,4568
+1090,Gud Kesar Chai Tea,4553
+1091,Gujiya,10240
+1092,Gulab Jamun,6202 - 3366
+1093,Gulkand Lassi,7141
+1094,Gun Chicken,6766
+1095,Gup Chup Chat,6979
+1096,Gurer Talas,10530
+1097,Habanero Burrito,9974 - 9969
+1098,Hakka Noodles,6495 - 6403 - 6398 - 930 - 929
+1099,Half Fry Egg,5453
+1100,Halwa,8200
+1101,Harayali Chicken Tikka,7142
+1102,Hare Mutter Paneer Ke Kofte,10308
+1103,Haryali Kebab,5455
+1104,Hash Brown Short Balls,6996
+1105,Hawaiian Salad,9776 - 9773 - 9787 - 9772
+1106,Hazelnut Coffee,-1
+1107,Hazelnut Milk Shake,3264
+1108,Hazelnut Soft clair,9995
+1109,Healthy Ragi Malt,3327
+1110,Heart Shape Pan Cake,9925
+1111,Heerekai Bajji,7143
+1112,Homemade Chocolates,5829
+1113,Honey,7262 - 3672
+1114,Honey Almond Cake,3403
+1115,Honey Almond Tart,7145
+1116,Honey Cake,3424
+1117,Honey Chilly Cauliflower,6453
+1118,Honey Lemon Chicken,5303
+1119,Hong Kong Chicken Fried Rice,8560
+1120,Horse Mackerel Fry Fish,8757
+1121,Hot And Sour Chicken Soup,6500
+1122,Hot And Sour Soup,6498
+1123,Hot Chocolate,3240
+1124,Hot Chocolate Sundae,6864
+1125,Hot Garlic Sauce,5627
+1126,Hot Horlicks,3241
+1127,Hot Sour Pepper Chicken Soup,5285
+1128,Hot Sour Pepper Veg Soup,5283
+1129,Hyderabadi Chicken Biryani,6136 - 5456
+1130,Hyderabadi Chicken Curry,8563
+1131,Hyderabadi Chicken Dum Biryani,5457
+1132,Hyderabadi Egg Biryani,7147
+1133,Hyderabadi Mutton Biryani,5458
+1134,Hyderabadi Mutton Dum Biryani,5459
+1135,Hyderabadi Paneer Biryani,5460
+1136,Hyderabadi Paneer Dum Biryani,5461
+1137,Hyderabadi Veg Biryani,5462
+1138,Hyderabadi Veg Dum Biryani,5463
+1139,INVALID RESPONSE LLM,1076
+1140,Ice Coffee,9799
+1141,Ice Cream,7001 - 7330 - 7127 - 8569 - 4404 - 4402 - 6952
+1142,Ice Cream Milkshake,8202
+1143,Ice Cream Waffle Cone,4396
+1144,Ice Popsicle,8209
+1145,Iced Tea,6254
+1146,Idiappam,6364
+1147,Idiyappam,6961 - 6705 - 4694 - 6759 - 4695 - 5936 - 1070
+1148,Idli,745 - 744 - 3651 - 1308 - 724 - 723 - 4456 - 4454 - 3330 - 7150 - 3332 - 10319 - 546 - 6561 - 6566 - 6567 - 6551
+1149,Idli Manchurian,7148
+1150,Idli Soup,7149
+1151,Idly,6728
+1152,Idyappam,6565
+1153,Ilish Begun Bori Jhol,6121 - 6117
+1154,Ilish Bhapa,6115 - 6119
+1155,Ilish Paturi,6122 - 6118
+1156,Imarti,9958
+1157,Indian Lentil Soup,7151
+1158,Indian Meal Bowl,4850
+1159,Indonesian Noodles,6399
+1160,Indori Poha,5464
+1161,Irachi Pathiri,4229
+1162,Irish Frappe,6813
+1163,Italian Pasta,6949
+1164,Jack Fruit Fry Biryani,5723
+1165,Jack Fruit Pulao,6196
+1166,Jackfruit Milkshake,7154
+1167,Jaggery Coffee,7155
+1168,Jaggery Chai Tea,4732
+1169,Jal Jeera,3319
+1170,Jalapeno Pizza,5965 - 5961
+1171,Jalebi,4238 - 3384 - 3367
+1172,Jam Bun,4778
+1173,Jam Maska Bun,5465
+1174,Jam Roll,4239
+1175,Jangiri,7565
+1176,Jeera,6202
+1177,Jeera Aloo Dry,5466
+1178,Jeera Masala Soda,6944
+1179,Jeera Rice,3210 - 6536 - 10314
+1180,Jeera Samba Chicken Biryani,10173
+1181,Jeera Soda,6676
+1182,Jhakkas Jamun,463
+1183,Jharkand Khicadi,791
+1184,Jhula Gur,10529
+1185,Jigarthanda,8056
+1186,Jola Akki Dosa,7156
+1187,Joy Nagar Moa,10532
+1188,Juice,4953
+1189,Kacha Cheese Sandwich,6417
+1190,Kacha Sandwich,6416
+1191,Kachauri,6780
+1192,Kachche Gosht Ki Biryani,10172
+1193,Kachori,4137
+1194,Kachori Chaat,3567
+1195,Kadai Chicken,4655
+1196,Kadai Paneer,817
+1197,Kadai Veg,6063
+1198,Kadala,4244 - 4616
+1199,Kadala Curry,7100 - 7339 - 6759 - 6956 - 6758 - 7163
+1200,Kadalacurry,776
+1201,Kadalai Curry,1070
+1202,Kadhai Chicken,5467
+1203,Kadhai Doodh,3243
+1204,Kadhai Paneer,5468
+1205,Kadhi Chawal,7158
+1206,Kahwa Kesari,4569
+1207,Kai Holige,7160
+1208,Kaipola,4227
+1209,Kaju Katli,5469
+1210,Kakka Roast,6056
+1211,Kal Dosa,548 - 4455 - 6562 - 6758 - 4697 - 4554
+1212,Kala Jamun,3368
+1213,Kalakand,3369
+1214,Kali Dosa,4610
+1215,Kanchipuram Idli,10317
+1216,Kanji,4669
+1217,Kappa,4205
+1218,Kappa Biriyani,4611
+1219,Kappa Puzhukku,4224
+1220,Kara Pori,6297
+1221,Kara Sev,6206
+1222,Karamani,5658
+1223,Karampodi Dosa,6150
+1224,Karampodi Masala Dosa,6151
+1225,Karela Bhaji,3627
+1226,Karimeen Fry,6057
+1227,Kathal Biryani,5470
+1228,Kathal Dum Biryani,5471
+1229,Katori Chaat,3568
+1230,Kaya Bajji,6109
+1231,Kazhi,8051 - 8052
+1232,Keema Balls,7161
+1233,Keema Samosa,3633
+1234,Keera Kootu,810
+1235,Keera Rice,4699
+1236,Keera Vada,834
+1237,Keerai Vada,3610 - 6592
+1238,Kerala Chicken Biryani,5472
+1239,Kerala Chicken Dum Biryani,5473
+1240,Kerala Chicken Meal,6963
+1241,Kerala Egg Biryani,7173
+1242,Kerala Fish Biryani,7174
+1243,Kerala Fish Curry,6287
+1244,Kerala Fish Meal,6964
+1245,Kerala Mutton Biryani,5474
+1246,Kerala Mutton Dum Biryani,5475
+1247,Kerala Non Veg Thali,6280
+1248,Kerala Paratha,4641 - 7163 - 6535 - 6538
+1249,Kerala Parotta,6285
+1250,Kerala Veg Meal,6962
+1251,Kerala Veg Thali,6279
+1252,Kesar Badam Lassi,6842
+1253,Kesar Badam Milk,6874
+1254,Kesar Bhog,7015
+1255,Kesar Falooda,6848
+1256,Kesar Peda,3385
+1257,Kesar Pista,4854
+1258,Kesar Pista Kulfi,4998
+1259,Kesar Pista Lassi,5928
+1260,Kesar Pista Phirni,7083
+1261,Kesari Bath,3389
+1262,Kesari Chai Tea,4567
+1263,Khaja,10406
+1264,Khandvi,3638
+1265,Khao Suey With Vegetables,4580
+1266,Khaosuey,4577
+1267,Khara Bath,4619
+1268,Khara Boondhi,10260
+1269,Kheer Bati,5788
+1270,Kheer Kadam,5782
+1271,Khichdi,4621
+1272,Khus Ka Sherbet,3320
+1273,Kilimeen Fry,7556
+1274,Kimchi Fried Rice,4574 - 4576
+1275,Kinnathappam,6835
+1276,Kinoo Juice,3299
+1277,Kirni Juice,1171
+1278,Kit Kat Milkshake,6817
+1279,Kit Kat Peanut Butter Shake,7165
+1280,Kitkat Milkshake,6926
+1281,Kitkat Waffle,6001
+1282,Kiwi Fruit Milkshake,7166
+1283,Kiwi Lassi,4394
+1284,Kiwi Pastry,4879
+1285,Kizhangu,4247
+1286,Kizhi Biriyani,6135 - 6142 - 6141 - 6130
+1287,Kodubale,10253 - 866
+1288,Kokum Sharbat,3321
+1289,Kola Urundai,4136
+1290,Kola Vada,6773
+1291,Koli Saru,9044
+1292,Kolkata Chicken Biryani,5476
+1293,Kolkata Chicken Dum Biryani,5477
+1294,Kolkata Egg Biryani,5091
+1295,Kolkata Mutton Biryani,5478
+1296,Kolkata Mutton Dum Biryani,5479
+1297,Kolukattai,7000
+1298,Kootu,6390
+1299,Koozhu,8062
+1300,Kothu Parotta,7168
+1301,Kotthimera Chicken Dum Biryani,5913
+1302,Kozhi Ada,4226
+1303,Kozhi Kari Soru,6639 - 762
+1304,Kozhi Vadai,6767
+1305,Kozhi Varutha Curry,813
+1306,Kozhukatta,4242
+1307,Kozhukkatta,4218
+1308,Krunchy Choco Custard Doughnut,4876
+1309,Kuboos,7366
+1310,Kulfi,7171
+1311,Kulfi Falooda,6847
+1312,Kulfi Milkshake,6927
+1313,Kung Pao Chicken,6479
+1314,Kungpao Cauliflower,6469
+1315,Kurkure Chatpata Cheese Namkeen,2320 - 2317
+1316,Kurkure Cheese Momo,6088
+1317,Kurkure Veg Momo,6087
+1318,Kurma,749 - 748 - 6608 - 6565 - 6610
+1319,Kuska Biryani,6356
+1320,Kuttu Parotta,4623
+1321,Lachha Paratha,5132
+1322,Lactose Free Milk,4910
+1323,Laddu,4236
+1324,Lassi,3315
+1325,Latte,4086
+1326,Lauer Payesh,5786
+1327,Lazeez Bhuna Chicken Biryani,6989
+1328,Lazeez Chicken Dum Biryani,1573
+1329,Lazy Daisy Cake,6037
+1330,Leaf Plate,8081
+1331,Lebanese Chicken Sandwich,7007
+1332,Lebanese Shawarma,6542
+1333,Lemon,8878 - 10175
+1334,Lemon Chicken,6480
+1335,Lemon Chicken Dry,5480
+1336,Lemon Honey Chai Tea,9793
+1337,Lemon Ice Tea,4449
+1338,Lemon Juice,6722
+1339,Lemon Masala,8880
+1340,Lemon Rice,3203 - 4365 - 10318 - 6571 - 902
+1341,Lemon Semiya,7172
+1342,Lemon Sevai,862
+1343,Lemon Sherbet,7188
+1344,Lemon Soda,7546 - 4406
+1345,Lemon Tea,3446
+1346,Lemony Orange Soda,5885
+1347,Lime,8957
+1348,Lime Dew,5026
+1349,Lobia Pulao,3220
+1350,Lobia Vada,3611
+1351,Lobster Omelette,4388
+1352,Lollipop Chicken,5300
+1353,Lotus Biscoff,9408
+1354,Lotus Cheese Cake,9982
+1355,Luchi,4421 - 5867
+1356,Lucknowi Chicken Biryani,5481
+1357,Lucknowi Chicken Dum Biryani,5482
+1358,Lucknowi Mutton Biryani,5483
+1359,Lucknowi Mutton Dum Biryani,5484
+1360,Lucknowi Paneer Biryani,5485
+1361,Lucknowi Paneer Dum Biryani,5486
+1362,Lucknowi Veg Biryani,5487
+1363,Lucknowi Veg Dum Biryani,5488
+1364,Lychee Juice,6856
+1365,Lychee Lassi,6947
+1366,Lychee Milkshake,6924
+1367,Lychee Soda,6936
+1368,M Dew,92
+1369,Mac Cheese Pasta,4405
+1370,Macaroni Salad,3534
+1371,Mackerel Fish Fry,8750 - 8746
+1372,Maddur Vada,3606
+1373,Madurai Jigarthanda,6295
+1374,Maggi,5666 - 4192 - 83
+1375,Maggi Fries,5855
+1376,Maggi Manchurian,5665
+1377,Maggie,9918 - 9927
+1378,Makka Cholam,6310
+1379,Malabar Cake,4252
+1380,Malabar Chicken Curry,6073
+1381,Malabar Egg Roast,6958
+1382,Malabar Fish Curry,6054
+1383,Malabar Parotta,8883
+1384,Malabar Stew,6957
+1385,Malabar Trevally Fish Fry,8754
+1386,Malai,4856
+1387,Malai Cham Cham,3386
+1388,Malai Chicken,9826
+1389,Malai Kulfi,4996
+1390,Malai Sandwich,3370
+1391,Malaysian Curry Mee Chicken,4578
+1392,Malaysian Curry Mee With Vegetables,4581
+1393,Malpoa,5789
+1394,Malpua,3388
+1395,Manchow Chicken Soup,6501
+1396,Manchurian,923 - 752 - 754 - 750
+1397,Mangalore Bajji,7175
+1398,Mangalore Bonda,7176 - 6984
+1399,Mangalore Bun,7177
+1400,Mango Avocado Milkshake,6928
+1401,Mango Cake,3402
+1402,Mango Chicken Biryani,5914
+1403,Mango Custard Falooda,5093
+1404,Mango Dosa,7178
+1405,Mango Gateaux,9359
+1406,Mango Icecream,6860
+1407,Mango Juice,3300
+1408,Mango Lassi,4390
+1409,Mango Malai,4855
+1410,Mango Malai Kulfi,4997
+1411,Mango Masti Doughnut,4865
+1412,Mango Milkshake,3279
+1413,Mango Mojito,6889
+1414,Mango Mousse,4166
+1415,Mango Pastry,4168
+1416,Mango Pheni,7553
+1417,Mango Rice,3204 - 908
+1418,Mango Rice Bowl,4987
+1419,Mango Rosogolla,5790
+1420,Mango Salad,5108
+1421,Mango Seer Fish Curry,6704
+1422,Mango Smoothie,6818
+1423,Mango Trifle,7346
+1424,Marble Cake,8765
+1425,Marble Fruit Cake,8766
+1426,Margherita,4599
+1427,Margherita Cheese Pizza,4404
+1428,Margherita Pizza,5964 - 4968
+1429,Masala,9579
+1430,Masala Bonda,4207
+1431,Masala Chaat,5872
+1432,Masala Chai Tea,4318
+1433,Masala Cheese Sandwich,7544
+1434,Masala Chicken Tikka Wrap,5877
+1435,Masala Corn,7347
+1436,Masala Dosa,547 - 6145
+1437,Masala Egg Curry,8564
+1438,Masala Fried Fish,6344 - 811
+1439,Masala Gobi Pulao,3230
+1440,Masala Idli,5489
+1441,Masala Jeera Soda,5884
+1442,Masala Kurma Raitha,6609
+1443,Masala Maggie,5664
 1444,Masala Omelette,4383 - 5490
 1445,Masala Paapad,6731
 1446,Masala Paneer Tikka Wrap,5876
@@ -1766,7 +1766,7 @@ id,name,trace_ids
 1765,Palak Set Dosa,10415
 1766,Palak Vada,3612
 1767,Palamuri Chicken Biryani,5729
-1768,Pan Cake,5970 - 6729
+1768,Pancakes,5970 - 6729
 1769,Panakkam,3323
 1770,Paneer,6141
 1771,Paneer 555,8548

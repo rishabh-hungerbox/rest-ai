@@ -174,9 +174,12 @@ If the item name is 'Aloo Paratha' then match it with 'Aloo Paratha'
 If the item name is 'Aloo Paratha with curd' then match it with 'Aloo Paratha' and 'curd'
 if the item name is 'normal paratha' match it with 'paratha'
 if the item name is 'hot coffee' and 'hot coffee' is not present in the list, match it with 'coffee' instead of 'cold coffee'
+if the item name is 'Dosa' or 'Puloa' and 'Dosa' or 'Puloa' is not present in the list, match it with 'Dosa' or 'Pulao' exists in the list then it should be mapped to them instead of 'Masala Dosa' or 'Dal Pulao'
+Do not match 'Ground nut barfi' with 'Ground nut' as both items are very different and follow the same ideology. Return emplty json response in such cases
 You need to find the most appropriate root items for the given keyword and match it with them.
-The output should have the same number of items as the number of items in the keyword ('|' seperated).
+The output should have the same number of items as the number of items in the keyword ('|' seperated) or less (if match is not found).
 For each item in the keyword you must select the most appropriate root item.
+
 
 Format of the Response:
 Respond only in the following JSON format with double quotes and valid trailing commas:
@@ -184,11 +187,13 @@ Respond only in the following JSON format with double quotes and valid trailing 
 [
     {
         'id': <id1>,
-        'name': <name1>
+        'name': <name1>,
+        'relevance_score': <calculated_relevance_score>
     },
      {
         'id': <id2>,
-        'name': <name2>
+        'name': <name2>,
+        'relevance_score': <calculated_relevance_score>
     },
     ...
 ]```
