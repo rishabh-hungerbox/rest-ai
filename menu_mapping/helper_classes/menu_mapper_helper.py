@@ -50,7 +50,6 @@ class MenuMapperAI:
 
     def process_response(self, response, item_id_map) -> list:
         try:
-            response = str(response).replace("'", '"')
             root_items = json.loads(response.strip("```json").strip("```"))
         except Exception as e:
             print(f"Error processing response: {e}")
@@ -62,7 +61,7 @@ class MenuMapperAI:
                     }]
         filtered_items = []
         for item in root_items:
-            if str(item['id']) in item_id_map:
+            if item.get('id') and str(item['id']) in item_id_map:
                 item_data = item_id_map[str(item['id'])]
                 filtered_items.append({
                     "id": item_data['id'],

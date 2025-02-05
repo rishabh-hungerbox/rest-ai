@@ -175,6 +175,9 @@ If the item name is 'Aloo Paratha with curd' then match it with 'Aloo Paratha' a
 if the item name is 'normal paratha' match it with 'paratha'
 if the item name is 'hot coffee' and 'hot coffee' is not present in the list, match it with 'coffee' instead of 'cold coffee'
 if the item name is 'Dosa' or 'Puloa' and 'Dosa' or 'Puloa' is not present in the list, match it with 'Dosa' or 'Pulao' exists in the list then it should be mapped to them instead of 'Masala Dosa' or 'Dal Pulao'
+if the item name is 'Tea with Milk' then it should be mapped to 'Tea' instead of 'Masala Tea'
+if the item name is 'Muffins' then it should be mapped to 'Muffin'
+Note: Never map a veg item to non-veg item and vice versa.
 Do not match 'Ground nut barfi' with 'Ground nut' as both items are very different and follow the same ideology. Return emplty json response in such cases
 You need to find the most appropriate root items for the given keyword and match it with them.
 The output should have the same number of items as the number of items in the keyword ('|' seperated) or less (if match is not found).
@@ -200,7 +203,6 @@ Respond only in the following JSON format with double quotes and valid trailing 
 The LLM output should not contain any other text except the ```[{}]``` string [very important].
 The output must have the same number of items as the number of items in the keyword (seperated by '|').
 For example if the keyword is 'Poori' then the json output should contain only 1 item.
-if the keyword is 'Muffin' then the json output should contain only 1 item.
 If many result, arrange items in the order of relevance with most relevant item at the top.
 
 The 'keyword' is "
