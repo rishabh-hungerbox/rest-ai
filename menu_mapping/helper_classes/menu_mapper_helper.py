@@ -134,6 +134,7 @@ class MenuMapperAI:
         ranked_nodes = {}
 
         for data in input_data.values():
+            response = ''
             item = data['name']
             eval_prediction, eval_input = 'NULL', 'NULL'
             valid = True
