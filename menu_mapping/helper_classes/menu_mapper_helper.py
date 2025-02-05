@@ -265,7 +265,9 @@ def get_master_menu_response(child_menu_name: str):
     return ai.execute(child_menu_name)
 
 
-def process_data(data):
-    log = LLMLogs(model_name=ai.model, embedding_model=ai.embedding, prompt=ai.prompt)
-    log.save()
-    ai.generate_response(data, log.id)
+def process_data(data, log_id):
+    if not log_id:
+        log = LLMLogs(model_name=ai.model, embedding_model=ai.embedding, prompt=ai.prompt)
+        log.save()
+        log_id = log.id
+    ai.generate_response(data, log_id)

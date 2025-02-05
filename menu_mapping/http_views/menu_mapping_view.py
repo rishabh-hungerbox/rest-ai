@@ -4,6 +4,7 @@ from menu_mapping.helper_classes.menu_mapper_helper import get_master_menu_respo
 from menu_mapping.helper_classes.utility import MenuMappingUtility
 from io import TextIOWrapper
 import csv
+from menu_mapping.models import MenuMappingPrediction
 import threading
 
 
@@ -16,6 +17,7 @@ class MenuMapperAIView(APIView):
     
     def post(self, request):
         file = request.FILES['file']
+        log_id = request.data.get('log_id')
         
         if not file:
             return JsonResponse({'error': 'No file uploaded'}, status=400)
@@ -31,11 +33,16 @@ class MenuMapperAIView(APIView):
             if set(reader.fieldnames) != expected_headers:
                 return JsonResponse({'error': 'CSV headers do not match the expected format'}, status=400)
             
-            def process_rows():
+            def process_rows(log_id):
+                done_menu_ids = {}
+                if log_id:
+                    done_menu_ids = MenuMappingPrediction.objects.filter(log_id=log_id).values_list('menu_id', flat=True)
                 input_data = {}
                 rows = list(reader)
                 sorted_rows = sorted(rows, key=lambda row: int(row['id']))
                 for row in sorted_rows:
+                    if int(row['id']) in done_menu_ids:
+                        continue
                     normalized_item_name = MenuMappingUtility.normalize_string(row['name'])
                     input_data[row['id']] = {
                         "id": row['id'],
@@ -43,9 +50,9 @@ class MenuMapperAIView(APIView):
                         "mv_id": row['mv_id'],
                         "mv_name": row['mv_name']
                     }
-                process_data(input_data)
+                process_data(input_data, log_id)
             
-            thread = threading.Thread(target=process_rows)
+            thread = threading.Thread(target=process_rows, args=[log_id])
             thread.start()
             
             return JsonResponse({'message': 'File sent for Processing!'})
