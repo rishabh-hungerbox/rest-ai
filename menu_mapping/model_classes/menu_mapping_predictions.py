@@ -7,6 +7,7 @@ class MenuMappingPrediction(models.Model):
     menu_id = models.IntegerField()
     menu_name = models.CharField(max_length=255)
     corrected_menu_name = models.CharField(max_length=255)
+    quantitative_menu_name = models.CharField(max_length=255, null=True)
     master_menu_id = models.IntegerField()
     master_menu_name = models.CharField(max_length=255)
     eval_current = models.BooleanField(default=False)

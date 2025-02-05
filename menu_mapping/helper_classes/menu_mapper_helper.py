@@ -160,7 +160,8 @@ class MenuMapperAI:
                     eval_input = bool(eval_input == 'YES')
                     # ouput_text += f"{data['id']},{data['name']},{data['mv_id']},{data['mv_name']},'{eval_input}','NOT FOUND','NOT FOUND','NULL','0','NULL','NULL'\n"
                     prediction = MenuMappingPrediction(menu_id=data['id'], menu_name=data['name'], master_menu_id=data['mv_id'], master_menu_name=data['mv_name'], corrected_menu_name=item_data['name'],
-                                                       eval_current=eval_input, predicted_menu_name='NOT FOUND', eval_prediction=None, response='', ranked_nodes=ranked_nodes, log_id=log_id)
+                                                       eval_current=eval_input, predicted_menu_name='NOT FOUND', eval_prediction=None,
+                                                       response='', ranked_nodes=ranked_nodes, log_id=log_id, quantitative_menu_name=item_data['quantity_details'])
                     prediction.save()
                     continue
 

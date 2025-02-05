@@ -43,12 +43,15 @@ class ItemFormatter:
                     Spell correct 'rool' to 'roll', 'Subji' to 'sabji' and so on.
                     Note: Things like 'parotta' should not get converted to 'paratha' and 'Kal Dosa' should remain as 'Kal Dosa'.
                     Also get rid of unnecessary words like 'special' or 'spl' in the item name. Do not remove important things like 'non veg' or 'veg'
-                    Tell if the item is ambigious in name or not. Ambiguity arises with unspecific names like 'Chocolate Desire Heart', 'juice of the day', while specific names like 'desire heart cake', 'Juice' are not ambiguous.
-                    'Combo', 'Dinner', 'variety', 'Menu', 'Thali', 'Meal' and 'Lunch' may be considered as ambiguous as they don't specify any item. Any 'thali' item is ambiguous.
-                    But items like 'idli vada combo', 'basanti dum pulao mutton kosha combo' are not ambiguous as they state the items.
-                    Things like just 'sweet' are also ambiguous. But 'Kaju Katli Sweet' is not ambiguous as it is a specific item.
-                    Similarly 'sabji' is ambiguous but 'aloo sabji' is not ambiguous.
-                    But items like 'rice bowl', 'date and walnut cake', 'lemon water' are not ambiguous as it is a specific item.
+                    
+                    You need to determine whether an item name is ambiguous or specific. An item is considered ambiguous if its name is vague or generic, such as when it only states a category or uses unspecific descriptors. 
+                    For example, names like 'Chocolate Desire Heart' or 'juice of the day' are ambiguous. 
+                    Generic terms such as 'Combo', 'Dinner', 'Variety', 'Menu', 'Thali', 'Meal', and 'Lunch' are ambiguous because they don't specify any particular item. (Note: any item with 'thali' in its name is automatically considered ambiguous.) 
+                    A single word like 'sweet' or 'sabji' is ambiguous. On the other hand, an item is not ambiguous if it provides specific details about the item. 
+                    For instance, 'desire heart cake' or 'Juice' are considered specific. 
+                    Detailed names like 'idli vada combo', 'basanti dum pulao mutton kosha combo', 'Kaju Katli Sweet', 'aloo sabji', 'rice bowl', 'date and walnut cake', or 'lemon water' clearly indicate what the item is and are not ambiguous. 
+                    Note: Even though 'Tea' is a general term, it should be treated as a specific item, not an ambiguous one."
+
                     Also tell if the item is a retail store food item (mrp) or a restaurant dish (non_mrp).
                     Note: items like 'samosa', 'pakora', 'muffin', 'bread', 'Veg sandwich', 'curd' , 'Lemon Juice' and so on are not MRP items and are not ambiguous.
                     Formatted Name should have proper capitalization (start of each important word in capital) (look at the example below). 
