@@ -50,7 +50,7 @@ class MenuMapperAI:
 
     def process_response(self, response, item_id_map) -> list:
         try:
-            root_items = json.loads(response.strip("```json").strip("```"))
+            root_items = json.loads(str(response).strip("```json").strip("```"))
         except Exception as e:
             print(f"Error processing response: {e}")
             return [{
