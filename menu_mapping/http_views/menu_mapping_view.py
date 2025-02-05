@@ -42,8 +42,10 @@ class MenuMapperAIView(APIView):
                 sorted_rows = sorted(rows, key=lambda row: int(row['id']))
                 for row in sorted_rows:
                     if int(row['id']) in done_menu_ids:
+                        print(f'skip {row['id']}')
                         continue
                     normalized_item_name = MenuMappingUtility.normalize_string(row['name'])
+                    print(f'add {row['id']}')
                     input_data[row['id']] = {
                         "id": row['id'],
                         "name": normalized_item_name,
