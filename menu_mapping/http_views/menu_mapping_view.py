@@ -28,7 +28,7 @@ class MenuMapperAIView(APIView):
         try:
             decoded_file = TextIOWrapper(file.file, encoding='utf-8')
             reader = csv.DictReader(decoded_file)
-            expected_headers = {'id', 'name', 'order_count', 'qty', 'mv_id', 'mv_name', 'description'}
+            expected_headers = {'id', 'name', 'order_count', 'mv_id', 'mv_name'}
             
             if set(reader.fieldnames) != expected_headers:
                 return JsonResponse({'error': 'CSV headers do not match the expected format'}, status=400)
