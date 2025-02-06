@@ -177,6 +177,7 @@ if the item name is 'hot coffee' and 'hot coffee' is not present in the list, ma
 if the item name is 'Dosa' or 'Puloa' and 'Dosa' or 'Puloa' is not present in the list, match it with 'Dosa' or 'Pulao' exists in the list then it should be mapped to them instead of 'Masala Dosa' or 'Dal Pulao'
 if the item name is 'Tea with Milk' then it should be mapped to 'Tea' instead of 'Masala Tea'
 if the item name is 'Muffins' then it should be mapped to 'Muffin'
+If the item name is 'Veg Darjeeling Momo' then it should be mapped to 'Veg Momo'
 Note: Never map a veg item to non-veg item and vice versa.
 Do not match 'Ground nut barfi' with 'Ground nut' as both items are very different and follow the same ideology. Return emplty json response in such cases
 You need to find the most appropriate root items for the given keyword and match it with them.
