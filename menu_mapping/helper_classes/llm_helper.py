@@ -1,14 +1,23 @@
-import openai
 from llama_index.llms.openai import OpenAI
 import os
 from menu_mapping.helper_classes.utility import MenuMappingUtility
 import json
+from llama_index.llms.gemini import Gemini
+from llama_index.llms.anthropic import Anthropic
+from llama_index.llms.openai_like import OpenAILike
 
 
 class LLMHelper:
     def __init__(self, model, temperature=0.3):
-        openai.api_key = os.getenv('OPEN_API_KEY')
-        self.llm = OpenAI(model=model, temperature=temperature)
+        if "deepseek" in model:
+            # self.llm = DeepSeek(model=self.model, api_key=os.getenv('DEEP_SEEK_API_KEY'))
+            self.llm = OpenAILike(model="deepseek-chat", api_base="https://api.deepseek.com/v1", api_key=os.getenv('DEEP_SEEK_API_KEY'), is_chat_model=True)
+        elif "claude" in model:
+            self.llm = Anthropic(model=model, api_key=os.getenv('CLAUDE_API_KEY'))
+        elif "gemini" in model:
+            self.llm = Gemini(model=model, api_key=os.getenv('GEMINI_API_KEY'))
+        else:
+            self.llm = OpenAI(model=model, temperature=temperature)
 
     def execute(self, prompt):
         response = self.llm.complete(prompt)

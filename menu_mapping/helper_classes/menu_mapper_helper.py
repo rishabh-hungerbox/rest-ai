@@ -17,7 +17,7 @@ import sys
 from llama_index.core.postprocessor import LLMRerank
 from menu_mapping.helper_classes.utility import MenuMappingUtility
 from llama_index.llms.anthropic import Anthropic
-from etc.query_utility import QueryUtility
+from llama_index.llms.gemini import Gemini
 from menu_mapping.models import LLMLogs, MenuMappingPrediction
 
 
@@ -77,12 +77,13 @@ class MenuMapperAI:
                 original_text_metadata_key="original_text",
             )
 
-        # llm settings
         if "deepseek" in self.model:
             # self.llm = DeepSeek(model=self.model, api_key=os.getenv('DEEP_SEEK_API_KEY'))
             self.llm = OpenAILike(model="deepseek-chat", api_base="https://api.deepseek.com/v1", api_key=os.getenv('DEEP_SEEK_API_KEY'), is_chat_model=True)
         elif "claude" in self.model:
             self.llm = Anthropic(model=self.model, api_key=os.getenv('CLAUDE_API_KEY'))
+        elif "gemini" in self.model:
+            self.llm = Gemini(model=self.model, api_key=os.getenv('GEMINI_API_KEY'))
         else:
             self.llm = OpenAI(model=self.model, temperature=0.3)
         Settings.llm = self.llm
@@ -139,7 +140,7 @@ class MenuMapperAI:
             eval_prediction, eval_input = 'NULL', 'NULL'
             valid = True
 
-            item_data = ItemFormatter('gpt-4o-mini').format(item)
+            item_data = ItemFormatter('models/gemini-2.0-flash').format(item)
             print(f'Item Name: {item}, Formatted Name: {item_data['name']}, Ambiguous: {item_data['ambiguous']}, Is MRP: {item_data['is_mrp']}')
             if item_data['ambiguous']:
                 print("Ambiguous item, skipping...")
@@ -157,7 +158,7 @@ class MenuMapperAI:
                     ranked_nodes[info[0]] = info[1]
                 if len(nodes) == 0:
                     print("Reranker returned nothing !!!!!")
-                    eval_input = Evaluator('gpt-4o-mini').item_evaluator(data['mv_name'], item)
+                    eval_input = Evaluator('models/gemini-2.0-flash').item_evaluator(data['mv_name'], item)
                     eval_input = bool(eval_input == 'YES')
                     # ouput_text += f"{data['id']},{data['name']},{data['mv_id']},{data['mv_name']},'{eval_input}','NOT FOUND','NOT FOUND','NULL','0','NULL','NULL'\n"
                     prediction = MenuMappingPrediction(menu_id=data['id'], menu_name=data['name'], master_menu_id=data['mv_id'], master_menu_name=data['mv_name'], corrected_menu_name=item_data['name'],
@@ -202,12 +203,12 @@ class MenuMapperAI:
 
                 print(f"Child Menu Name: {item_data['name']}\nRelevant Items:\n{json.dumps(relevant_items, indent=4)}\n")
                 if root_item_name != '':
-                    eval_prediction = Evaluator('gpt-4o-mini').item_evaluator(root_item_name, item_data['name'])
-                    eval_input = Evaluator('gpt-4o-mini').item_evaluator(data['mv_name'], item_data['name'])
+                    eval_prediction = Evaluator('models/gemini-2.0-flash').item_evaluator(root_item_name, item_data['name'])
+                    eval_input = Evaluator('models/gemini-2.0-flash').item_evaluator(data['mv_name'], item_data['name'])
                     print(json.dumps(relevant_items[0], indent=4))
                 else:
                     root_item_name = 'NOT FOUND'
-                    eval_input = Evaluator('gpt-4o-mini').item_evaluator(data['mv_name'], item_data['name'])
+                    eval_input = Evaluator('models/gemini-2.0-flash').item_evaluator(data['mv_name'], item_data['name'])
                     print("None")
             eval_input = bool(eval_input == 'YES')
             eval_prediction = bool(eval_prediction == 'YES')
@@ -259,7 +260,7 @@ class MenuMapperAI:
 
 
 if not any("migrat" in arg for arg in sys.argv):
-    ai = MenuMapperAI(prompt_id=7, model="gpt-4o-mini", embedding="text-embedding-3-small", similarity_top_k=10, benchmark_on=False, debug_mode=False, sampling_size=50, with_reranker=True)
+    ai = MenuMapperAI(prompt_id=7, model="models/gemini-2.0-flash", embedding="text-embedding-3-small", similarity_top_k=10, benchmark_on=False, debug_mode=False, sampling_size=50, with_reranker=True)
 
 
 def get_master_menu_response(child_menu_name: str):
