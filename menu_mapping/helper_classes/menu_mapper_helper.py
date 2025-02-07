@@ -203,12 +203,12 @@ class MenuMapperAI:
 
                 print(f"Child Menu Name: {item_data['name']}\nRelevant Items:\n{json.dumps(relevant_items, indent=4)}\n")
                 if root_item_name != '':
-                    eval_prediction = Evaluator('models/gemini-2.0-flash').item_evaluator(root_item_name, item_data['name'])
-                    eval_input = Evaluator('models/gemini-2.0-flash').item_evaluator(data['mv_name'], item_data['name'])
+                    eval_prediction = Evaluator('gpt-4o-mini').item_evaluator(root_item_name, item_data['name'])
+                    eval_input = Evaluator('gpt-4o-mini').item_evaluator(data['mv_name'], item_data['name'])
                     print(json.dumps(relevant_items[0], indent=4))
                 else:
                     root_item_name = 'NOT FOUND'
-                    eval_input = Evaluator('models/gemini-2.0-flash').item_evaluator(data['mv_name'], item_data['name'])
+                    eval_input = Evaluator('gpt-4o-mini').item_evaluator(data['mv_name'], item_data['name'])
                     print("None")
             eval_input = bool(eval_input == 'YES')
             eval_prediction = bool(eval_prediction == 'YES')
