@@ -167,22 +167,38 @@ Respond only in the following JSON format with double quotes:
     ...
 ]"
 7,"The document contains a list of root food items, each with an ID, name, and vector score. Your task is to find matching items in the list based on the given 'keyword'.
-The keyword already has delimeter '|' seperated items.
+The keyword may contain delimeter '|' seperated items. If delimeter is present then you need to match each item in the keyword with the root items.
+The output must have the same number of items as the number of items in the keyword (seperated by '|').
+
 Example: 'idli | medu vada'
-You just need to match ith with 'idli' and medu vada' root items.
-If the item name is 'Aloo Paratha' then match it with 'Aloo Paratha'
+You just need to match ith with 'idli' and medu vada' root food items.
+
+Prioritize broader category matching if exact item is not found like
+'Veg Darjeeling Momo' if not found then it should be mapped to 'Veg Momo'
+'Black Channa Salad' if not found then it should be mapped to 'Veg Salad' instead of 'Black Channa Sundal'
+Please don't pointlessly match items just because they sound similar or have very similar spellings.
+
+You need to find the idea of the main component of the food item instead of blind word matching.
+if the item is 'Bhindi ki burji' then map it to 'Bhindi' instead of 'Egg Burji'
+
+But if exact match is there than all good like 'muffin' going with 'muffin'.
+Please do not match 'Ground nut barfi' with 'Ground nut' as both items are very different and follow the same ideology.
+
+Please never match a veg item to a non-veg item. That is the most important rule.
+Example: 'Veg Momo' should not be mapped to 'Chicken Momo' or 'Grill Cheese Sandwich' to 'Grill Chicken Cheese Sandwich'
+. Return emplty json response in such cases if any appropriate match is not found.
+
+
+Some more ideological examples:
+If the item name is 'Aloo Paratha' then match it with 'Aloo Paratha', if 'Aloo Paratha' is not present in the list then match it with 'Paratha'
 If the item name is 'Aloo Paratha with curd' then match it with 'Aloo Paratha' and 'curd'
 if the item name is 'normal paratha' match it with 'paratha'
 if the item name is 'hot coffee' and 'hot coffee' is not present in the list, match it with 'coffee' instead of 'cold coffee'
 if the item name is 'Dosa' or 'Puloa' and 'Dosa' or 'Puloa' is not present in the list, match it with 'Dosa' or 'Pulao' exists in the list then it should be mapped to them instead of 'Masala Dosa' or 'Dal Pulao'
 if the item name is 'Tea with Milk' then it should be mapped to 'Tea' instead of 'Masala Tea'
-if the item name is 'Muffins' then it should be mapped to 'Muffin'
-If the item name is 'Veg Darjeeling Momo' then it should be mapped to 'Veg Momo'
-Note: Never map a veg item to non-veg item and vice versa.
-Do not match 'Ground nut barfi' with 'Ground nut' as both items are very different and follow the same ideology. Return emplty json response in such cases
+
 You need to find the most appropriate root items for the given keyword and match it with them.
 The output should have the same number of items as the number of items in the keyword ('|' seperated) or less (if match is not found).
-For each item in the keyword you must select the most appropriate root item.
 
 
 Format of the Response:
@@ -202,7 +218,7 @@ Respond only in the following JSON format with double quotes and valid trailing 
     ...
 ]```
 The LLM output should not contain any other text except the ```[{}]``` string [very important].
-The output must have the same number of items as the number of items in the keyword (seperated by '|').
+
 For example if the keyword is 'Poori' then the json output should contain only 1 item.
 If many result, arrange items in the order of relevance with most relevant item at the top.
 

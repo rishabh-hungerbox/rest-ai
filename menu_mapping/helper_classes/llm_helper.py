@@ -52,28 +52,38 @@ class ItemFormatter:
                     Spell correct 'rool' to 'roll', 'Subji' to 'sabji' and so on.
                     Note: Things like 'parotta' should not get converted to 'paratha' and 'Kal Dosa' should remain as 'Kal Dosa'.
                     Also get rid of unnecessary words like 'special', 'spl', 'mini', 'jumbo', 'large', 'medium', 'small' in the item name. Do not remove important things like 'non veg' or 'veg'
-                    Convert 'dosai' to 'dosa'.
+                    Convert 'dosai' to 'dosa'. 'Gateaux' to 'cake'
 
                     You need to determine whether an item name is ambiguous or specific. A food item is considered ambiguous if its name is vague and not a specific food, such as when it only states unspecific descriptors.
-                    For example, names like 'Chocolate Desire Heart', 'juice of the day' 'Paneer Snacks', 'full non veg chicken meal' are ambiguous food items. As in snacks we can hav any item.
-                    Generic terms such as 'Dinner', 'Variety', 'Menu', 'Thali', 'Meal', and 'Lunch' are ambiguous because they don't specify any particular item. (Note: any item with 'thali' in its name is automatically considered ambiguous.) 
-                    
-                    A single word like 'sweet' or 'sabji' is ambiguous. On the other hand, an item is not ambiguous if it provides specific details about the item. 
-                    For instance, 'desire heart cake' or 'Juice' are considered specific.
-                    Not Ambigious Items -> 'idli vada combo', 'Veg Manchurian Noodle Combo' 'basanti dum pulao mutton kosha combo', 'Kaju Katli Sweet', 'aloo sabji', 'rice bowl', 'date and walnut cake'.
-                    Reason -> They clearly indicate what the item is and therefore are not ambiguous. 
-                    Note: 'dry fruit milkshake', 'Mango Masti', 'Chocolate Drink', 'Hot Chocolate', 'Butter Scotch Ice Cream Shake', 'Death By Chocolate' are specific enough for this usecase and thus are not ambiguous.
-                    Note: single fruit and vegetable names are not ambiguous and are specific for this usecase.
-                    Note: Even though 'Tea', 'Biscuit' is a general term, it should be treated as a specific item, not an ambiguous one."
+                    Given are precious examples/ rules that will help you determine if an item is ambiguous or not.
+                    Ambiguous Items:
+                    - Vague descriptors: 'Chocolate Desire Heart', 'juice of the day', 'Paneer Snacks', 'full non veg chicken meal'.
+                    - Generic meal terms: 'Dinner', 'Variety', 'Menu', 'Meal', 'Lunch', 'Chapati Non Veg'.
+                    - Contains 'Thali': any item with 'thali' in its name.
+                    - Single flavour names: 'chocolate', 'mango', 'strawberry', 'butterscotch', 'Blackcurrent'.
+                    - Non sepcific descriptors: 'sweet', 'sabji', 'Gravy', 'Veg Dish', 'Non Veg combo'.
+                    Non-Ambiguous Items:
+                    - Detailed items: 'desire heart cake', 'Juice'.
+                    - Combo/dish names: 'idli vada combo', 'Veg Manchurian Noodle Combo', 'basanti dum pulao mutton kosha combo', 'Kaju Katli Sweet', 'aloo sabji', 'rice bowl', 'date and walnut cake'.
+                    - Descriptive beverages/desserts: 'dry fruit milkshake', 'Mango Masti', 'Chocolate Drink', 'Hot Chocolate', 'Butter Scotch Ice Cream Shake', 'Death By Chocolate'.
+                    - Single fruit/vegetable names: (e.g., 'apple', 'banana' etc. are specific).
+                    - Common food items: 'Tea', 'Biscuit
 
                     Also tell if the item is a retail store food item (mrp) or a restaurant dish (non_mrp).
-                    Note: items like 'samosa', 'pakora', 'muffin', 'bread', 'Veg sandwich', 'curd' , 'Lemon Juice' and so on are not MRP items and are not ambiguous.
-                    Formatted Name should have proper capitalization (start of each important word in capital) (look at the example below).
-                    Note : 'Chicken Egg Biryani', 'Chicken paratha', 'Chicken Egg roll' are same single items while 'Chapati 3 Egg curry' should be separated like 'Chapati, Egg Curry'. 'Aloo Paratha - 1 No With Channa Masala - 60 Grm Curd' Should be separated like 'Aloo Paratha, Channa Masala, Curd'
-                    Items like 'fried rice chicken', 'usal pav', 'bread butter jam', 'oats apple jar', 'palak onion pakoda'and 'chicken fried rice' are single items.
-                    Note: Brand names should are important and should not be removed like 'Amul', 'Domino's' etc.
-                    Output should be in json format with double quotes and enclosed in ```json {} ```
-                    Output 'name' field should not contain any commas. Remove 'add on'/'addon' from input if present.
+                    MRP/Non-MRP Classification:
+                    - Non-MRP (Restaurant Dish): Items like 'samosa', 'pakora', 'muffin', 'bread', 'Veg Sandwich', 'curd', 'Lemon Juice'
+                    as well as all fruits/fruit juices and vegetables/vegetable dishes.
+                    - MRP (Retail Store): Packaged or branded items not covered above.
+                    
+                    Formatting & Splitting Rules:
+                    - Capitalization: Each important word must start with a capital letter (e.g., 'Chicken Egg Biryani').
+                    - Split Multi-Component Items: e.g., 'Chapati 3 Egg Curry' should become 'Chapati | Egg Curry'
+                    'Aloo Paratha - 1 No With Channa Masala - 60 Grm Curd' should become 'Aloo Paratha | Channa Masala | Curd'.
+                    - Single Items: 'Chicken Egg Biryani', 'Chicken Paratha', 'Chicken Egg Roll', 'oats apple jar', 'Palak Onion Pakoda' are treated as one item.
+                    - Remove any occurrence of 'add on' or 'addon'.
+                    - Preserve Brand Names: Do not remove brand names like 'Amul' or 'Domino's'.
+                    - Final Output: JSON format with double quotes enclosed in ```json { }``` and the 'name' field must not contain any commas
+
 
                     Example:
                     Input: '2 piece dossa & idlly 50 milligram 30 /- Rs'

@@ -242,9 +242,16 @@ class MenuMapperAI:
                     top_n=self.similarity_top_k,
                     llm=self.llm
                 )
-                print(f"Given Food Item - '{food}'. Find the most relevant food item. Give more priority to exact item name match.")
+                prompt = """Food Item - {food}.Given a food item (e.g., "Paneer Masala Kati Roll"), extract its main component (e.g., "Roll") and prioritize nodes that exactly match this component when finding the most relevant food item.
+                            Examples:
+
+                            "Paneer Masala Kati Roll" → Roll
+                            "Paneer Peri Peri Sandwich" → Sandwich
+                            "Bhindi ki bhurji" → Bhindi
+                            "Boiled Channa Salad" → Salad"""
+                print(prompt.format(food=food))
                 filter_nodes = reranker.postprocess_nodes(
-                    nodes, QueryBundle(f"Given Food Item - '{food}'. Find the most relevant food item. Give more priority to exact item name match.")
+                    nodes, QueryBundle(prompt.format(food=food))
                 )
                 print("ID,Food Item Name,Vector Score")
                 for node in filter_nodes:
