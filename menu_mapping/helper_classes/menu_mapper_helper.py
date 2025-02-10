@@ -141,7 +141,7 @@ class MenuMapperAI:
             valid = True
 
             item_data = ItemFormatter('models/gemini-2.0-flash').format(item)
-            print(f'Item Name: {item}, Formatted Name: {item_data['name']}, Ambiguous: {item_data['ambiguous']}, Is MRP: {item_data['is_mrp']}')
+            print(f'Item Name: {item}, Formatted Name: {item_data['name']}, Ambiguous: {item_data['ambiguous']}, Is MRP: {item_data['is_mrp']}, Quantity Details: {item_data['quantity_details']}')
             if item_data['ambiguous']:
                 print("Ambiguous item, skipping...")
                 valid = False
@@ -215,7 +215,7 @@ class MenuMapperAI:
             if root_item_name in ['AMBIGUOUS ITEM DETECTED', 'MRP ITEM DETECTED']:
                 eval_prediction = None
             prediction = MenuMappingPrediction(menu_id=data['id'], menu_name=data['name'], master_menu_id=data['mv_id'], master_menu_name=data['mv_name'], corrected_menu_name=item_data['name'],
-                                               eval_current=eval_input, predicted_menu_name=root_item_name, eval_prediction=eval_prediction, response=str(response), ranked_nodes=ranked_nodes, log_id=log_id)
+                                               eval_current=eval_input, predicted_menu_name=root_item_name, eval_prediction=eval_prediction, response=str(response), ranked_nodes=ranked_nodes, log_id=log_id, quantitative_menu_name=item_data['quantity_details'])
             prediction.save()
             # ouput_text = f"""{data['id']},{data['name']},{item_data['name']},{data['mv_id']},{data['mv_name']},{eval_input},{root_item_name},{eval_prediction}\n"""
             # with open(file_path, "a") as file:
