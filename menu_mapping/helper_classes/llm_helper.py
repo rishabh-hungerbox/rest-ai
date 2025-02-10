@@ -52,18 +52,18 @@ class ItemFormatter:
                     Spell correct 'rool' to 'roll', 'Subji' to 'sabji' and so on.
                     Note: Things like 'parotta' should not get converted to 'paratha' and 'Kal Dosa' should remain as 'Kal Dosa'.
                     Also get rid of unnecessary words like 'special', 'spl', 'mini', 'jumbo', 'large', 'medium', 'small' in the item name. Do not remove important things like 'non veg' or 'veg'
-                    Convert 'dosai' to 'dosa'. 'Gateaux' to 'cake'
+                    Convert 'dosai' to 'dosa'. 'Gateaux' to 'cake', 'Poori' to 'Puri'
 
                     You need to determine whether an item name is ambiguous or specific. A food item is considered ambiguous if its name is vague and not a specific food, such as when it only states unspecific descriptors.
                     Given are precious examples/ rules that will help you determine if an item is ambiguous or not.
                     Ambiguous Items:
                     - Vague descriptors: 'Chocolate Desire Heart', 'juice of the day', 'Paneer Snacks', 'full non veg chicken meal'.
-                    - Generic meal terms: 'Dinner', 'Variety', 'Menu', 'Meal', 'Lunch', 'Chapati Non Veg'.
+                    - Generic meal terms: 'Dinner', 'Variety', 'Menu', 'Meal', 'Lunch', 'Chapati Non Veg', 'Non Veg Rice'
                     - Contains 'Thali': any item with 'thali' in its name.
                     - Single flavour names: 'chocolate', 'mango', 'strawberry', 'butterscotch', 'Blackcurrent'.
                     - Non sepcific descriptors: 'sweet', 'sabji', 'Gravy', 'Veg Dish', 'Non Veg combo'.
                     Non-Ambiguous Items:
-                    - Detailed items: 'desire heart cake', 'Juice'.
+                    - Detailed items: 'desire heart cake', 'Juice', 'chapati', 'Paratha', 'Veg Nuggets', 'Sweet Lassi'
                     - Combo/dish names: 'idli vada combo', 'Veg Manchurian Noodle Combo', 'basanti dum pulao mutton kosha combo', 'Kaju Katli Sweet', 'aloo sabji', 'rice bowl', 'date and walnut cake'.
                     - Descriptive beverages/desserts: 'dry fruit milkshake', 'Mango Masti', 'Chocolate Drink', 'Hot Chocolate', 'Butter Scotch Ice Cream Shake', 'Death By Chocolate'.
                     - Single fruit/vegetable names: (e.g., 'apple', 'banana' etc. are specific).
@@ -74,12 +74,14 @@ class ItemFormatter:
                     - Non-MRP (Restaurant Dish): Items like 'samosa', 'pakora', 'muffin', 'bread', 'Veg Sandwich', 'curd', 'Lemon Juice'
                     as well as all fruits/fruit juices and vegetables/vegetable dishes.
                     - MRP (Retail Store): Packaged or branded items not covered above.
-                    
+                    - Note: 'Maggie', 'Horlicks', 'Boost', 'Bournvita', 'Mr Chicken Tikka Burger', 'Pesto Paneer Puff' items are Non-MRP items.
+
                     Formatting & Splitting Rules:
                     - Capitalization: Each important word must start with a capital letter (e.g., 'Chicken Egg Biryani').
                     - Split Multi-Component Items: e.g., 'Chapati 3 Egg Curry' should become 'Chapati | Egg Curry'
                     'Aloo Paratha - 1 No With Channa Masala - 60 Grm Curd' should become 'Aloo Paratha | Channa Masala | Curd'.
-                    - Single Items: 'Chicken Egg Biryani', 'Chicken Paratha', 'Chicken Egg Roll', 'oats apple jar', 'Palak Onion Pakoda' are treated as one item.
+                    - Single Items: 'Chicken Egg Biryani', 'Chicken Paratha', 'Chicken Egg Roll', 'oats apple jar', 'Palak Onion Pakoda', 'Strawberry Limeade', 
+                    'bread jam toast', 'bread butter jam', 'butter toast'are treated as one item. You get the idea.
                     - Remove any occurrence of 'add on' or 'addon'.
                     - Preserve Brand Names: Do not remove brand names like 'Amul' or 'Domino's'.
                     - Final Output: JSON format with double quotes enclosed in ```json { }``` and the 'name' field must not contain any commas
@@ -101,7 +103,7 @@ class ItemFormatter:
                     "ambiguous": 1,
                     "is_mrp": 0
                     }```
-                    
+
                     Input: 'veg manchurian noodle combo
                     Output:```json{
                     "name": "Veg Manchurian | Noodles",
@@ -109,7 +111,7 @@ class ItemFormatter:
                     "ambiguous": 0,
                     "is_mrp": 0
                     }```
-                    
+
                     Input: '1 litre of milk 50 -/'
                     Output:```json{
                     "name": "Milk",
