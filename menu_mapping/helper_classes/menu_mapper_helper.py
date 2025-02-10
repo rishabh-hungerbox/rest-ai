@@ -83,7 +83,7 @@ class MenuMapperAI:
         elif "claude" in self.model:
             self.llm = Anthropic(model=self.model, api_key=os.getenv('CLAUDE_API_KEY'))
         elif "gemini" in self.model:
-            self.llm = Gemini(model=self.model, api_key=os.getenv('GEMINI_API_KEY'))
+            self.llm = Gemini(model=self.model, api_key=os.getenv('GEMINI_API_KEY'), temperature=0.0, top_k=1, top_p=0)
         else:
             self.llm = OpenAI(model=self.model, temperature=0.3)
         Settings.llm = self.llm
