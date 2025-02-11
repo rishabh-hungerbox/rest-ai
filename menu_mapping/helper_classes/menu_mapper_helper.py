@@ -227,7 +227,7 @@ class MenuMapperAI:
         final_nodes = []
         vs_best, vs_score, llmre_best, llmre_score = 'NULL', 0, 'NULL', 0
         if self.with_reranker:
-            self.similarity_top_k = 15
+            self.similarity_top_k = 50
         self.retriever = self.global_index.as_retriever(similarity_top_k=self.similarity_top_k)
         nodes = self.retriever.retrieve(item_name)
         if len(nodes) > 0:
@@ -248,7 +248,9 @@ class MenuMapperAI:
                             "Paneer Masala Kati Roll" → Roll
                             "Paneer Peri Peri Sandwich" → Sandwich
                             "Bhindi ki bhurji" → Bhindi
-                            "Boiled Channa Salad" → Salad"""
+                            "Boiled Channa Salad" → Salad
+                            "Rose Tea" -> Tea
+                            "Dragon Juice" -> Juice"""
                 print(prompt.format(food=food))
                 filter_nodes = reranker.postprocess_nodes(
                     nodes, QueryBundle(prompt.format(food=food))

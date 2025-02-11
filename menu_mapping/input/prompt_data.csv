@@ -198,6 +198,7 @@ if the item name is 'Dosa' or 'Puloa' and 'Dosa' or 'Puloa' is not present in th
 if the item name is 'Tea with Milk' then it should be mapped to 'Tea' instead of 'Masala Tea'
 If the item name is 'Tandoori Cheese Sandwich' then it should be mapped to 'Cheese Sandwich' over 'Tandoori Cheese Pasta'
 if the item name is 'Murg Cutlet' then it should be mapped to 'Chicken Cutlet'
+if the item name is 'Butter Corn' then it should be mapped to 'Steamed Corn' instead of 'Butter Non'
 
 You need to find the most appropriate root items for the given keyword and match it with them.
 The output should have the same number of items as the number of items in the keyword ('|' seperated) or less (if match is not found).

@@ -52,29 +52,29 @@ class ItemFormatter:
                     Spell correct 'rool' to 'roll', 'Subji' to 'sabji' and so on.
                     Note: Things like 'parotta' should not get converted to 'paratha' and 'Kal Dosa' should remain as 'Kal Dosa'.
                     Also get rid of unnecessary words like 'special', 'spl', 'mini', 'jumbo', 'large', 'medium', 'small' in the item name. Do not remove important things like 'non veg' or 'veg'
-                    Convert 'dosai' to 'dosa'. 'Gateaux' to 'cake', 'Poori' to 'Puri'
+                    Convert 'dosai' to 'dosa'. 'Gateaux' to 'cake', 'Poori' to 'Puri', 'Pattice' to 'Patties'
 
                     You need to determine whether an item name is ambiguous or specific. A food item is considered ambiguous if its name is vague and not a specific food, such as when it only states unspecific descriptors.
                     Given are precious examples/ rules that will help you determine if an item is ambiguous or not.
                     Ambiguous Items:
-                    - Vague descriptors: 'Chocolate Desire Heart', 'juice of the day', 'Paneer Snacks', 'full non veg chicken meal'.
+                    - Vague descriptors: 'Chocolate Desire Heart', 'juice of the day', 'Paneer Snacks', 'full non veg chicken meal', 'Signature Non Veg Sandwich'
                     - Generic meal terms: 'Dinner', 'Variety', 'Menu', 'Meal', 'Lunch', 'Chapati Non Veg', 'Non Veg Rice'
                     - Contains 'Thali': any item with 'thali' in its name.
                     - Single flavour names: 'chocolate', 'mango', 'strawberry', 'butterscotch', 'Blackcurrent'.
                     - Non sepcific descriptors: 'sweet', 'sabji', 'Gravy', 'Veg Dish', 'Non Veg combo'.
                     Non-Ambiguous Items:
-                    - Detailed items: 'desire heart cake', 'Juice', 'chapati', 'Paratha', 'Veg Nuggets', 'Sweet Lassi'
+                    - Detailed items: 'desire heart cake', 'Juice', 'chapati', 'Paratha', 'Rice', 'Veg Nuggets', 'Sweet Lassi', 'Hi Tea', 'Choco Lava'
                     - Combo/dish names: 'idli vada combo', 'Veg Manchurian Noodle Combo', 'basanti dum pulao mutton kosha combo', 'Kaju Katli Sweet', 'aloo sabji', 'rice bowl', 'date and walnut cake'.
                     - Descriptive beverages/desserts: 'dry fruit milkshake', 'Mango Masti', 'Chocolate Drink', 'Hot Chocolate', 'Butter Scotch Ice Cream Shake', 'Death By Chocolate'.
                     - Single fruit/vegetable names: (e.g., 'apple', 'banana' etc. are specific).
-                    - Common food items: 'Tea', 'Biscuit
+                    - Common food items: 'Tea', 'Biscuit'
 
                     Also tell if the item is a retail store food item (mrp) or a restaurant dish (non_mrp).
                     MRP/Non-MRP Classification:
-                    - Non-MRP (Restaurant Dish): Items like 'samosa', 'pakora', 'muffin', 'bread', 'Veg Sandwich', 'curd', 'Lemon Juice'
+                    - Non-MRP (Restaurant Dish): Items like 'samosa', 'pakora', 'muffin', 'bread', 'Veg Sandwich', 'curd', 'Lemon Juice', 'Kaju Katli', 'Sunflower Seeds Roasted', 'Belgian Milk Chocolate', 'Naughty Nutella', 'Choco Truffle'
                     as well as all fruits/fruit juices and vegetables/vegetable dishes.
-                    - MRP (Retail Store): Packaged or branded items not covered above.
                     - Note: 'Maggie', 'Horlicks', 'Boost', 'Bournvita', 'Mr Chicken Tikka Burger', 'Pesto Paneer Puff' items are Non-MRP items.
+                    - MRP (Retail Store): Packaged or branded items not covered above. Like 'Amul xyz', 'Nestle xyz' and so on.
 
                     Formatting & Splitting Rules:
                     - Capitalization: Each important word must start with a capital letter (e.g., 'Chicken Egg Biryani').
@@ -118,9 +118,7 @@ class ItemFormatter:
                     "quantity_details": "Milk (1 l) [50 Rs]",
                     "ambiguous": 0,
                     "is_mrp": 0
-                    }```
-
-                    food item is """
+                    }"""
         response = LLMHelper(self.model).execute(f'{prompt}{item_name}')
         try:
             response = str(response).replace("'", '"')
