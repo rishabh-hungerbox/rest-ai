@@ -217,12 +217,12 @@ class MenuMapperAI:
                 if root_item_name in ['AMBIGUOUS ITEM DETECTED', 'MRP ITEM DETECTED']:
                     eval_prediction = None
                 prediction = MenuMappingPrediction(menu_id=data['id'], menu_name=data['name'], master_menu_id=data['mv_id'], master_menu_name=data['mv_name'], corrected_menu_name=item_data['name'],
-                                                eval_current=eval_input, predicted_menu_name=root_item_name, eval_prediction=eval_prediction, response=str(response), ranked_nodes=ranked_nodes, log_id=log_id, quantitative_menu_name=item_data['quantity_details'])
+                                                eval_current=eval_input, predicted_menu_name=root_item_name, eval_prediction=eval_prediction, response=str(response), ranked_nodes=ranked_nodes, log_id=log_id, quantitative_menu_name=item_data.get('quantity_details'))
                 prediction.save()
             except Exception as e:
                 print(f'Error: {str(e)}')
                 prediction = MenuMappingPrediction(menu_id=data['id'], menu_name=data['name'], master_menu_id=data['mv_id'], master_menu_name=data['mv_name'], corrected_menu_name=item_data.get('name'),
-                                                   eval_current=eval_input, predicted_menu_name=f'Error: {str(e)}', eval_prediction=eval_prediction, response=str(response), ranked_nodes=None, log_id=log_id, quantitative_menu_name=item_data.get('quantity_details'))
+                                                   eval_current=eval_input, predicted_menu_name=f'Error: {str(e)}', eval_prediction=eval_prediction, response=str(response), ranked_nodes=[], log_id=log_id, quantitative_menu_name=item_data.get('quantity_details'))
                 prediction.save()
             # ouput_text = f"""{data['id']},{data['name']},{item_data['name']},{data['mv_id']},{data['mv_name']},{eval_input},{root_item_name},{eval_prediction}\n"""
             # with open(file_path, "a") as file:
