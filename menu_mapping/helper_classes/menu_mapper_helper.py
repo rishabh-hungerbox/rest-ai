@@ -9,9 +9,7 @@ from menu_mapping.helper_classes.llm_helper import NutritionFinder
 from llama_index.llms.openai_like import OpenAILike
 from llama_index.core import QueryBundle
 from llama_index.embeddings.openai import OpenAIEmbedding
-from trulens.core import TruSession
 from dotenv import load_dotenv
-from menu_mapping.helper_classes.tru_lens_helper import TruLensHelper
 from llama_index.core.node_parser import SentenceWindowNodeParser
 import csv
 import sys
@@ -34,8 +32,6 @@ class MenuMapperAI:
         self.with_reranker = with_reranker
         self.app_id = f"prompt_{self.prompt_id}_{self.model}_{self.embedding}_top_k_{self.similarity_top_k}_with_reranker_{self.with_reranker}"
         self.sampling_size = sampling_size
-        self.tru = None
-        self.tru_recorder = None
         self.llm = None
 
         load_dotenv()
@@ -118,11 +114,6 @@ class MenuMapperAI:
             raise FileNotFoundError("Prompt file 'xyz.csv' not found")
         except Exception as e:
             raise Exception(f"Error reading prompt file: {str(e)}")
-
-    def get_trulens(self, query_engine):
-        tru = TruSession()
-        tru_recorder = TruLensHelper.get_prebuilt_trulens_recorder(query_engine, self.app_id)
-        return tru, tru_recorder
 
     def generate_response(self, input_data, log_id=None):
         RETRY_COUNT = 3
