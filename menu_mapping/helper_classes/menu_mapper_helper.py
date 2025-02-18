@@ -5,6 +5,7 @@ from menu_mapping.helper_classes.llm_helper import ItemFormatter, ItemSpellCorre
 from llama_index.core import Settings, VectorStoreIndex, Document, StorageContext, load_index_from_storage
 import os
 from datetime import datetime
+from menu_mapping.helper_classes.llm_helper import NutritionFinder
 from llama_index.llms.openai_like import OpenAILike
 from llama_index.core import QueryBundle
 from llama_index.embeddings.openai import OpenAIEmbedding
@@ -340,7 +341,20 @@ if not any("migrat" in arg for arg in sys.argv):
 
 
 def get_master_menu_response(child_menu_name: str):
-    return ai.execute(child_menu_name)
+    nutrition_finder = NutritionFinder('models/gemini-2.0-flash')
+    data = ai.execute(child_menu_name)
+    qty_details = data['quantity_details']
+    root_items_count = len(data['root_items'])
+    if root_items_count == 0:
+        return data
+    count = 0
+    for item in qty_details.split(' | '):
+        nutrition = nutrition_finder.find_nutrition(item)
+        data['root_items'][count]['nutrition'] = nutrition
+        count += 1
+        if count == root_items_count:
+            break
+    return data
 
 
 def process_data(data, log_id):

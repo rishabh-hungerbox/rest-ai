@@ -158,3 +158,54 @@ class Evaluator:
                             """
         answer = LLMHelper(self.model, temperature=0).execute(prompt)
         return answer
+
+
+class NutritionFinder:
+    def __init__(self, model):
+        self.model = model
+
+    def find_nutrition(self, item_name):
+        prompt = """Given the name of a food item and quantity details, return the average nutritional details of the item.
+                    Return energy, carbohydrates, fiber, protein, fat of the item.
+                    If quantity details are not provided, return the average nutritional details of the item for a default quantity associated with the item.
+                    Like Maggi 1 packet default value is 70 g.
+                    Always return quantity in gram or milliliter.
+                    - Final Output: JSON format with double quotes enclosed in ```json { }``` and the 'name' field must not contain any commas
+
+                    Input: 'idli 3 piece'
+                    Output:```json{
+                    "quantity": "150 gram (3 piece)",
+                    "energy": "189 kcal",
+                    "carbohydrates": "37.5 g",
+                    "fiber": "1.8 g",
+                    "protein": "6 g",
+                    "fat": "0.9 g"
+                    }```
+                    
+                    Input: 'Maggi'
+                    Output:```json{
+                    "quantity": "70 g (1 packet)",
+                    "energy": "320 kcal",
+                    "carbohydrates": "41.5 g",
+                    "fiber": "1.8 g",
+                    "protein": "6.5 g",
+                    "fat": "14.5 g"
+                    }```
+                    
+                    Please only return the output in the given format and nothing else.
+                    """
+        response = LLMHelper(self.model).execute(f'{prompt}{item_name}')
+        print('Response: ', response)
+        try:
+            response = str(response).replace("'", '"')
+            print(response.strip("```json").strip("```"))
+            formated_item = json.loads(response.strip("```json").strip("```"))
+        except Exception as e:
+            print(f"Error processing response: {e}")
+            return {
+                        "name": 'LLM JSON parsing failed',
+                        "ambiguous": 1,
+                        "is_mrp": 0
+                    }
+        
+        return formated_item
