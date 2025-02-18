@@ -85,6 +85,8 @@ class ItemFormatter:
                     - Remove any occurrence of 'add on' or 'addon'.
                     - Preserve Brand Names: Do not remove brand names like 'Amul' or 'Domino's'.
                     - Final Output: JSON format with double quotes enclosed in ```json { }``` and the 'name' field must not contain any commas
+                    
+                    Also tell if the item is veg or non-veg.
 
 
                     Example:
@@ -93,7 +95,8 @@ class ItemFormatter:
                     "name": "Dosa | Idli",
                     "quantity_details": "Dosa (2 piece) | Idli (50 mg) [30 Rs]",
                     "ambiguous": 0,
-                    "is_mrp": 0
+                    "is_mrp": 0,
+                    "is_veg": 1
                     }```
 
                     Input: 'glazed night snack'
@@ -101,15 +104,17 @@ class ItemFormatter:
                     "name": "glazed night snack",
                     "quantity_details": "glazed night snack",
                     "ambiguous": 1,
-                    "is_mrp": 0
+                    "is_mrp": 0,
+                    "is_veg": 1
                     }```
 
-                    Input: 'veg manchurian noodle combo
+                    Input: 'chicken manchurian noodle combo
                     Output:```json{
-                    "name": "Veg Manchurian | Noodles",
+                    "name": "Chicken Manchurian | Noodles",
                     "quantity_details": "Veg Manchurian | Noodles",
                     "ambiguous": 0,
-                    "is_mrp": 0
+                    "is_mrp": 0,
+                    "is_veg": 0
                     }```
 
                     Input: '1 litre of milk 50 -/'
@@ -117,11 +122,17 @@ class ItemFormatter:
                     "name": "Milk",
                     "quantity_details": "Milk (1 l) [50 Rs]",
                     "ambiguous": 0,
-                    "is_mrp": 0
-                    }"""
+                    "is_mrp": 0,
+                    "is_veg": 1
+                    }```
+                    
+                    Please only return the output in the given format and nothing else.
+                    """
         response = LLMHelper(self.model).execute(f'{prompt}{item_name}')
+        print('Response: ', response)
         try:
             response = str(response).replace("'", '"')
+            print(response.strip("```json").strip("```"))
             formated_item = json.loads(response.strip("```json").strip("```"))
         except Exception as e:
             print(f"Error processing response: {e}")

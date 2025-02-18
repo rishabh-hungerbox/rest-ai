@@ -12,8 +12,8 @@ class MenuMapperAIView(APIView):
     """ Get relevant master menus based on provided child menu name"""
     def get(self, request):
         menu_name = request.query_params.get('menu_name')
-        relevant_items = get_master_menu_response(menu_name)
-        return JsonResponse({'result': relevant_items})
+        data = get_master_menu_response(menu_name)
+        return JsonResponse(data, safe=False)
     
     def post(self, request):
         file = request.FILES['file']

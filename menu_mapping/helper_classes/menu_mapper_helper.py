@@ -46,7 +46,7 @@ class MenuMapperAI:
         self.prompt = self.fetch_prompt()
 
     def execute(self, child_menu_name):
-        return self.generate_response_debug(child_menu_name)
+        return self.get_master_menu_response(child_menu_name)
 
     def process_response(self, response, item_id_map) -> list:
         try:
@@ -143,6 +143,9 @@ class MenuMapperAI:
             try:
 
                 item_data = ItemFormatter('models/gemini-2.0-flash').format(item)
+                print('Formatted Item Data: ', item_data)
+
+                print('--------------------------------')
                 print(f'Item Name: {item}, Formatted Name: {item_data['name']}, Ambiguous: {item_data['ambiguous']}, Is MRP: {item_data['is_mrp']}, Quantity Details: {item_data.get('quantity_details')}')
                 if item_data['ambiguous']:
                     print("Ambiguous item, skipping...")
@@ -229,6 +232,63 @@ class MenuMapperAI:
             #     file.write(ouput_text)
 
         return
+    
+    def get_master_menu_response(self, child_menu_name):
+        RETRY_COUNT = 3
+        response = ''
+        try:
+            item_data = ItemFormatter('models/gemini-2.0-flash').format(child_menu_name)
+            print(f'{item_data['name']},{item_data['quantity_details']},{item_data['ambiguous']},{item_data['is_mrp']},{item_data['is_veg']}')
+            format_result = {
+                'name': item_data['name'],
+                'quantity_details': item_data['quantity_details'],
+                'is_ambiguous': item_data['ambiguous'],
+                'is_mrp': item_data['is_mrp'],
+                'is_veg': item_data['is_veg'],
+            }
+            if item_data['ambiguous'] or item_data['is_mrp']:
+                format_result['root_items'] = []
+                return format_result
+
+            nodes, _, _, _, _ = self.get_filtered_nodes(item_data['name'])
+            text = "ID,Food Item Name,Vector Score\n"
+            for node in nodes:
+                text += f"{node.node.text},{node.score}\n"
+
+            # preparing query engine on the filtered index
+            filtered_index = VectorStoreIndex.from_documents([Document(text=text)])
+            query_engine = filtered_index.as_query_engine(embeddings_enabled=True)
+
+            while RETRY_COUNT > 0:
+                try:
+                    response = query_engine.query(self.prompt + item_data['name'])
+                    break
+                except Exception as e:
+                    print(f"Error querying: {e}")
+                    RETRY_COUNT -= 1
+            RETRY_COUNT = 3
+            if not response:
+                raise Exception("LLM returned nothing even after retrying")
+            print("response: ", response)
+            relevant_items = self.process_response(response, self.item_id_map)
+            final_root_items = []
+            root_item_name = ''
+            items_added = 0
+            max_limit = len(item_data['name'].split(' | '))
+            for item in relevant_items:
+                if items_added >= max_limit:
+                    break
+                if items_added != 0:
+                    root_item_name += " | "
+                root_item_name += item['name']
+                final_root_items.append(item)
+                items_added += 1
+            format_result['root_items'] = final_root_items
+            format_result['root_item_name'] = root_item_name
+            return format_result
+
+        except Exception as e:
+            raise Exception(f'Error: {str(e)}')
 
     def get_filtered_nodes(self, item_name: str):
         final_nodes = []
