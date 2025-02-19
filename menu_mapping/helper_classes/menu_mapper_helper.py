@@ -87,17 +87,41 @@ class MenuMapperAI:
         Settings.embed_model = OpenAIEmbedding(model=self.embedding)
         Settings.node_parser = node_parser
 
-        # Build the index
-        if not os.path.exists("./menu_mapping_index_root"):
-            print("Creating index...")
-            index = VectorStoreIndex.from_documents(documents=documents)
-            index.storage_context.persist(persist_dir="./menu_mapping_index_root")
-            print("Index created successfully!")
-        else:
+        # Build the index using pgvector
+        from llama_index.vector_stores.postgres import PGVectorStore
+
+        vector_store = PGVectorStore.from_params(
+            database=os.getenv('DB_FIN_PG_DATABASE'),
+            host=os.getenv('DB_FIN_PG_HOST'),
+            password=os.getenv('DB_FIN_PG_PASSWORD'),
+            port=os.getenv('DB_FIN_PG_PORT'),
+            user=os.getenv('DB_FIN_PG_USERNAME'),
+            table_name="root_item_vectors",
+            embed_dim=1536,  # openai embedding dimension
+            hnsw_kwargs={
+                "hnsw_m": 16,
+                "hnsw_ef_construction": 64,
+                "hnsw_ef_search": 40,
+                "hnsw_dist_method": "vector_cosine_ops",
+            },
+        )
+
+        storage_context = StorageContext.from_defaults(vector_store=vector_store)
+        
+        try:
+            # Try to load existing index
             print("Loading pre-existing index...")
-            index = load_index_from_storage(
-                StorageContext.from_defaults(persist_dir="./menu_mapping_index_root"))
+            index = VectorStoreIndex.from_vector_store(vector_store=vector_store)
             print("Pre-existing Index loaded!")
+        except Exception as e:
+            print(f"Error loading pre-existing index: {str(e)}")
+            # Create new index if loading fails
+            print("Creating new index...")
+            index = VectorStoreIndex.from_documents(
+                documents=documents,
+                storage_context=storage_context
+            )
+            print("Index created successfully!")
 
         return index
 
@@ -131,7 +155,7 @@ class MenuMapperAI:
             item = data['name']
             eval_prediction, eval_input = 'NULL', 'NULL'
             valid = True
-            
+
             try:
 
                 item_data = ItemFormatter('models/gemini-2.0-flash').format(item)
@@ -159,8 +183,8 @@ class MenuMapperAI:
                         eval_input = bool(eval_input == 'YES')
                         # ouput_text += f"{data['id']},{data['name']},{data['mv_id']},{data['mv_name']},'{eval_input}','NOT FOUND','NOT FOUND','NULL','0','NULL','NULL'\n"
                         prediction = MenuMappingPrediction(menu_id=data['id'], menu_name=data['name'], master_menu_id=data['mv_id'], master_menu_name=data['mv_name'], corrected_menu_name=item_data['name'],
-                                                        eval_current=eval_input, predicted_menu_name='NOT FOUND', eval_prediction=None,
-                                                        response='', ranked_nodes=ranked_nodes, log_id=log_id, quantitative_menu_name=item_data.get('quantity_details'))
+                                                           eval_current=eval_input, predicted_menu_name='NOT FOUND', eval_prediction=None,
+                                                           response='', ranked_nodes=ranked_nodes, log_id=log_id, quantitative_menu_name=item_data.get('quantity_details'))
                         prediction.save()
                         continue
 
@@ -296,28 +320,9 @@ class MenuMapperAI:
 
             items = item_name.split(' | ')
             for food in items:
-                nodes = self.retriever.retrieve(food)
-                reranker = LLMRerank(
-                    top_n=self.similarity_top_k,
-                    llm=self.llm
-                )
-                prompt = """Food Item - {food}.Given a food item (e.g., "Paneer Masala Kati Roll"), extract its main component (e.g., "Roll") and prioritize nodes that exactly match this component when finding the most relevant food item.
-                            Examples:
-
-                            "Paneer Masala Kati Roll" → Roll
-                            "Paneer Peri Peri Sandwich" → Sandwich
-                            "Bhindi ki bhurji" → Bhindi
-                            "Boiled Channa Salad" → Salad
-                            "Rose Tea" -> Tea
-                            "Dragon Juice" -> Juice"""
-                print(prompt.format(food=food))
-                filter_nodes = reranker.postprocess_nodes(
-                    nodes, QueryBundle(prompt.format(food=food))
-                )
-                print("ID,Food Item Name,Vector Score")
-                for node in filter_nodes:
-                    print(f"- {node.node.text}, {node.score}")
-                final_nodes.extend(filter_nodes)
+                # TODO: need to call this in parallel in different threads
+                filtered_nodes = self.get_reranked_nodes(food)
+                final_nodes.extend(filtered_nodes)
         else:
             final_nodes = nodes
             print("ID,Food Item Name,Vector Score")
@@ -325,6 +330,30 @@ class MenuMapperAI:
                 print(f"- {node.node.text}, {node.score}")
 
         return final_nodes, vs_best, vs_score, llmre_best, llmre_score
+    
+    def get_reranked_nodes(self, food: str):
+        nodes = self.retriever.retrieve(food)
+        reranker = LLMRerank(
+            top_n=self.similarity_top_k,
+            llm=self.llm
+        )
+        prompt = """Food Item - {food}.Given a food item (e.g., "Paneer Masala Kati Roll"), extract its main component (e.g., "Roll") and prioritize nodes that exactly match this component when finding the most relevant food item.
+                    Examples:
+
+                    "Paneer Masala Kati Roll" → Roll
+                    "Paneer Peri Peri Sandwich" → Sandwich
+                    "Bhindi ki bhurji" → Bhindi
+                    "Boiled Channa Salad" → Salad
+                    "Rose Tea" -> Tea
+                    "Dragon Juice" -> Juice"""
+        print(prompt.format(food=food))
+        filter_nodes = reranker.postprocess_nodes(
+            nodes, QueryBundle(prompt.format(food=food))
+        )
+        print("ID,Food Item Name,Vector Score")
+        for node in filter_nodes:
+            print(f"- {node.node.text}, {node.score}")
+        return filter_nodes
 
 
 if not any("migrat" in arg for arg in sys.argv):
@@ -339,12 +368,12 @@ def get_master_menu_response(child_menu_name: str):
     if root_items_count == 0:
         return data
     count = 0
-    for item in qty_details.split(' | '):
-        nutrition = nutrition_finder.find_nutrition(item)
-        data['root_items'][count]['nutrition'] = nutrition
-        count += 1
-        if count == root_items_count:
-            break
+    # for item in qty_details.split(' | '):
+    #     nutrition = nutrition_finder.find_nutrition(item)
+    #     data['root_items'][count]['nutrition'] = nutrition
+    #     count += 1
+    #     if count == root_items_count:
+    #         break
     return data
 
 
